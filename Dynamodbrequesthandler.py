@@ -11,7 +11,7 @@ class DynamoDBRequestHandler:
         Args:
             table_name (str): The name of the DynamoDB table.
         """
-        self.dynamodb = boto3.resource('dynamodb', region_name='us-east-1')
+        self.dynamodb = boto3.resource('dynamodb', region_name='us-east-1')#specified region
         self.table = self.dynamodb.Table(table_name)
 
     def handle_request(self, request_type, body, key):
