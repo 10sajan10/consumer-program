@@ -2,6 +2,7 @@ import boto3
 import json
 import time
 from S3_read import S3RequestAndObjectReceiver
+import logging
 
 class S3RequestHandler:
     def __init__(self, target_bucket):
@@ -32,7 +33,7 @@ class S3RequestHandler:
             elif request_type == 'update':
                 self.update_object(body)
             else:
-                print(f"Unknown request type: {request_type}")
+                logging.error(f"Unknown request type: {request_type}")
 
 
 
@@ -45,17 +46,17 @@ class S3RequestHandler:
                 owner = "unidentified"
             target_key = f'widgets/{owner}/{widget_id}'
             self.s3_client.put_object(Bucket=self.target_bucket, Key=target_key, Body=json.dumps(body))
-            print(f'Created object at {target_key}')
+            logging.info(f'Created object at {target_key}')
         else:
-            print("Invalid data for creating object.")
+            logging.error("Invalid data for creating object.")
 
     def delete_object(self, key):
         """Delete an object from the target S3 bucket."""
-        print(f'Delete logic not yet implemented')
+        logging.error(f'Delete logic not yet implemented')
 
     def update_object(self, body):
         """Placeholder for updating an object in the target S3 bucket."""
-        print("Update logic not yet implemented.")
+        logging.error("Update logic not yet implemented.")
 
     def process_requests(self, source_bucket):
         """
@@ -77,3 +78,4 @@ class S3RequestHandler:
             else:
                 # Wait a while before checking again
                 time.sleep(0.1)  # Wait for 100 ms
+

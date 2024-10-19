@@ -1,0 +1,148 @@
+2024-10-19 16:45:38,659 - INFO - Processing S3 requests with widget bucket: usu-sajan-testbucket
+2024-10-19 16:45:38,718 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2024-10-19 16:48:19,127 - INFO - Processing S3 requests with widget bucket: usu-sajan-testbucket
+2024-10-19 16:48:19,154 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2024-10-19 16:51:06,697 - INFO - Processing S3 requests with widget bucket: usu-sajan-testbucket
+2024-10-19 16:51:06,721 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2024-10-19 16:52:41,102 - INFO - Processing S3 requests with widget bucket: usu-sajan-testbucket
+2024-10-19 16:52:41,125 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2024-10-19 16:52:41,661 - INFO - Smallest key: 1612306368338
+2024-10-19 16:52:42,298 - INFO - Created object at widgets/Mary Matthews/8123f304-f23f-440b-a6d3-80e979fa4cd6
+2024-10-19 16:52:42,451 - INFO - Smallest key: 1612306369227
+2024-10-19 16:52:42,690 - INFO - Created object at widgets/John Jones/ad0bb9e1-28e9-46e0-ad08-8192f4d3b6c6
+2024-10-19 16:52:42,837 - INFO - Smallest key: 1612306369451
+2024-10-19 16:52:43,081 - INFO - Created object at widgets/John Jones/2b8186fc-11a4-4b97-b048-571fe200e646
+2024-10-19 16:52:43,233 - INFO - Smallest key: 1612306369713
+2024-10-19 16:52:43,481 - INFO - Created object at widgets/Mary Matthews/3b7fef78-f757-424d-9c0c-431768022528
+2024-10-19 16:52:43,625 - INFO - Smallest key: 1612306369907
+2024-10-19 16:52:43,869 - INFO - Created object at widgets/Sue Smith/6cea7243-924a-4bc9-9779-8bc89e91acdf
+2024-10-19 16:52:44,013 - INFO - Smallest key: 1612306370099
+2024-10-19 16:52:44,262 - INFO - Created object at widgets/John Jones/5c94f104-a9b3-4fed-a039-2cc4c631d042
+2024-10-19 16:52:44,405 - INFO - Smallest key: 1612306370344
+2024-10-19 16:52:44,749 - INFO - Created object at widgets/Mary Matthews/0510d371-0191-43d9-81d5-5a163659ae6f
+2024-10-19 16:52:44,901 - INFO - Smallest key: 1612306370542
+2024-10-19 16:52:44,978 - ERROR - Update logic not yet implemented.
+2024-10-19 16:52:45,127 - INFO - Smallest key: 1612306370839
+2024-10-19 16:52:45,369 - INFO - Created object at widgets/John Jones/1dbcba17-aff2-4b62-9d8e-0e6c2b58ed86
+2024-10-19 16:52:45,517 - INFO - Smallest key: 1612306371037
+2024-10-19 16:52:45,598 - ERROR - Update logic not yet implemented.
+2024-10-19 16:52:45,759 - INFO - Smallest key: 1612306371375
+2024-10-19 16:52:45,831 - ERROR - Delete logic not yet implemented
+2024-10-19 16:52:45,976 - INFO - Smallest key: 1612306371675
+2024-10-19 16:52:46,054 - ERROR - Update logic not yet implemented.
+2024-10-19 16:52:46,197 - INFO - Smallest key: 1612306371974
+2024-10-19 16:52:46,439 - INFO - Created object at widgets/Mary Matthews/6984abeb-5b24-42eb-93cc-3a5bef6b4b8a
+2024-10-19 16:52:46,580 - INFO - Smallest key: 1612306372166
+2024-10-19 16:52:46,658 - ERROR - Update logic not yet implemented.
+2024-10-19 16:52:46,798 - INFO - Smallest key: 1612306372496
+2024-10-19 16:52:47,040 - INFO - Created object at widgets/Henry Hops/3750be35-9074-4879-bb43-759d38263868
+2024-10-19 16:52:47,192 - INFO - Smallest key: 1612306372686
+2024-10-19 16:52:47,444 - INFO - Created object at widgets/Henry Hops/deab01f2-0075-4a11-87e1-21cbea5c0c7f
+2024-10-19 16:52:47,590 - INFO - Smallest key: 1612306372894
+2024-10-19 16:52:47,662 - ERROR - Delete logic not yet implemented
+2024-10-19 16:52:47,831 - INFO - Smallest key: 1612306373189
+2024-10-19 16:52:47,966 - ERROR - Update logic not yet implemented.
+2024-10-19 16:52:48,111 - INFO - Smallest key: 1612306373502
+2024-10-19 16:52:48,228 - ERROR - Update logic not yet implemented.
+2024-10-19 16:52:48,370 - INFO - Smallest key: 1612306373799
+2024-10-19 16:52:48,453 - ERROR - Update logic not yet implemented.
+2024-10-19 16:52:48,640 - INFO - Smallest key: 1612306374092
+2024-10-19 16:52:48,715 - ERROR - Update logic not yet implemented.
+2024-10-19 16:52:48,857 - INFO - Smallest key: 1612306374390
+2024-10-19 16:52:49,119 - INFO - Created object at widgets/Mary Matthews/64542834-2dc1-469f-b3c4-93d124672a4a
+2024-10-19 16:52:49,265 - INFO - Smallest key: 1612306374392
+2024-10-19 16:52:49,517 - INFO - Smallest key: 1612306374590
+2024-10-19 16:52:49,589 - ERROR - Delete logic not yet implemented
+2024-10-19 16:52:49,736 - INFO - Smallest key: 1612306374890
+2024-10-19 16:52:49,972 - INFO - Created object at widgets/John Jones/b71b5b2e-610a-402c-8341-a69d8d62747e
+2024-10-19 16:52:50,120 - INFO - Smallest key: 1612306375082
+2024-10-19 16:52:50,362 - INFO - Created object at widgets/Sue Smith/d2d540b0-5999-4d43-8f09-b8f528a0f032
+2024-10-19 16:52:50,501 - INFO - Smallest key: 1612306375135
+2024-10-19 16:52:50,581 - ERROR - Unknown request type: bad
+2024-10-19 16:52:50,726 - INFO - Smallest key: 1612306375282
+2024-10-19 16:52:50,805 - ERROR - Update logic not yet implemented.
+2024-10-19 16:52:50,953 - INFO - Smallest key: 1612306375653
+2024-10-19 16:52:51,188 - INFO - Created object at widgets/Sue Smith/08254284-3fd1-4232-905f-b3730a7c6b8c
+2024-10-19 16:52:51,334 - INFO - Smallest key: 1612306375850
+2024-10-19 16:52:51,582 - INFO - Created object at widgets/Mary Matthews/7f0bfd22-876f-42f2-937d-cdf048caec2a
+2024-10-19 16:52:51,732 - INFO - Smallest key: 1612306375892
+2024-10-19 16:52:51,957 - INFO - Created object at widgets/unidentified/bad
+2024-10-19 16:52:52,102 - INFO - Smallest key: 1612306375912
+2024-10-19 16:52:52,174 - ERROR - Delete logic not yet implemented
+2024-10-19 16:52:52,320 - INFO - Smallest key: 1612306376056
+2024-10-19 16:52:52,407 - ERROR - Update logic not yet implemented.
+2024-10-19 16:52:52,553 - INFO - Smallest key: 1612306376404
+2024-10-19 16:52:53,253 - INFO - Created object at widgets/Sue Smith/e50b4381-4332-438f-bcec-bd2b8c0fa5ed
+2024-10-19 16:52:53,426 - INFO - Smallest key: 1612306377574
+2024-10-19 16:52:53,514 - ERROR - Delete logic not yet implemented
+2024-10-19 16:55:11,814 - INFO - Processing DynamoDB requests with table: widgets
+2024-10-19 16:55:11,869 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2024-10-19 16:55:12,496 - INFO - Smallest key: 1612306368338
+2024-10-19 16:55:13,040 - INFO - Created item with id 8123f304-f23f-440b-a6d3-80e979fa4cd6 in DynamoDB.
+2024-10-19 16:55:13,232 - INFO - Smallest key: 1612306369227
+2024-10-19 16:55:13,396 - INFO - Created item with id ad0bb9e1-28e9-46e0-ad08-8192f4d3b6c6 in DynamoDB.
+2024-10-19 16:55:13,585 - INFO - Smallest key: 1612306369451
+2024-10-19 16:55:13,748 - INFO - Created item with id 2b8186fc-11a4-4b97-b048-571fe200e646 in DynamoDB.
+2024-10-19 16:55:13,913 - INFO - Smallest key: 1612306369713
+2024-10-19 16:55:14,070 - INFO - Created item with id 3b7fef78-f757-424d-9c0c-431768022528 in DynamoDB.
+2024-10-19 16:55:14,239 - INFO - Smallest key: 1612306369907
+2024-10-19 16:55:14,399 - INFO - Created item with id 6cea7243-924a-4bc9-9779-8bc89e91acdf in DynamoDB.
+2024-10-19 16:55:14,567 - INFO - Smallest key: 1612306370099
+2024-10-19 16:55:14,730 - INFO - Created item with id 5c94f104-a9b3-4fed-a039-2cc4c631d042 in DynamoDB.
+2024-10-19 16:55:14,898 - INFO - Smallest key: 1612306370344
+2024-10-19 16:55:15,063 - INFO - Created item with id 0510d371-0191-43d9-81d5-5a163659ae6f in DynamoDB.
+2024-10-19 16:55:15,231 - INFO - Smallest key: 1612306370542
+2024-10-19 16:55:15,323 - ERROR - Update Logic not yet implemented
+2024-10-19 16:55:15,488 - INFO - Smallest key: 1612306370839
+2024-10-19 16:55:15,653 - INFO - Created item with id 1dbcba17-aff2-4b62-9d8e-0e6c2b58ed86 in DynamoDB.
+2024-10-19 16:55:15,820 - INFO - Smallest key: 1612306371037
+2024-10-19 16:55:15,912 - ERROR - Update Logic not yet implemented
+2024-10-19 16:55:16,083 - INFO - Smallest key: 1612306371375
+2024-10-19 16:55:16,168 - ERROR - Delete Logic not yet implemented
+2024-10-19 16:55:16,334 - INFO - Smallest key: 1612306371675
+2024-10-19 16:55:16,421 - ERROR - Update Logic not yet implemented
+2024-10-19 16:55:16,590 - INFO - Smallest key: 1612306371974
+2024-10-19 16:55:16,800 - INFO - Created item with id 6984abeb-5b24-42eb-93cc-3a5bef6b4b8a in DynamoDB.
+2024-10-19 16:55:16,966 - INFO - Smallest key: 1612306372166
+2024-10-19 16:55:17,055 - ERROR - Update Logic not yet implemented
+2024-10-19 16:55:17,233 - INFO - Smallest key: 1612306372496
+2024-10-19 16:55:17,396 - INFO - Created item with id 3750be35-9074-4879-bb43-759d38263868 in DynamoDB.
+2024-10-19 16:55:17,563 - INFO - Smallest key: 1612306372686
+2024-10-19 16:55:17,732 - INFO - Created item with id deab01f2-0075-4a11-87e1-21cbea5c0c7f in DynamoDB.
+2024-10-19 16:55:17,904 - INFO - Smallest key: 1612306372894
+2024-10-19 16:55:17,985 - ERROR - Delete Logic not yet implemented
+2024-10-19 16:55:18,177 - INFO - Smallest key: 1612306373189
+2024-10-19 16:55:18,267 - ERROR - Update Logic not yet implemented
+2024-10-19 16:55:18,433 - INFO - Smallest key: 1612306373502
+2024-10-19 16:55:18,518 - ERROR - Update Logic not yet implemented
+2024-10-19 16:55:18,683 - INFO - Smallest key: 1612306373799
+2024-10-19 16:55:18,774 - ERROR - Update Logic not yet implemented
+2024-10-19 16:55:18,945 - INFO - Smallest key: 1612306374092
+2024-10-19 16:55:19,032 - ERROR - Update Logic not yet implemented
+2024-10-19 16:55:19,201 - INFO - Smallest key: 1612306374390
+2024-10-19 16:55:19,367 - INFO - Created item with id 64542834-2dc1-469f-b3c4-93d124672a4a in DynamoDB.
+2024-10-19 16:55:19,535 - INFO - Smallest key: 1612306374392
+2024-10-19 16:55:19,782 - INFO - Smallest key: 1612306374590
+2024-10-19 16:55:19,865 - ERROR - Delete Logic not yet implemented
+2024-10-19 16:55:20,036 - INFO - Smallest key: 1612306374890
+2024-10-19 16:55:20,197 - INFO - Created item with id b71b5b2e-610a-402c-8341-a69d8d62747e in DynamoDB.
+2024-10-19 16:55:20,366 - INFO - Smallest key: 1612306375082
+2024-10-19 16:55:20,530 - INFO - Created item with id d2d540b0-5999-4d43-8f09-b8f528a0f032 in DynamoDB.
+2024-10-19 16:55:20,696 - INFO - Smallest key: 1612306375135
+2024-10-19 16:55:20,835 - ERROR - Unknown request type: bad
+2024-10-19 16:55:21,034 - INFO - Smallest key: 1612306375282
+2024-10-19 16:55:21,124 - ERROR - Update Logic not yet implemented
+2024-10-19 16:55:21,290 - INFO - Smallest key: 1612306375653
+2024-10-19 16:55:21,451 - INFO - Created item with id 08254284-3fd1-4232-905f-b3730a7c6b8c in DynamoDB.
+2024-10-19 16:55:21,617 - INFO - Smallest key: 1612306375850
+2024-10-19 16:55:21,779 - INFO - Created item with id 7f0bfd22-876f-42f2-937d-cdf048caec2a in DynamoDB.
+2024-10-19 16:55:21,947 - INFO - Smallest key: 1612306375892
+2024-10-19 16:55:22,100 - INFO - Created item with id bad in DynamoDB.
+2024-10-19 16:55:22,268 - INFO - Smallest key: 1612306375912
+2024-10-19 16:55:22,352 - ERROR - Delete Logic not yet implemented
+2024-10-19 16:55:22,515 - INFO - Smallest key: 1612306376056
+2024-10-19 16:55:22,604 - ERROR - Update Logic not yet implemented
+2024-10-19 16:55:22,766 - INFO - Smallest key: 1612306376404
+2024-10-19 16:55:23,281 - INFO - Created item with id e50b4381-4332-438f-bcec-bd2b8c0fa5ed in DynamoDB.
+2024-10-19 16:55:23,425 - INFO - Smallest key: 1612306377574
+2024-10-19 16:55:23,494 - ERROR - Delete Logic not yet implemented

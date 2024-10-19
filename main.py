@@ -1,11 +1,23 @@
 import logging
-import time
+import os
+from datetime import datetime
 from S3requesthandler import S3RequestHandler
 from Dynamodbrequesthandler import DynamoDBRequestHandler
 import argparse
 
-# Set up logging
-logging.basicConfig(level=logging.INFO)
+log_dir = 'logs'
+if not os.path.exists(log_dir):
+    os.makedirs(log_dir)
+
+log_filename = datetime.now().strftime('%Y-%m-%d') + '.log'
+log_file_path = os.path.join(log_dir, log_filename)
+
+logging.basicConfig(level=logging.INFO,
+                    format='%(asctime)s - %(levelname)s - %(message)s',  # Log format
+                    handlers=[
+                        logging.FileHandler(log_file_path),  # Log to the file with today's date
+                        logging.StreamHandler()  # Also log to console
+                    ])
 
 parser = argparse.ArgumentParser(description="Process source and target S3 bucket names and DynamoDB table name.")
 parser.add_argument('-ss', '--storage', type=str, required=True, help="Storage Strategy (S3 or DynamoDB).")

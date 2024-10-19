@@ -1,5 +1,6 @@
 import boto3
 import time
+import logging
 from S3_read import S3RequestAndObjectReceiver  # Ensure this module is adapted to work with DynamoDB
 
 class DynamoDBRequestHandler:
@@ -31,7 +32,7 @@ class DynamoDBRequestHandler:
             elif request_type == 'update':
                 self.update_item(body)
             else:
-                print(f"Unknown request type: {request_type}")
+                logging.error(f"Unknown request type: {request_type}")
 
     def create_item(self, body):
         """Create a new item in the DynamoDB table."""
@@ -50,19 +51,19 @@ class DynamoDBRequestHandler:
                     item[attr['name']] = attr['value']  # Map each other attribute
 
             self.table.put_item(Item=item)
-            print(f'Created item with id {widget_id} in DynamoDB.')
+            logging.info(f'Created item with id {widget_id} in DynamoDB.')
         else:
-            print("Invalid data for creating item.")
+            logging.error("Invalid data for creating item.")
 
     def delete_item(self, widget_id):
         """Delete an item from the DynamoDB table."""
         #self.table.delete_item(Key={'id': widget_id})
-        print('Delete Logic not yet implemented')
+        logging.error('Delete Logic not yet implemented')
         pass
 
     def update_item(self, body):
         """Update an existing item in the DynamoDB table."""
-        print('Update Logic not yet implemented')
+        logging.error('Update Logic not yet implemented')
         pass
 
     def process_requests(self, source_bucket):
@@ -86,6 +87,3 @@ class DynamoDBRequestHandler:
             else:
                 # Wait a while before checking again
                 time.sleep(0.1)  # Wait for 100 ms
-
-dynamodb_handler = DynamoDBRequestHandler(table_name='widgets')
-dynamodb_handler.process_requests('usu-sajan-testrequest')

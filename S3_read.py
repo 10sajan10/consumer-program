@@ -1,5 +1,6 @@
 import boto3
 import json
+import logging
 
 class S3RequestAndObjectReceiver:
     def __init__(self, source_bucket):
@@ -15,7 +16,7 @@ class S3RequestAndObjectReceiver:
 
         if 'Contents' in response:
             key = response['Contents'][0]['Key']
-            print(f'Smallest key: {key}')
+            logging.info(f'Smallest key: {key}')
 
             # Retrieve the object content
             object_response = self.s3_client.get_object(Bucket=self.source_bucket, Key=key)
