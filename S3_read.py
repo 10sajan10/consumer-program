@@ -1,39 +1,35 @@
 import boto3
-import time
+import json
 
 BUCKET_NAME = 'usu-cs5250-sajan-requests'
-PREFIX = None
-DELAY = 10
+PREFIX = "widgets"
+TARGET_BUCKET = 'usu-sajan-testbucket'
 
+s3_client = boto3.client('s3')
 
-def get_sorted_widget_requests(bucket_name, prefix):
-    s3 = boto3.client('s3')
-    response = s3.list_objects_v2(Bucket=bucket_name,)
+# Retrieve the smallest key from the bucket
+response = s3_client.list_objects_v2(Bucket=BUCKET_NAME, MaxKeys=1)
 
-    if 'Contents' in response:
-        keys = [obj['Key'] for obj in response['Contents']]
-        sorted_keys = sorted(keys)
-        return sorted_keys
-    else:
-        print("No objects found in the specified bucket.")
-        return []
+# Check if there is an object
+if 'Contents' in response:
+    key = response['Contents'][0]['Key']
+    print(f'Smallest key: {key}')
 
+    # Get the object content
+    object_response = s3_client.get_object(Bucket=BUCKET_NAME, Key=key)
+    body = object_response['Body'].read().decode('utf-8')
+    json_body = json.loads(body)
 
-def process_widget_request(key):
-    s3 = boto3.client('s3')
-    response = s3.get_object(Bucket=BUCKET_NAME, Key=key)
-    widget_request = response['Body'].read().decode('utf-8')
-    print(f"Processing widget request from {key}: {widget_request}")
+    # Process JSON content
+    print(json_body)
+    owner = json_body['owner']
+    widget_id = json_body['widgetId']
 
+    # Upload to target bucket with new key
+    new_key = f'{PREFIX}/{owner}/{widget_id}'
+    s3_client.put_object(Bucket=TARGET_BUCKET, Key=new_key, Body=body)
 
-def main():
-    while True:
-        sorted_keys = get_sorted_widget_requests(BUCKET_NAME, PREFIX)
-        if sorted_keys:
-            smallest_key = sorted_keys[0]
-            process_widget_request(smallest_key)
-        time.sleep(DELAY)
+    print(f"Object uploaded to {TARGET_BUCKET} with key {new_key}")
 
-
-if __name__ == "__main__":
-    main()
+else:
+    print("No objects found in the bucket.")
