@@ -146,3 +146,659 @@
 2024-10-19 16:55:23,281 - INFO - Created item with id e50b4381-4332-438f-bcec-bd2b8c0fa5ed in DynamoDB.
 2024-10-19 16:55:23,425 - INFO - Smallest key: 1612306377574
 2024-10-19 16:55:23,494 - ERROR - Delete Logic not yet implemented
+2024-10-19 16:57:15,401 - INFO - Smallest key: 1729378633843
+2024-10-19 16:57:16,007 - INFO - Created item with id ca1caa36-e55f-43e7-960d-91cf5c146925 in DynamoDB.
+2024-10-19 16:57:16,194 - INFO - Smallest key: 1729378634833
+2024-10-19 16:57:16,371 - INFO - Created item with id 0007c994-0343-4ff1-9b6f-4dd853e240ad in DynamoDB.
+2024-10-19 16:57:16,547 - INFO - Smallest key: 1729378634873
+2024-10-19 16:57:16,716 - INFO - Created item with id 6ff6b5a4-f783-461f-a2af-10c728e3702b in DynamoDB.
+2024-10-19 16:57:16,906 - INFO - Smallest key: 1729378634917
+2024-10-19 16:57:17,068 - INFO - Created item with id 356cfaf7-681e-41c8-b932-4dfbb6bf5e7b in DynamoDB.
+2024-10-19 16:57:17,239 - INFO - Smallest key: 1729378634957
+2024-10-19 16:57:17,424 - INFO - Created item with id 3475ce01-d6cb-484c-8d8c-1f59f16eabac in DynamoDB.
+2024-10-19 16:57:17,611 - INFO - Smallest key: 1729378634989
+2024-10-19 16:57:17,705 - ERROR - Update Logic not yet implemented
+2024-10-19 16:57:17,878 - INFO - Smallest key: 1729378635124
+2024-10-19 16:57:18,042 - INFO - Created item with id cb7c7456-1dd1-42b0-8b83-f0740b6f44a4 in DynamoDB.
+2024-10-19 16:57:18,217 - INFO - Smallest key: 1729378635164
+2024-10-19 16:57:18,300 - ERROR - Delete Logic not yet implemented
+2024-10-19 16:57:18,467 - INFO - Smallest key: 1729378635323
+2024-10-19 16:57:18,617 - INFO - Created item with id f9bea00e-7ce2-4072-9d58-d3efa291623c in DynamoDB.
+2024-10-19 16:57:18,790 - INFO - Smallest key: 1729378635388
+2024-10-19 16:57:18,886 - ERROR - Delete Logic not yet implemented
+2024-10-19 16:57:19,059 - INFO - Smallest key: 1729378635517
+2024-10-19 16:57:19,218 - INFO - Created item with id 0ec46fc4-8532-45dc-9c2f-973a534dfd5c in DynamoDB.
+2024-10-19 16:57:19,395 - INFO - Smallest key: 1729378635552
+2024-10-19 16:57:19,567 - INFO - Created item with id a0a1bbfb-c2f3-4ae8-9c6c-6c4aa6242765 in DynamoDB.
+2024-10-19 16:57:19,743 - INFO - Smallest key: 1729378635584
+2024-10-19 16:57:19,827 - ERROR - Delete Logic not yet implemented
+2024-10-19 16:57:20,025 - INFO - Smallest key: 1729378635713
+2024-10-19 16:57:20,116 - ERROR - Update Logic not yet implemented
+2024-10-19 16:57:20,302 - INFO - Smallest key: 1729378635849
+2024-10-19 16:57:20,392 - ERROR - Update Logic not yet implemented
+2024-10-19 16:57:20,584 - INFO - Smallest key: 1729378636006
+2024-10-19 16:57:20,676 - ERROR - Update Logic not yet implemented
+2024-10-19 16:57:20,910 - INFO - Smallest key: 1729378636156
+2024-10-19 16:57:21,042 - ERROR - Update Logic not yet implemented
+2024-10-19 16:57:21,320 - INFO - Smallest key: 1729378636300
+2024-10-19 16:57:21,507 - INFO - Created item with id ccf160ce-b213-41d0-9e1a-ceacd3f24d29 in DynamoDB.
+2024-10-19 16:57:21,724 - INFO - Smallest key: 1729378636344
+2024-10-19 16:57:21,838 - ERROR - Update Logic not yet implemented
+2024-10-19 16:57:22,045 - INFO - Smallest key: 1729378636471
+2024-10-19 16:57:22,201 - INFO - Created item with id 3bb239ee-3c19-4567-9bdc-930a9f623957 in DynamoDB.
+2024-10-19 16:57:22,402 - INFO - Smallest key: 1729378636502
+2024-10-19 16:57:22,589 - INFO - Created item with id a507f72d-2cb9-4e47-9716-d4f34af59803 in DynamoDB.
+2024-10-19 16:57:22,796 - INFO - Smallest key: 1729378636548
+2024-10-19 16:57:22,890 - ERROR - Update Logic not yet implemented
+2024-10-19 16:57:23,085 - INFO - Smallest key: 1729378636686
+2024-10-19 16:57:23,178 - ERROR - Update Logic not yet implemented
+2024-10-19 16:57:23,357 - INFO - Smallest key: 1729378636822
+2024-10-19 16:57:23,536 - INFO - Created item with id 44948bf9-7587-4d87-9b05-06fc3f94e56d in DynamoDB.
+2024-10-19 16:57:23,722 - INFO - Smallest key: 1729378636856
+2024-10-19 16:57:23,896 - INFO - Created item with id 0022543a-a329-471c-96fa-7c406a053655 in DynamoDB.
+2024-10-19 16:57:24,079 - INFO - Smallest key: 1729378636888
+2024-10-19 16:57:24,170 - ERROR - Update Logic not yet implemented
+2024-10-19 16:57:24,348 - INFO - Smallest key: 1729378637015
+2024-10-19 16:57:24,447 - ERROR - Update Logic not yet implemented
+2024-10-19 16:57:24,629 - INFO - Smallest key: 1729378637149
+2024-10-19 16:57:24,780 - INFO - Created item with id 09311c51-62fc-4fd8-89f9-a655c8ec8934 in DynamoDB.
+2024-10-19 16:57:24,948 - INFO - Smallest key: 1729378637181
+2024-10-19 16:57:25,118 - INFO - Created item with id 1666ea80-ea3a-4d1f-85bd-5c3fa16ec134 in DynamoDB.
+2024-10-19 16:57:25,314 - INFO - Smallest key: 1729378637213
+2024-10-19 16:57:25,423 - ERROR - Update Logic not yet implemented
+2024-10-19 16:57:25,610 - INFO - Smallest key: 1729378637409
+2024-10-19 16:57:25,775 - INFO - Created item with id 716ece70-7547-4105-adc3-b13307a632ba in DynamoDB.
+2024-10-19 16:57:25,952 - INFO - Smallest key: 1729378637438
+2024-10-19 16:57:26,125 - INFO - Created item with id 0c25fb13-ba51-41d3-96ea-1ac9352159f5 in DynamoDB.
+2024-10-19 16:57:26,316 - INFO - Smallest key: 1729378637465
+2024-10-19 16:57:26,851 - ERROR - Delete Logic not yet implemented
+2024-10-19 16:57:27,031 - INFO - Smallest key: 1729378637589
+2024-10-19 16:57:27,115 - ERROR - Update Logic not yet implemented
+2024-10-19 16:57:27,299 - INFO - Smallest key: 1729378637718
+2024-10-19 16:57:27,461 - INFO - Created item with id 0c4936e1-1bb9-4fa9-95b4-a5304c7bceac in DynamoDB.
+2024-10-19 16:57:27,638 - INFO - Smallest key: 1729378637776
+2024-10-19 16:57:27,731 - ERROR - Update Logic not yet implemented
+2024-10-19 16:57:27,896 - INFO - Smallest key: 1729378637907
+2024-10-19 16:57:27,989 - ERROR - Update Logic not yet implemented
+2024-10-19 16:57:28,165 - INFO - Smallest key: 1729378638036
+2024-10-19 16:57:28,332 - INFO - Created item with id 0588a728-b6b0-484d-992a-526619d31424 in DynamoDB.
+2024-10-19 16:57:28,497 - INFO - Smallest key: 1729378638081
+2024-10-19 16:57:28,593 - ERROR - Update Logic not yet implemented
+2024-10-19 16:57:28,771 - INFO - Smallest key: 1729378638253
+2024-10-19 16:57:28,871 - ERROR - Update Logic not yet implemented
+2024-10-19 16:57:29,055 - INFO - Smallest key: 1729378638390
+2024-10-19 16:57:29,227 - INFO - Created item with id 78327b07-d520-4d6c-84db-2c8c0bef2303 in DynamoDB.
+2024-10-19 16:57:29,410 - INFO - Smallest key: 1729378638432
+2024-10-19 16:57:29,560 - INFO - Created item with id 60b0038b-1cab-4b70-abe1-4d5df44e8678 in DynamoDB.
+2024-10-19 16:57:29,732 - INFO - Smallest key: 1729378638467
+2024-10-19 16:57:29,819 - ERROR - Update Logic not yet implemented
+2024-10-19 16:57:29,986 - INFO - Smallest key: 1729378638623
+2024-10-19 16:57:30,133 - INFO - Created item with id 007f7c27-1976-4786-b323-e8323675caea in DynamoDB.
+2024-10-19 16:57:30,306 - INFO - Smallest key: 1729378638659
+2024-10-19 16:57:30,410 - ERROR - Update Logic not yet implemented
+2024-10-19 16:57:30,587 - INFO - Smallest key: 1729378638787
+2024-10-19 16:57:30,676 - ERROR - Update Logic not yet implemented
+2024-10-19 16:57:30,858 - INFO - Smallest key: 1729378638915
+2024-10-19 16:57:30,959 - ERROR - Update Logic not yet implemented
+2024-10-19 16:57:31,136 - INFO - Smallest key: 1729378639051
+2024-10-19 16:57:31,286 - INFO - Created item with id d97ead68-72e5-4e50-902b-8b3276b848fa in DynamoDB.
+2024-10-19 16:57:31,460 - INFO - Smallest key: 1729378639090
+2024-10-19 16:57:31,607 - INFO - Created item with id a04d3fff-f16a-44f1-8726-228ec08efdd2 in DynamoDB.
+2024-10-19 16:57:31,774 - INFO - Smallest key: 1729378639122
+2024-10-19 16:57:31,932 - INFO - Created item with id 5677794a-b578-4261-8999-d80f9ab2aa05 in DynamoDB.
+2024-10-19 16:57:32,105 - INFO - Smallest key: 1729378639158
+2024-10-19 16:57:32,273 - INFO - Created item with id b061898d-7916-4631-8bc7-3f445b36b3b9 in DynamoDB.
+2024-10-19 16:57:32,465 - INFO - Smallest key: 1729378639188
+2024-10-19 16:57:32,629 - INFO - Created item with id 113b68c5-cf69-4c29-8aa5-fee256939ce2 in DynamoDB.
+2024-10-19 16:57:32,821 - INFO - Smallest key: 1729378639224
+2024-10-19 16:57:32,993 - INFO - Created item with id 95ab2436-2a31-4144-be14-6afde5912a73 in DynamoDB.
+2024-10-19 16:57:33,165 - INFO - Smallest key: 1729378639288
+2024-10-19 16:57:33,249 - ERROR - Delete Logic not yet implemented
+2024-10-19 16:57:33,415 - INFO - Smallest key: 1729378639417
+2024-10-19 16:57:33,508 - ERROR - Update Logic not yet implemented
+2024-10-19 16:57:33,675 - INFO - Smallest key: 1729378639551
+2024-10-19 16:57:33,772 - ERROR - Update Logic not yet implemented
+2024-10-19 16:57:33,941 - INFO - Smallest key: 1729378639681
+2024-10-19 16:57:34,046 - ERROR - Update Logic not yet implemented
+2024-10-19 16:57:34,220 - INFO - Smallest key: 1729378639845
+2024-10-19 16:57:34,384 - INFO - Created item with id 5219065c-18e9-41c1-a3d3-d49b7636ca64 in DynamoDB.
+2024-10-19 16:57:34,560 - INFO - Smallest key: 1729378639875
+2024-10-19 16:57:34,645 - ERROR - Update Logic not yet implemented
+2024-10-19 16:57:34,824 - INFO - Smallest key: 1729378640009
+2024-10-19 16:57:34,973 - INFO - Created item with id bee3a435-cc88-42eb-90f8-2897b43c7a6b in DynamoDB.
+2024-10-19 16:57:35,159 - INFO - Smallest key: 1729378640042
+2024-10-19 16:57:35,255 - ERROR - Update Logic not yet implemented
+2024-10-19 16:57:35,433 - INFO - Smallest key: 1729378640174
+2024-10-19 16:57:35,534 - ERROR - Update Logic not yet implemented
+2024-10-19 16:57:35,702 - INFO - Smallest key: 1729378640369
+2024-10-19 16:57:35,854 - ERROR - Update Logic not yet implemented
+2024-10-19 16:57:36,042 - INFO - Smallest key: 1729378640528
+2024-10-19 16:57:36,155 - ERROR - Update Logic not yet implemented
+2024-10-19 16:57:36,363 - INFO - Smallest key: 1729378640667
+2024-10-19 16:57:36,468 - ERROR - Delete Logic not yet implemented
+2024-10-19 16:57:36,649 - INFO - Smallest key: 1729378640788
+2024-10-19 16:57:36,762 - ERROR - Update Logic not yet implemented
+2024-10-19 16:57:37,373 - INFO - Smallest key: 1729378640926
+2024-10-19 16:57:37,464 - ERROR - Update Logic not yet implemented
+2024-10-19 16:57:37,641 - INFO - Smallest key: 1729378641056
+2024-10-19 16:57:37,732 - ERROR - Update Logic not yet implemented
+2024-10-19 16:57:37,905 - INFO - Smallest key: 1729378641200
+2024-10-19 16:57:38,070 - INFO - Created item with id 24bee01c-1f92-4580-8c3b-3df60c5954c1 in DynamoDB.
+2024-10-19 16:57:38,268 - INFO - Smallest key: 1729378641235
+2024-10-19 16:57:38,374 - ERROR - Update Logic not yet implemented
+2024-10-19 16:57:38,556 - INFO - Smallest key: 1729378641363
+2024-10-19 16:57:38,652 - ERROR - Delete Logic not yet implemented
+2024-10-19 16:57:38,829 - INFO - Smallest key: 1729378641489
+2024-10-19 16:57:38,987 - INFO - Created item with id 34035cfd-fb4f-4a1f-9c58-d67e28882dd5 in DynamoDB.
+2024-10-19 16:57:39,168 - INFO - Smallest key: 1729378641535
+2024-10-19 16:57:39,322 - INFO - Created item with id 5e4a7c13-013d-4a0d-8b14-35e795f09ea2 in DynamoDB.
+2024-10-19 16:57:39,494 - INFO - Smallest key: 1729378641577
+2024-10-19 16:57:39,647 - INFO - Created item with id f1c776f8-9298-4191-929e-4ab91230045a in DynamoDB.
+2024-10-19 16:57:39,820 - INFO - Smallest key: 1729378641605
+2024-10-19 16:57:39,983 - INFO - Created item with id d1a195bd-f9ff-46dd-8174-ced85ac7e5eb in DynamoDB.
+2024-10-19 16:57:40,176 - INFO - Smallest key: 1729378641632
+2024-10-19 16:57:40,276 - ERROR - Update Logic not yet implemented
+2024-10-19 16:57:40,462 - INFO - Smallest key: 1729378641761
+2024-10-19 16:57:40,559 - ERROR - Delete Logic not yet implemented
+2024-10-19 16:57:40,738 - INFO - Smallest key: 1729378641891
+2024-10-19 16:57:40,828 - ERROR - Update Logic not yet implemented
+2024-10-19 16:57:41,007 - INFO - Smallest key: 1729378642027
+2024-10-19 16:57:41,122 - ERROR - Update Logic not yet implemented
+2024-10-19 16:57:41,298 - INFO - Smallest key: 1729378642201
+2024-10-19 16:57:41,451 - INFO - Created item with id 0549f560-3ea5-4475-a7ef-e271511b43cf in DynamoDB.
+2024-10-19 16:57:41,625 - INFO - Smallest key: 1729378642230
+2024-10-19 16:57:41,787 - INFO - Created item with id fc10db0c-3cd9-4b2f-8990-2bd7b9f4b768 in DynamoDB.
+2024-10-19 16:57:41,967 - INFO - Smallest key: 1729378642260
+2024-10-19 16:57:42,056 - ERROR - Update Logic not yet implemented
+2024-10-19 16:57:42,228 - INFO - Smallest key: 1729378642405
+2024-10-19 16:57:42,382 - INFO - Created item with id eb034fde-0783-43c3-8eea-70bb25aca1d4 in DynamoDB.
+2024-10-19 16:57:42,556 - INFO - Smallest key: 1729378642461
+2024-10-19 16:57:42,713 - INFO - Created item with id be974ffd-cb95-4a8b-921c-0a74ccda75c5 in DynamoDB.
+2024-10-19 16:57:42,882 - INFO - Smallest key: 1729378642492
+2024-10-19 16:57:42,976 - ERROR - Update Logic not yet implemented
+2024-10-19 16:57:43,157 - INFO - Smallest key: 1729378642630
+2024-10-19 16:57:43,320 - INFO - Created item with id 2d83cd2d-5319-48a3-9bed-fc2521fe5d30 in DynamoDB.
+2024-10-19 16:57:43,514 - INFO - Smallest key: 1729378642667
+2024-10-19 16:57:43,690 - INFO - Created item with id e14459be-6f29-4cd4-b3b3-2664d255397e in DynamoDB.
+2024-10-19 16:57:43,866 - INFO - Smallest key: 1729378642701
+2024-10-19 16:57:44,025 - INFO - Created item with id 2172f9a9-1453-4629-a442-08ef4cf6e0d2 in DynamoDB.
+2024-10-19 16:57:44,198 - INFO - Smallest key: 1729378642747
+2024-10-19 16:57:44,354 - INFO - Created item with id b3e73e2b-aa1a-441b-9b5a-e7297217f5ea in DynamoDB.
+2024-10-19 16:57:44,546 - INFO - Smallest key: 1729378642779
+2024-10-19 16:57:44,665 - ERROR - Update Logic not yet implemented
+2024-10-19 16:57:44,853 - INFO - Smallest key: 1729378642940
+2024-10-19 16:57:44,955 - ERROR - Update Logic not yet implemented
+2024-10-19 16:57:45,131 - INFO - Smallest key: 1729378643073
+2024-10-19 16:57:45,282 - INFO - Created item with id 96390703-b7cc-4278-8c22-3d826141c801 in DynamoDB.
+2024-10-19 16:57:45,451 - INFO - Smallest key: 1729378643106
+2024-10-19 16:57:45,541 - ERROR - Delete Logic not yet implemented
+2024-10-19 16:57:45,720 - INFO - Smallest key: 1729378643225
+2024-10-19 16:57:45,883 - INFO - Created item with id 48f05e75-4c05-491d-807d-fd7e9a092ff8 in DynamoDB.
+2024-10-19 16:57:46,072 - INFO - Smallest key: 1729378643256
+2024-10-19 16:57:46,255 - INFO - Created item with id c6675aca-410b-4d65-957b-5a9b78498308 in DynamoDB.
+2024-10-19 16:57:46,463 - INFO - Smallest key: 1729378643329
+2024-10-19 16:57:46,708 - INFO - Created item with id 576dee18-585e-4d7e-963e-65bece393571 in DynamoDB.
+2024-10-19 16:57:46,902 - INFO - Smallest key: 1729378643370
+2024-10-19 16:57:47,063 - ERROR - Update Logic not yet implemented
+2024-10-19 16:57:47,291 - INFO - Smallest key: 1729378643497
+2024-10-19 16:57:47,460 - INFO - Created item with id 2abd72a0-60f4-4bb6-aee0-c3606955555b in DynamoDB.
+2024-10-19 16:57:47,655 - INFO - Smallest key: 1729378643552
+2024-10-19 16:57:47,810 - INFO - Created item with id ada8ebf6-e089-42a4-8af9-f4a79433069a in DynamoDB.
+2024-10-19 16:57:48,316 - INFO - Smallest key: 1729378643576
+2024-10-19 16:57:48,457 - INFO - Created item with id 58c1b68d-6f02-461e-bcfa-97b71ff49d3c in DynamoDB.
+2024-10-19 16:57:48,597 - INFO - Smallest key: 1729378643641
+2024-10-19 16:57:48,674 - ERROR - Update Logic not yet implemented
+2024-10-19 16:57:48,815 - INFO - Smallest key: 1729378643944
+2024-10-19 16:57:48,972 - INFO - Created item with id 561959f2-8abd-4740-919f-83558ab55d23 in DynamoDB.
+2024-10-19 16:57:49,120 - INFO - Smallest key: 1729378643976
+2024-10-19 16:57:49,267 - INFO - Created item with id 5ef2942e-d252-4592-b4de-c49cde7c8d35 in DynamoDB.
+2024-10-19 16:57:49,413 - INFO - Smallest key: 1729378644018
+2024-10-19 16:57:49,650 - INFO - Created item with id 9635fe5d-f7a7-4990-bc68-61630fc563b0 in DynamoDB.
+2024-10-19 16:57:49,805 - INFO - Smallest key: 1729378644048
+2024-10-19 16:57:49,962 - INFO - Created item with id 574d80e4-8cee-4604-8cfd-4c206c2ffe60 in DynamoDB.
+2024-10-19 16:57:50,129 - INFO - Smallest key: 1729378644081
+2024-10-19 16:57:50,213 - ERROR - Update Logic not yet implemented
+2024-10-19 16:57:50,397 - INFO - Smallest key: 1729378644222
+2024-10-19 16:57:50,479 - ERROR - Update Logic not yet implemented
+2024-10-19 16:57:50,628 - INFO - Smallest key: 1729378644363
+2024-10-19 16:57:50,788 - INFO - Created item with id 4f78c65e-1576-47b1-b222-76e76b6ac6b0 in DynamoDB.
+2024-10-19 16:57:50,933 - INFO - Smallest key: 1729378644405
+2024-10-19 16:57:51,038 - ERROR - Update Logic not yet implemented
+2024-10-19 16:57:51,182 - INFO - Smallest key: 1729378644530
+2024-10-19 16:57:51,335 - INFO - Created item with id 7f989695-21a8-4c55-910e-522ba7f66285 in DynamoDB.
+2024-10-19 16:57:51,505 - INFO - Smallest key: 1729378644559
+2024-10-19 16:57:51,859 - ERROR - Delete Logic not yet implemented
+2024-10-19 16:57:52,019 - INFO - Smallest key: 1729378644686
+2024-10-19 16:57:52,165 - INFO - Created item with id ef9a6b7c-3c5d-4bd0-847e-ada6f3faae73 in DynamoDB.
+2024-10-19 16:57:52,327 - INFO - Smallest key: 1729378644725
+2024-10-19 16:57:52,403 - ERROR - Update Logic not yet implemented
+2024-10-19 16:57:52,545 - INFO - Smallest key: 1729378644854
+2024-10-19 16:57:52,624 - ERROR - Update Logic not yet implemented
+2024-10-19 16:57:52,769 - INFO - Smallest key: 1729378644990
+2024-10-19 16:57:52,937 - INFO - Created item with id 4b49a568-070d-4dde-8af7-ec2013849350 in DynamoDB.
+2024-10-19 16:57:53,119 - INFO - Smallest key: 1729378645023
+2024-10-19 16:57:53,215 - ERROR - Delete Logic not yet implemented
+2024-10-19 16:57:53,387 - INFO - Smallest key: 1729378645152
+2024-10-19 16:57:53,491 - ERROR - Update Logic not yet implemented
+2024-10-19 16:57:53,638 - INFO - Smallest key: 1729378645300
+2024-10-19 16:57:53,785 - INFO - Created item with id 1ce615eb-0569-4a18-88c0-bfea5eb5ef77 in DynamoDB.
+2024-10-19 16:57:53,981 - INFO - Smallest key: 1729378645346
+2024-10-19 16:57:54,064 - ERROR - Update Logic not yet implemented
+2024-10-19 16:57:54,205 - INFO - Smallest key: 1729378645480
+2024-10-19 16:57:54,293 - ERROR - Update Logic not yet implemented
+2024-10-19 16:57:54,447 - INFO - Smallest key: 1729378645608
+2024-10-19 16:57:54,591 - INFO - Created item with id 8694c01c-862e-41e6-9760-eed056067826 in DynamoDB.
+2024-10-19 16:57:54,740 - INFO - Smallest key: 1729378645636
+2024-10-19 16:57:54,820 - ERROR - Update Logic not yet implemented
+2024-10-19 16:57:54,966 - INFO - Smallest key: 1729378645784
+2024-10-19 16:57:55,042 - ERROR - Update Logic not yet implemented
+2024-10-19 16:57:55,184 - INFO - Smallest key: 1729378645913
+2024-10-19 16:57:55,344 - INFO - Created item with id 8cbb2fa7-3124-4468-8e82-bc4caf8a469b in DynamoDB.
+2024-10-19 16:57:55,511 - INFO - Smallest key: 1729378645940
+2024-10-19 16:57:55,682 - INFO - Created item with id d56def10-baac-4012-bb76-10578a7562f3 in DynamoDB.
+2024-10-19 16:57:55,826 - INFO - Smallest key: 1729378645980
+2024-10-19 16:57:55,969 - INFO - Created item with id f4cc618a-2802-4d1f-85ea-8b5e349cd336 in DynamoDB.
+2024-10-19 16:57:56,119 - INFO - Smallest key: 1729378646010
+2024-10-19 16:57:56,265 - INFO - Created item with id 9338a57c-5f46-4e27-8c90-a3ba0c04570b in DynamoDB.
+2024-10-19 16:57:56,418 - INFO - Smallest key: 1729378646033
+2024-10-19 16:57:56,498 - ERROR - Update Logic not yet implemented
+2024-10-19 16:57:56,647 - INFO - Smallest key: 1729378646162
+2024-10-19 16:57:56,814 - INFO - Created item with id e6e82180-cc6b-47b2-90d0-db42bb11aa64 in DynamoDB.
+2024-10-19 16:57:56,973 - INFO - Smallest key: 1729378646195
+2024-10-19 16:57:57,053 - ERROR - Update Logic not yet implemented
+2024-10-19 16:57:57,198 - INFO - Smallest key: 1729378646318
+2024-10-19 16:57:57,276 - ERROR - Update Logic not yet implemented
+2024-10-19 16:57:57,419 - INFO - Smallest key: 1729378646447
+2024-10-19 16:57:57,567 - INFO - Created item with id a30685be-02bf-45a9-a0c2-5fb5a3f49c0c in DynamoDB.
+2024-10-19 16:57:57,725 - INFO - Smallest key: 1729378646483
+2024-10-19 16:57:58,226 - INFO - Created item with id ad143b55-a750-4e72-81b7-560d081754ad in DynamoDB.
+2024-10-19 16:57:58,380 - INFO - Smallest key: 1729378646512
+2024-10-19 16:57:58,458 - ERROR - Update Logic not yet implemented
+2024-10-19 16:57:58,609 - INFO - Smallest key: 1729378646642
+2024-10-19 16:57:58,753 - INFO - Created item with id aef882d7-3c78-4acd-8a00-c68afc26faf8 in DynamoDB.
+2024-10-19 16:57:58,899 - INFO - Smallest key: 1729378646673
+2024-10-19 16:57:58,987 - ERROR - Update Logic not yet implemented
+2024-10-19 16:57:59,148 - INFO - Smallest key: 1729378646799
+2024-10-19 16:57:59,292 - INFO - Created item with id f3b34dbf-b1e0-4593-9139-6c957e81e55f in DynamoDB.
+2024-10-19 16:57:59,472 - INFO - Smallest key: 1729378646824
+2024-10-19 16:57:59,626 - INFO - Created item with id c17d8b21-fd0d-49ee-a5bf-dc05e4377a97 in DynamoDB.
+2024-10-19 16:57:59,794 - INFO - Smallest key: 1729378646848
+2024-10-19 16:57:59,940 - INFO - Created item with id 32bc7a19-2da5-4faf-8f1b-01bc4070a70b in DynamoDB.
+2024-10-19 16:58:00,125 - INFO - Smallest key: 1729378646877
+2024-10-19 16:58:00,296 - INFO - Created item with id 5bd51fb9-bdcb-47c1-bb19-3f9ecad75a45 in DynamoDB.
+2024-10-19 16:58:00,460 - INFO - Smallest key: 1729378646988
+2024-10-19 16:58:00,602 - INFO - Created item with id 37ba4d75-cf80-4a39-af05-c449ce16ccb2 in DynamoDB.
+2024-10-19 16:58:00,761 - INFO - Smallest key: 1729378647024
+2024-10-19 16:58:00,849 - ERROR - Update Logic not yet implemented
+2024-10-19 16:58:01,003 - INFO - Smallest key: 1729378647156
+2024-10-19 16:58:01,080 - ERROR - Delete Logic not yet implemented
+2024-10-19 16:58:01,233 - INFO - Smallest key: 1729378647283
+2024-10-19 16:58:01,311 - ERROR - Update Logic not yet implemented
+2024-10-19 16:58:01,453 - INFO - Smallest key: 1729378647413
+2024-10-19 16:58:01,531 - ERROR - Update Logic not yet implemented
+2024-10-19 16:58:01,672 - INFO - Smallest key: 1729378647578
+2024-10-19 16:58:01,769 - ERROR - Update Logic not yet implemented
+2024-10-19 16:58:01,916 - INFO - Smallest key: 1729378647704
+2024-10-19 16:58:02,055 - INFO - Created item with id 229ef81d-a363-4ce2-941f-201fe56b72fa in DynamoDB.
+2024-10-19 16:58:02,234 - INFO - Smallest key: 1729378647738
+2024-10-19 16:58:02,382 - INFO - Created item with id eddb490d-9ec4-4044-939a-2d869af42aef in DynamoDB.
+2024-10-19 16:58:02,533 - INFO - Smallest key: 1729378647766
+2024-10-19 16:58:02,690 - INFO - Created item with id def8f0e0-502c-4a84-95b1-01272f581b8c in DynamoDB.
+2024-10-19 16:58:02,839 - INFO - Smallest key: 1729378647859
+2024-10-19 16:58:02,917 - ERROR - Update Logic not yet implemented
+2024-10-19 16:58:03,072 - INFO - Smallest key: 1729378647989
+2024-10-19 16:58:03,148 - ERROR - Update Logic not yet implemented
+2024-10-19 16:58:03,302 - INFO - Smallest key: 1729378648116
+2024-10-19 16:58:03,458 - INFO - Created item with id 9663c02b-efdb-42b1-bc0b-c01cb271d412 in DynamoDB.
+2024-10-19 16:58:03,616 - INFO - Smallest key: 1729378648159
+2024-10-19 16:58:03,746 - ERROR - Update Logic not yet implemented
+2024-10-19 16:58:03,895 - INFO - Smallest key: 1729378648308
+2024-10-19 16:58:03,963 - ERROR - Delete Logic not yet implemented
+2024-10-19 16:58:04,112 - INFO - Smallest key: 1729378648431
+2024-10-19 16:58:04,219 - ERROR - Update Logic not yet implemented
+2024-10-19 16:58:04,376 - INFO - Smallest key: 1729378648559
+2024-10-19 16:58:04,528 - INFO - Created item with id 16932b87-da0c-4928-92c7-3540618f5267 in DynamoDB.
+2024-10-19 16:58:04,687 - INFO - Smallest key: 1729378648587
+2024-10-19 16:58:04,872 - INFO - Created item with id f10a8dd7-6bbc-4b3e-b9eb-05ba3ab00488 in DynamoDB.
+2024-10-19 16:58:05,041 - INFO - Smallest key: 1729378648613
+2024-10-19 16:58:05,114 - ERROR - Update Logic not yet implemented
+2024-10-19 16:58:05,274 - INFO - Smallest key: 1729378648746
+2024-10-19 16:58:05,529 - INFO - Created item with id d06b1bd7-7fe2-4db9-9f6d-9e67830c42a1 in DynamoDB.
+2024-10-19 16:58:05,678 - INFO - Smallest key: 1729378648808
+2024-10-19 16:58:05,835 - INFO - Created item with id 73eefd7d-4087-473d-99fc-48650802a065 in DynamoDB.
+2024-10-19 16:58:05,987 - INFO - Smallest key: 1729378648836
+2024-10-19 16:58:06,144 - INFO - Created item with id d1ea945f-e387-4868-9e21-1c7be83631e4 in DynamoDB.
+2024-10-19 16:58:06,320 - INFO - Smallest key: 1729378648863
+2024-10-19 16:58:06,491 - INFO - Created item with id 03ef427f-a35a-4fe5-84e3-7160f530d206 in DynamoDB.
+2024-10-19 16:58:06,652 - INFO - Smallest key: 1729378648896
+2024-10-19 16:58:06,735 - ERROR - Delete Logic not yet implemented
+2024-10-19 16:58:06,895 - INFO - Smallest key: 1729378649021
+2024-10-19 16:58:06,983 - ERROR - Update Logic not yet implemented
+2024-10-19 16:58:07,130 - INFO - Smallest key: 1729378649161
+2024-10-19 16:58:07,291 - INFO - Created item with id 126fc77d-2a27-414a-87d8-cfecb50804ed in DynamoDB.
+2024-10-19 16:58:07,452 - INFO - Smallest key: 1729378649187
+2024-10-19 16:58:07,534 - ERROR - Update Logic not yet implemented
+2024-10-19 16:58:08,106 - INFO - Smallest key: 1729378649314
+2024-10-19 16:58:08,230 - ERROR - Update Logic not yet implemented
+2024-10-19 16:58:08,442 - INFO - Smallest key: 1729378649464
+2024-10-19 16:58:08,534 - ERROR - Update Logic not yet implemented
+2024-10-19 16:58:08,707 - INFO - Smallest key: 1729378649630
+2024-10-19 16:58:08,859 - INFO - Created item with id ae3841ba-2999-42b9-9aca-549a27605166 in DynamoDB.
+2024-10-19 16:58:09,037 - INFO - Smallest key: 1729378649681
+2024-10-19 16:58:09,127 - ERROR - Update Logic not yet implemented
+2024-10-19 16:58:09,292 - INFO - Smallest key: 1729378649811
+2024-10-19 16:58:09,375 - ERROR - Delete Logic not yet implemented
+2024-10-19 16:58:09,545 - INFO - Smallest key: 1729378649932
+2024-10-19 16:58:09,704 - INFO - Created item with id cac32352-8b9e-4c71-abbb-c9265621f0c8 in DynamoDB.
+2024-10-19 16:58:09,872 - INFO - Smallest key: 1729378649966
+2024-10-19 16:58:10,037 - INFO - Created item with id 35e44bb1-3ab9-457a-a73c-8aa604a683e9 in DynamoDB.
+2024-10-19 16:58:10,203 - INFO - Smallest key: 1729378650056
+2024-10-19 16:58:10,363 - INFO - Created item with id 2e6b99ed-79fe-44ce-839a-55ea3d7f5808 in DynamoDB.
+2024-10-19 16:58:10,550 - INFO - Smallest key: 1729378650107
+2024-10-19 16:58:10,641 - ERROR - Delete Logic not yet implemented
+2024-10-19 16:58:10,819 - INFO - Smallest key: 1729378650226
+2024-10-19 16:58:10,911 - ERROR - Update Logic not yet implemented
+2024-10-19 16:58:11,096 - INFO - Smallest key: 1729378650372
+2024-10-19 16:58:11,269 - INFO - Created item with id 1307b497-aeb4-4be5-8b51-e280fb4605db in DynamoDB.
+2024-10-19 16:58:11,447 - INFO - Smallest key: 1729378650437
+2024-10-19 16:58:11,612 - INFO - Created item with id ec0defea-36e5-4384-bbbf-29776fe7dccc in DynamoDB.
+2024-10-19 16:58:11,780 - INFO - Smallest key: 1729378650478
+2024-10-19 16:58:11,933 - INFO - Created item with id 15e422a2-0cd2-44c2-a489-34bb48e835c9 in DynamoDB.
+2024-10-19 16:58:12,100 - INFO - Smallest key: 1729378650510
+2024-10-19 16:58:12,257 - INFO - Created item with id 99f3b4e8-d0ef-4633-9862-ac7619859466 in DynamoDB.
+2024-10-19 16:58:12,446 - INFO - Smallest key: 1729378650611
+2024-10-19 16:58:12,552 - ERROR - Update Logic not yet implemented
+2024-10-19 16:58:12,725 - INFO - Smallest key: 1729378650739
+2024-10-19 16:58:12,894 - INFO - Created item with id 9c64024d-f7c1-4262-8343-9b0d4ced299c in DynamoDB.
+2024-10-19 16:58:13,061 - INFO - Smallest key: 1729378650769
+2024-10-19 16:58:13,216 - INFO - Created item with id 369488d8-250d-4bd1-948e-8c636f3611b2 in DynamoDB.
+2024-10-19 16:58:13,385 - INFO - Smallest key: 1729378650798
+2024-10-19 16:58:13,473 - ERROR - Delete Logic not yet implemented
+2024-10-19 16:58:13,643 - INFO - Smallest key: 1729378650919
+2024-10-19 16:58:13,800 - INFO - Created item with id 2e91ea8f-0efa-4411-a73c-ce6157025841 in DynamoDB.
+2024-10-19 16:58:13,970 - INFO - Smallest key: 1729378650944
+2024-10-19 16:58:14,059 - ERROR - Update Logic not yet implemented
+2024-10-19 16:58:14,247 - INFO - Smallest key: 1729378651105
+2024-10-19 16:58:14,415 - INFO - Created item with id b1ac4c72-95d0-4c47-9cbe-f7bc28707d63 in DynamoDB.
+2024-10-19 16:58:14,582 - INFO - Smallest key: 1729378651136
+2024-10-19 16:58:14,670 - ERROR - Update Logic not yet implemented
+2024-10-19 16:58:14,884 - INFO - Smallest key: 1729378651265
+2024-10-19 16:58:15,058 - INFO - Created item with id 3fd1784c-a1cd-45b2-8756-8d182a0387a1 in DynamoDB.
+2024-10-19 16:58:15,224 - INFO - Smallest key: 1729378651313
+2024-10-19 16:58:15,417 - INFO - Created item with id 15254f58-778b-45d9-ac14-7310a35a3796 in DynamoDB.
+2024-10-19 16:58:15,596 - INFO - Smallest key: 1729378651383
+2024-10-19 16:58:15,747 - INFO - Created item with id d291dfb6-5acb-413e-9363-51bbb094cfd1 in DynamoDB.
+2024-10-19 16:58:15,919 - INFO - Smallest key: 1729378651447
+2024-10-19 16:58:16,069 - INFO - Created item with id a5ce3712-4122-4b72-8b11-65424461e882 in DynamoDB.
+2024-10-19 16:58:16,234 - INFO - Smallest key: 1729378651480
+2024-10-19 16:58:16,323 - ERROR - Update Logic not yet implemented
+2024-10-19 16:58:16,505 - INFO - Smallest key: 1729378651636
+2024-10-19 16:58:16,662 - INFO - Created item with id 71cc933a-a9a9-4710-8046-636e9d8d771a in DynamoDB.
+2024-10-19 16:58:16,839 - INFO - Smallest key: 1729378651682
+2024-10-19 16:58:16,923 - ERROR - Delete Logic not yet implemented
+2024-10-19 16:58:17,117 - INFO - Smallest key: 1729378651804
+2024-10-19 16:58:17,283 - INFO - Created item with id 9cd9f53c-e1c3-4691-a03d-8f60547bdc3e in DynamoDB.
+2024-10-19 16:58:17,476 - INFO - Smallest key: 1729378651835
+2024-10-19 16:58:17,576 - ERROR - Update Logic not yet implemented
+2024-10-19 16:58:17,755 - INFO - Smallest key: 1729378651982
+2024-10-19 16:58:17,840 - ERROR - Update Logic not yet implemented
+2024-10-19 16:58:18,001 - INFO - Smallest key: 1729378652113
+2024-10-19 16:58:18,246 - INFO - Created item with id 6e2eb97b-15e5-4ff3-992f-e85f7e5ecc08 in DynamoDB.
+2024-10-19 16:58:18,729 - INFO - Smallest key: 1729378652141
+2024-10-19 16:58:18,804 - ERROR - Delete Logic not yet implemented
+2024-10-19 16:58:18,959 - INFO - Smallest key: 1729378652263
+2024-10-19 16:58:19,040 - ERROR - Update Logic not yet implemented
+2024-10-19 16:58:19,191 - INFO - Smallest key: 1729378652468
+2024-10-19 16:58:19,359 - INFO - Created item with id 4ba0d450-f9e4-4c7d-9830-7afd460a47f2 in DynamoDB.
+2024-10-19 16:58:19,516 - INFO - Smallest key: 1729378652493
+2024-10-19 16:58:19,668 - INFO - Created item with id d7a91b66-c8ea-4321-8d11-7acebb3a3e3a in DynamoDB.
+2024-10-19 16:58:19,833 - INFO - Smallest key: 1729378652540
+2024-10-19 16:58:19,992 - INFO - Created item with id a72358ca-5887-4fd3-b99f-cb273cb1220b in DynamoDB.
+2024-10-19 16:58:20,151 - INFO - Smallest key: 1729378652602
+2024-10-19 16:58:20,238 - ERROR - Delete Logic not yet implemented
+2024-10-19 16:58:20,409 - INFO - Smallest key: 1729378652731
+2024-10-19 16:58:20,494 - ERROR - Update Logic not yet implemented
+2024-10-19 16:58:20,648 - INFO - Smallest key: 1729378652865
+2024-10-19 16:58:20,807 - INFO - Created item with id ca5a665e-b54f-440e-bad3-da78b7427fff in DynamoDB.
+2024-10-19 16:58:20,959 - INFO - Smallest key: 1729378652895
+2024-10-19 16:58:21,123 - INFO - Created item with id fa09637d-dde5-4d14-96a9-3ee9d3f2eb8a in DynamoDB.
+2024-10-19 16:58:21,277 - INFO - Smallest key: 1729378652919
+2024-10-19 16:58:21,357 - ERROR - Update Logic not yet implemented
+2024-10-19 16:58:21,520 - INFO - Smallest key: 1729378653065
+2024-10-19 16:58:21,599 - ERROR - Delete Logic not yet implemented
+2024-10-19 16:58:21,759 - INFO - Smallest key: 1729378653186
+2024-10-19 16:58:21,916 - INFO - Created item with id 105e4ed4-2bda-440c-9077-6078e61f5ea7 in DynamoDB.
+2024-10-19 16:58:22,085 - INFO - Smallest key: 1729378653217
+2024-10-19 16:58:22,166 - ERROR - Delete Logic not yet implemented
+2024-10-19 16:58:22,322 - INFO - Smallest key: 1729378653338
+2024-10-19 16:58:22,476 - INFO - Created item with id 2f3380fd-53e8-4e83-97d8-4f9791b29abb in DynamoDB.
+2024-10-19 16:58:22,633 - INFO - Smallest key: 1729378653393
+2024-10-19 16:58:22,786 - INFO - Created item with id 93dcb561-6b07-49e0-a83a-afbae678344a in DynamoDB.
+2024-10-19 16:58:22,938 - INFO - Smallest key: 1729378653428
+2024-10-19 16:58:23,080 - ERROR - Update Logic not yet implemented
+2024-10-19 16:58:23,261 - INFO - Smallest key: 1729378653556
+2024-10-19 16:58:23,422 - INFO - Created item with id 25cb1c6a-5beb-482b-aa64-d05636966f82 in DynamoDB.
+2024-10-19 16:58:23,582 - INFO - Smallest key: 1729378653615
+2024-10-19 16:58:23,736 - INFO - Created item with id 7cb79e3f-279e-41cd-911e-d81beb3afa01 in DynamoDB.
+2024-10-19 16:58:23,893 - INFO - Smallest key: 1729378653641
+2024-10-19 16:58:23,973 - ERROR - Update Logic not yet implemented
+2024-10-19 16:58:24,128 - INFO - Smallest key: 1729378653813
+2024-10-19 16:58:24,202 - ERROR - Delete Logic not yet implemented
+2024-10-19 16:58:24,376 - INFO - Smallest key: 1729378653938
+2024-10-19 16:58:24,471 - ERROR - Update Logic not yet implemented
+2024-10-19 16:58:24,626 - INFO - Smallest key: 1729378654067
+2024-10-19 16:58:24,706 - ERROR - Update Logic not yet implemented
+2024-10-19 16:58:24,884 - INFO - Smallest key: 1729378654219
+2024-10-19 16:58:24,961 - ERROR - Update Logic not yet implemented
+2024-10-19 16:58:25,111 - INFO - Smallest key: 1729378654360
+2024-10-19 16:58:25,293 - INFO - Created item with id 3d1bfad9-d560-4812-83f2-2c0a9cd3f173 in DynamoDB.
+2024-10-19 16:58:25,455 - INFO - Smallest key: 1729378654423
+2024-10-19 16:58:25,534 - ERROR - Delete Logic not yet implemented
+2024-10-19 16:58:25,687 - INFO - Smallest key: 1729378654547
+2024-10-19 16:58:25,850 - INFO - Created item with id 45a323d0-2c2f-4724-97aa-33cc28d4e2de in DynamoDB.
+2024-10-19 16:58:26,004 - INFO - Smallest key: 1729378654605
+2024-10-19 16:58:26,088 - ERROR - Update Logic not yet implemented
+2024-10-19 16:58:26,239 - INFO - Smallest key: 1729378654736
+2024-10-19 16:58:26,394 - INFO - Created item with id 8d15fcba-053d-4da2-9c00-e4b74ec4ff3d in DynamoDB.
+2024-10-19 16:58:26,557 - INFO - Smallest key: 1729378654789
+2024-10-19 16:58:26,703 - INFO - Created item with id b6635891-7b6c-40c1-8b9e-fbae47750420 in DynamoDB.
+2024-10-19 16:58:26,848 - INFO - Smallest key: 1729378654836
+2024-10-19 16:58:26,923 - ERROR - Delete Logic not yet implemented
+2024-10-19 16:58:27,138 - INFO - Smallest key: 1729378654956
+2024-10-19 16:58:27,405 - INFO - Created item with id a0b3aacc-7c82-4660-bff0-b0f28c7e5a6f in DynamoDB.
+2024-10-19 16:58:27,602 - INFO - Smallest key: 1729378654989
+2024-10-19 16:58:27,684 - ERROR - Update Logic not yet implemented
+2024-10-19 16:58:27,873 - INFO - Smallest key: 1729378655119
+2024-10-19 16:58:28,081 - INFO - Created item with id 6e4e6f7b-f8db-4646-b344-ec91e77df0a4 in DynamoDB.
+2024-10-19 16:58:28,263 - INFO - Smallest key: 1729378655156
+2024-10-19 16:58:28,778 - ERROR - Update Logic not yet implemented
+2024-10-19 16:58:28,976 - INFO - Smallest key: 1729378655295
+2024-10-19 16:58:29,112 - ERROR - Update Logic not yet implemented
+2024-10-19 16:58:29,284 - INFO - Smallest key: 1729378655428
+2024-10-19 16:58:29,445 - INFO - Created item with id ca3e3483-3aa5-4230-8952-d331874bb55f in DynamoDB.
+2024-10-19 16:58:29,625 - INFO - Smallest key: 1729378655465
+2024-10-19 16:58:29,798 - INFO - Created item with id 281a58d9-44b2-40b9-a143-c37ff7b32793 in DynamoDB.
+2024-10-19 16:58:29,986 - INFO - Smallest key: 1729378655505
+2024-10-19 16:58:30,084 - ERROR - Update Logic not yet implemented
+2024-10-19 16:58:30,260 - INFO - Smallest key: 1729378655633
+2024-10-19 16:58:30,433 - INFO - Created item with id f9db9c66-3948-4f9a-a484-7359e1aac62d in DynamoDB.
+2024-10-19 16:58:30,607 - INFO - Smallest key: 1729378655658
+2024-10-19 16:58:30,697 - ERROR - Update Logic not yet implemented
+2024-10-19 16:58:30,896 - INFO - Smallest key: 1729378655794
+2024-10-19 16:58:30,978 - ERROR - Delete Logic not yet implemented
+2024-10-19 16:58:31,157 - INFO - Smallest key: 1729378655918
+2024-10-19 16:58:31,315 - INFO - Created item with id 5fded0bd-20da-47d6-ae24-ce480d4a33cd in DynamoDB.
+2024-10-19 16:58:31,493 - INFO - Smallest key: 1729378655947
+2024-10-19 16:58:31,648 - INFO - Created item with id 67bc6917-70ab-49b7-adf4-007d85b017a8 in DynamoDB.
+2024-10-19 16:58:31,820 - INFO - Smallest key: 1729378655991
+2024-10-19 16:58:31,915 - ERROR - Update Logic not yet implemented
+2024-10-19 16:58:32,091 - INFO - Smallest key: 1729378656116
+2024-10-19 16:58:32,243 - INFO - Created item with id 0fffb6a9-91b6-4dc6-bd71-6081343f2af8 in DynamoDB.
+2024-10-19 16:58:32,415 - INFO - Smallest key: 1729378656166
+2024-10-19 16:58:32,569 - INFO - Created item with id 2f7d4a47-bd9f-4967-9b59-4622818a96e7 in DynamoDB.
+2024-10-19 16:58:32,743 - INFO - Smallest key: 1729378656194
+2024-10-19 16:58:32,837 - ERROR - Update Logic not yet implemented
+2024-10-19 16:58:33,016 - INFO - Smallest key: 1729378656320
+2024-10-19 16:58:33,116 - ERROR - Update Logic not yet implemented
+2024-10-19 16:58:33,289 - INFO - Smallest key: 1729378656456
+2024-10-19 16:58:33,391 - ERROR - Update Logic not yet implemented
+2024-10-19 16:58:33,566 - INFO - Smallest key: 1729378656581
+2024-10-19 16:58:33,655 - ERROR - Delete Logic not yet implemented
+2024-10-19 16:58:33,827 - INFO - Smallest key: 1729378656706
+2024-10-19 16:58:33,925 - ERROR - Update Logic not yet implemented
+2024-10-19 16:58:34,101 - INFO - Smallest key: 1729378656840
+2024-10-19 16:58:34,260 - INFO - Created item with id 6e632518-cee0-4a02-b5f4-2b3f6995a7e9 in DynamoDB.
+2024-10-19 16:58:34,462 - INFO - Smallest key: 1729378656867
+2024-10-19 16:58:34,613 - INFO - Created item with id 389b0f40-5068-41e6-a243-bfe0fff8fe64 in DynamoDB.
+2024-10-19 16:58:34,787 - INFO - Smallest key: 1729378656906
+2024-10-19 16:58:34,955 - INFO - Created item with id a498be08-7752-4e62-8402-11e74c395e69 in DynamoDB.
+2024-10-19 16:58:35,127 - INFO - Smallest key: 1729378656938
+2024-10-19 16:58:35,273 - INFO - Created item with id b4e334ba-ea2c-4f2e-b2fa-9b9818d8f9ef in DynamoDB.
+2024-10-19 16:58:35,445 - INFO - Smallest key: 1729378656963
+2024-10-19 16:58:35,540 - ERROR - Update Logic not yet implemented
+2024-10-19 16:58:35,709 - INFO - Smallest key: 1729378657111
+2024-10-19 16:58:35,790 - ERROR - Delete Logic not yet implemented
+2024-10-19 16:58:35,961 - INFO - Smallest key: 1729378657236
+2024-10-19 16:58:36,062 - ERROR - Update Logic not yet implemented
+2024-10-19 16:58:36,232 - INFO - Smallest key: 1729378657366
+2024-10-19 16:58:36,412 - INFO - Created item with id d7c37c26-d5b4-4bd6-bd42-d20f92da9446 in DynamoDB.
+2024-10-19 16:58:36,579 - INFO - Smallest key: 1729378657404
+2024-10-19 16:58:36,670 - ERROR - Update Logic not yet implemented
+2024-10-19 16:58:36,856 - INFO - Smallest key: 1729378657531
+2024-10-19 16:58:36,937 - ERROR - Delete Logic not yet implemented
+2024-10-19 16:58:37,131 - INFO - Smallest key: 1729378657652
+2024-10-19 16:58:37,230 - ERROR - Update Logic not yet implemented
+2024-10-19 16:58:37,405 - INFO - Smallest key: 1729378657802
+2024-10-19 16:58:37,496 - ERROR - Update Logic not yet implemented
+2024-10-19 16:58:37,684 - INFO - Smallest key: 1729378657975
+2024-10-19 16:58:37,843 - INFO - Created item with id 9d7522a4-506c-485c-95ba-2bb77b6b5486 in DynamoDB.
+2024-10-19 16:58:38,047 - INFO - Smallest key: 1729378658034
+2024-10-19 16:58:38,153 - ERROR - Update Logic not yet implemented
+2024-10-19 16:58:38,328 - INFO - Smallest key: 1729378658198
+2024-10-19 16:58:38,419 - ERROR - Update Logic not yet implemented
+2024-10-19 16:58:38,594 - INFO - Smallest key: 1729378658330
+2024-10-19 16:58:38,718 - ERROR - Delete Logic not yet implemented
+2024-10-19 16:58:39,250 - INFO - Smallest key: 1729378658457
+2024-10-19 16:58:39,415 - INFO - Created item with id a127c27f-9e29-4e09-be48-41394808081f in DynamoDB.
+2024-10-19 16:58:39,585 - INFO - Smallest key: 1729378658485
+2024-10-19 16:58:39,740 - INFO - Created item with id 626ad99f-aa67-4abe-8559-3158ea8be75d in DynamoDB.
+2024-10-19 16:58:39,906 - INFO - Smallest key: 1729378658520
+2024-10-19 16:58:39,996 - ERROR - Update Logic not yet implemented
+2024-10-19 16:58:40,183 - INFO - Smallest key: 1729378658670
+2024-10-19 16:58:40,371 - INFO - Created item with id 089e8750-a5ac-4f1f-8770-0317fea2244a in DynamoDB.
+2024-10-19 16:58:40,580 - INFO - Smallest key: 1729378658697
+2024-10-19 16:58:40,672 - ERROR - Delete Logic not yet implemented
+2024-10-19 16:58:40,838 - INFO - Smallest key: 1729378658819
+2024-10-19 16:58:41,000 - INFO - Created item with id ff6030e8-5c80-4b98-8b22-ac93e1ca1e68 in DynamoDB.
+2024-10-19 16:58:41,175 - INFO - Smallest key: 1729378658847
+2024-10-19 16:58:41,329 - INFO - Created item with id 684a77ab-b844-4d20-a13b-423c80e74639 in DynamoDB.
+2024-10-19 16:58:41,512 - INFO - Smallest key: 1729378658874
+2024-10-19 16:58:41,685 - INFO - Created item with id 543b4fd1-48a9-463f-a399-62f79d3c23af in DynamoDB.
+2024-10-19 16:58:41,861 - INFO - Smallest key: 1729378658912
+2024-10-19 16:58:41,960 - ERROR - Update Logic not yet implemented
+2024-10-19 16:58:42,166 - INFO - Smallest key: 1729378659039
+2024-10-19 16:58:42,328 - INFO - Created item with id 88a76b81-5abc-48d9-8d5a-facfad65e44c in DynamoDB.
+2024-10-19 16:58:42,505 - INFO - Smallest key: 1729378659083
+2024-10-19 16:58:42,586 - ERROR - Delete Logic not yet implemented
+2024-10-19 16:58:42,805 - INFO - Smallest key: 1729378659216
+2024-10-19 16:58:42,959 - INFO - Created item with id a0723c8e-5d3e-4ae7-bcc6-3045dad1c5ae in DynamoDB.
+2024-10-19 16:58:43,133 - INFO - Smallest key: 1729378659253
+2024-10-19 16:58:43,285 - INFO - Created item with id 3040ec38-a696-418d-a898-360fd0d37dd0 in DynamoDB.
+2024-10-19 16:58:43,450 - INFO - Smallest key: 1729378659278
+2024-10-19 16:58:43,531 - ERROR - Delete Logic not yet implemented
+2024-10-19 16:58:43,744 - INFO - Smallest key: 1729378659401
+2024-10-19 16:58:43,835 - ERROR - Update Logic not yet implemented
+2024-10-19 16:58:44,003 - INFO - Smallest key: 1729378659594
+2024-10-19 16:58:44,084 - ERROR - Delete Logic not yet implemented
+2024-10-19 16:58:44,254 - INFO - Smallest key: 1729378659725
+2024-10-19 16:58:44,406 - INFO - Created item with id be3d4f19-bcf0-4ec9-971b-d720bb898d02 in DynamoDB.
+2024-10-19 16:58:44,582 - INFO - Smallest key: 1729378659758
+2024-10-19 16:58:44,695 - ERROR - Update Logic not yet implemented
+2024-10-19 16:58:44,862 - INFO - Smallest key: 1729378659886
+2024-10-19 16:58:44,957 - ERROR - Update Logic not yet implemented
+2024-10-19 16:58:45,133 - INFO - Smallest key: 1729378660015
+2024-10-19 16:58:45,271 - ERROR - Update Logic not yet implemented
+2024-10-19 16:58:45,440 - INFO - Smallest key: 1729378660142
+2024-10-19 16:58:45,616 - INFO - Created item with id 8c63efcd-a53a-45cb-9471-44ee63f304b9 in DynamoDB.
+2024-10-19 16:58:45,793 - INFO - Smallest key: 1729378660172
+2024-10-19 16:58:45,896 - ERROR - Delete Logic not yet implemented
+2024-10-19 16:58:46,117 - INFO - Smallest key: 1729378660301
+2024-10-19 16:58:46,219 - ERROR - Delete Logic not yet implemented
+2024-10-19 16:58:46,396 - INFO - Smallest key: 1729378660428
+2024-10-19 16:58:46,552 - INFO - Created item with id 560cd4cd-2bff-47e3-a0ad-03770f501204 in DynamoDB.
+2024-10-19 16:58:46,757 - INFO - Smallest key: 1729378660459
+2024-10-19 16:58:46,854 - ERROR - Update Logic not yet implemented
+2024-10-19 16:58:47,045 - INFO - Smallest key: 1729378660586
+2024-10-19 16:58:47,211 - INFO - Created item with id 055eda5d-ff43-4e25-9200-daee1a072520 in DynamoDB.
+2024-10-19 16:58:47,379 - INFO - Smallest key: 1729378660626
+2024-10-19 16:58:47,468 - ERROR - Update Logic not yet implemented
+2024-10-19 16:58:47,644 - INFO - Smallest key: 1729378660754
+2024-10-19 16:58:47,827 - INFO - Created item with id c511f226-ec69-433d-90b5-5575a23395d6 in DynamoDB.
+2024-10-19 16:58:48,015 - INFO - Smallest key: 1729378660786
+2024-10-19 16:58:48,110 - ERROR - Update Logic not yet implemented
+2024-10-19 16:58:48,295 - INFO - Smallest key: 1729378660935
+2024-10-19 16:58:48,390 - ERROR - Update Logic not yet implemented
+2024-10-19 16:58:48,560 - INFO - Smallest key: 1729378661063
+2024-10-19 16:58:48,652 - ERROR - Update Logic not yet implemented
+2024-10-19 16:58:48,826 - INFO - Smallest key: 1729378661244
+2024-10-19 16:58:48,928 - ERROR - Update Logic not yet implemented
+2024-10-19 16:58:49,097 - INFO - Smallest key: 1729378661387
+2024-10-19 16:58:49,275 - INFO - Created item with id b37c8929-cbab-42ed-b5fa-7d8c6c3b18c6 in DynamoDB.
+2024-10-19 16:58:49,820 - INFO - Smallest key: 1729378661413
+2024-10-19 16:58:49,903 - ERROR - Update Logic not yet implemented
+2024-10-19 16:58:50,057 - INFO - Smallest key: 1729378661545
+2024-10-19 16:58:50,138 - ERROR - Update Logic not yet implemented
+2024-10-19 16:58:50,287 - INFO - Smallest key: 1729378661726
+2024-10-19 16:58:50,434 - INFO - Created item with id 11d6b323-0c07-467a-ac7f-f2a959a5a034 in DynamoDB.
+2024-10-19 16:58:50,579 - INFO - Smallest key: 1729378661754
+2024-10-19 16:58:50,727 - INFO - Created item with id 9dc47974-f6a1-4adf-a45e-33e41635ece8 in DynamoDB.
+2024-10-19 16:58:50,872 - INFO - Smallest key: 1729378661782
+2024-10-19 16:58:51,016 - INFO - Created item with id 14e453a9-e132-450d-a7d4-683a11129bce in DynamoDB.
+2024-10-19 16:58:51,169 - INFO - Smallest key: 1729378661809
+2024-10-19 16:58:51,258 - ERROR - Update Logic not yet implemented
+2024-10-19 16:58:51,409 - INFO - Smallest key: 1729378661936
+2024-10-19 16:58:51,499 - ERROR - Update Logic not yet implemented
+2024-10-19 16:58:51,654 - INFO - Smallest key: 1729378662064
+2024-10-19 16:58:51,819 - INFO - Created item with id 1e49edd4-95f7-40c2-808e-a3f11fd7fdd0 in DynamoDB.
+2024-10-19 16:58:51,973 - INFO - Smallest key: 1729378662095
+2024-10-19 16:58:52,050 - ERROR - Update Logic not yet implemented
+2024-10-19 16:58:52,211 - INFO - Smallest key: 1729378662285
+2024-10-19 16:58:52,393 - INFO - Created item with id 9cdce06d-3d88-4dc8-877b-c68a332f54c4 in DynamoDB.
+2024-10-19 16:58:52,576 - INFO - Smallest key: 1729378662315
+2024-10-19 16:58:52,673 - ERROR - Update Logic not yet implemented
+2024-10-19 16:58:52,833 - INFO - Smallest key: 1729378662440
+2024-10-19 16:58:52,986 - INFO - Created item with id a0459087-4293-4288-8f37-ff064a211a03 in DynamoDB.
+2024-10-19 16:58:53,145 - INFO - Smallest key: 1729378662508
+2024-10-19 16:58:53,289 - INFO - Created item with id eb7fcb3f-a670-4bba-a840-a5398f9c2d6f in DynamoDB.
+2024-10-19 16:58:53,448 - INFO - Smallest key: 1729378662539
+2024-10-19 16:58:53,520 - ERROR - Delete Logic not yet implemented
+2024-10-19 16:58:53,671 - INFO - Smallest key: 1729378662665
+2024-10-19 16:58:53,782 - ERROR - Update Logic not yet implemented
+2024-10-19 16:58:53,964 - INFO - Smallest key: 1729378662793
+2024-10-19 16:58:54,170 - INFO - Created item with id cacb617c-8030-42bc-9363-0b3bed212231 in DynamoDB.
+2024-10-19 16:58:54,321 - INFO - Smallest key: 1729378662816
+2024-10-19 16:58:54,397 - ERROR - Update Logic not yet implemented
+2024-10-19 16:58:54,557 - INFO - Smallest key: 1729378662981
+2024-10-19 16:58:54,645 - ERROR - Update Logic not yet implemented
+2024-10-19 16:58:54,788 - INFO - Smallest key: 1729378663109
+2024-10-19 16:58:54,953 - INFO - Created item with id b4ae504b-7474-498c-bd2c-31b6f08e5594 in DynamoDB.
+2024-10-19 16:58:55,103 - INFO - Smallest key: 1729378663136
+2024-10-19 16:58:55,240 - INFO - Created item with id 22634f86-21d3-4771-9989-702164992cc4 in DynamoDB.
+2024-10-19 16:58:55,391 - INFO - Smallest key: 1729378663176
+2024-10-19 16:58:55,531 - INFO - Created item with id 68838247-ada9-4d5e-a517-c9f332566e62 in DynamoDB.
+2024-10-19 16:58:55,675 - INFO - Smallest key: 1729378663217
+2024-10-19 16:58:55,814 - INFO - Created item with id 75337fcd-332b-419d-8652-4d1a0f068f30 in DynamoDB.
+2024-10-19 16:58:55,956 - INFO - Smallest key: 1729378663243
+2024-10-19 16:58:56,037 - ERROR - Update Logic not yet implemented
+2024-10-19 16:58:56,180 - INFO - Smallest key: 1729378663371
+2024-10-19 16:58:56,285 - ERROR - Update Logic not yet implemented
+2024-10-19 16:58:56,430 - INFO - Smallest key: 1729378663556
+2024-10-19 16:58:56,569 - INFO - Created item with id 35ad3747-0db3-4c8b-9814-b5804b982740 in DynamoDB.
+2024-10-19 16:58:56,716 - INFO - Smallest key: 1729378663591
+2024-10-19 16:58:56,798 - ERROR - Update Logic not yet implemented
+2024-10-19 16:58:56,957 - INFO - Smallest key: 1729378663718
+2024-10-19 16:58:57,037 - ERROR - Update Logic not yet implemented
+2024-10-19 16:58:57,183 - INFO - Smallest key: 1729378663846
+2024-10-19 16:58:57,265 - ERROR - Update Logic not yet implemented
+2024-10-19 16:58:57,410 - INFO - Smallest key: 1729378663972
+2024-10-19 16:58:57,527 - ERROR - Update Logic not yet implemented

@@ -22,7 +22,7 @@ class S3RequestAndObjectReceiver:
             object_response = self.s3_client.get_object(Bucket=self.source_bucket, Key=key)
             body = object_response['Body'].read().decode('utf-8')
             if not body.strip():  # If the body is empty or contains only whitespace
-                print(f'Object {key} is empty, skipping.')
+                logging.error(f'Object {key} is empty, skipping.')
                 return None, None, key  # Skip to the next object
             # Parse the body as JSON
             body_json = json.loads(body)

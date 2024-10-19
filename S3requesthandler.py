@@ -25,7 +25,7 @@ class S3RequestHandler:
             key (str): The key of the object being processed (used for delete).
         """
         if request_type:
-            print(request_type)
+            logging.info(request_type)
             if request_type == 'create':
                 self.create_object(body)
             elif request_type == 'delete':
