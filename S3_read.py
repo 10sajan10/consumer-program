@@ -1,35 +1,36 @@
 import boto3
 import json
 
-BUCKET_NAME = 'usu-cs5250-sajan-requests'
-PREFIX = "widgets"
-TARGET_BUCKET = 'usu-sajan-testbucket'
+class S3RequestAndObjectReceiver:
+    def __init__(self, source_bucket):
+        self.s3_client = boto3.client('s3')
+        self.source_bucket = source_bucket
 
-s3_client = boto3.client('s3')
+    def get_smallest_object(self):
+        """
+        Retrieves the object with the smallest key from the source bucket, parses its contents, and
+        returns the request type along with the modified body (without 'type' and 'requestId').
+        """
+        response = self.s3_client.list_objects_v2(Bucket=self.source_bucket, MaxKeys=1)
 
-# Retrieve the smallest key from the bucket
-response = s3_client.list_objects_v2(Bucket=BUCKET_NAME, MaxKeys=1)
+        if 'Contents' in response:
+            key = response['Contents'][0]['Key']
+            print(f'Smallest key: {key}')
 
-# Check if there is an object
-if 'Contents' in response:
-    key = response['Contents'][0]['Key']
-    print(f'Smallest key: {key}')
+            # Retrieve the object content
+            object_response = self.s3_client.get_object(Bucket=self.source_bucket, Key=key)
+            body = object_response['Body'].read().decode('utf-8')
+            if not body.strip():  # If the body is empty or contains only whitespace
+                print(f'Object {key} is empty, skipping.')
+                return None, None, key  # Skip to the next object
+            # Parse the body as JSON
+            body_json = json.loads(body)
 
-    # Get the object content
-    object_response = s3_client.get_object(Bucket=BUCKET_NAME, Key=key)
-    body = object_response['Body'].read().decode('utf-8')
-    json_body = json.loads(body)
+            # Extract the request type and remove 'type' and 'requestId' from the body
+            request_type = body_json.pop('type', None)
+            body_json.pop('requestId', None)
 
-    # Process JSON content
-    print(json_body)
-    owner = json_body['owner']
-    widget_id = json_body['widgetId']
+            # Return the request type and the modified body
+            return request_type, body_json, key
 
-    # Upload to target bucket with new key
-    new_key = f'{PREFIX}/{owner}/{widget_id}'
-    s3_client.put_object(Bucket=TARGET_BUCKET, Key=new_key, Body=body)
-
-    print(f"Object uploaded to {TARGET_BUCKET} with key {new_key}")
-
-else:
-    print("No objects found in the bucket.")
+        return None, None, None
