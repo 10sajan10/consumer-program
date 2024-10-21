@@ -75,7 +75,9 @@ class DynamoDBRequestHandler:
         """
         request_receiver = S3RequestAndObjectReceiver(source_bucket)
 
-        while True:  # Replace with your stop condition
+        cumulative_wait_time = 0  # Initialize cumulative wait time
+
+        while cumulative_wait_time < 5:  # Continue until 5 seconds of cumulative wait time
             # Try to get a request
             request_type, body, key = request_receiver.get_smallest_object()
 
@@ -84,6 +86,11 @@ class DynamoDBRequestHandler:
                 self.handle_request(request_type, body, key)
                 request_receiver.s3_client.delete_object(Bucket=source_bucket, Key=key)
 
+                # Reset cumulative wait time since a key was found
+                cumulative_wait_time = 0
             else:
-                # Wait a while before checking again
+                # Wait for a while before checking again
                 time.sleep(0.1)  # Wait for 100 ms
+                cumulative_wait_time += 0.1  # Increment cumulative wait time
+
+        logging.info("No new requests for 5 seconds. Stopping processing.")
