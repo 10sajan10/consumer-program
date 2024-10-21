@@ -47,7 +47,7 @@ Ensure you have the following installed on your system:
 2. Install Dependencies:
 
   ```bash
-   pip install -r requirements.txt
+   pip3 install -r requirements.txt
    ```
 
 3. Ensure you have the AWS CLI set up and your credentials properly configured:
