@@ -60,7 +60,7 @@ Use the following command-line options to specify the source and target storage 
 The program processes requests from an S3 bucket and either stores or deletes widgets in another S3 bucket or DynamoDB table based on the operation requested.
 
 ```bash
-python main.py -ss <storage> -rb <request-bucket> [-wb <widget-bucket>] [-dt <dynamodb-table>]
+python3 main.py -ss <storage> -rb <request-bucket> [-wb <widget-bucket>] [-dt <dynamodb-table>]
 ```
 - `-ss` or `--storage`: Specifies the storage strategy. Acceptable values are:
   - **S3** for using S3 buckets to store widget data.
