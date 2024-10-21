@@ -47,7 +47,7 @@ Ensure you have the following installed on your system:
 2. Install Dependencies:
 
   ```bash
-   pip install -r requirements.txt
+   pip3 install -r requirements.txt
    ```
 
 3. Ensure you have the AWS CLI set up and your credentials properly configured:
@@ -60,7 +60,7 @@ Use the following command-line options to specify the source and target storage 
 The program processes requests from an S3 bucket and either stores or deletes widgets in another S3 bucket or DynamoDB table based on the operation requested.
 
 ```bash
-python main.py -ss <storage> -rb <request-bucket> [-wb <widget-bucket>] [-dt <dynamodb-table>]
+python3 main.py -ss <storage> -rb <request-bucket> [-wb <widget-bucket>] [-dt <dynamodb-table>]
 ```
 - `-ss` or `--storage`: Specifies the storage strategy. Acceptable values are:
   - **S3** for using S3 buckets to store widget data.
@@ -77,12 +77,12 @@ python main.py -ss <storage> -rb <request-bucket> [-wb <widget-bucket>] [-dt <dy
 To process requests from `request-bucket` and store widget data in the `widget-bucket` using S3:
 
 ```bash
-python main.py -ss S3 -rb request-bucket -wb widget-bucket
+python3 main.py -ss S3 -rb request-bucket -wb widget-bucket
 ```
 
 To process requests from `request-bucket` and store widget data in DynamoDB:
 ```bash
-python main.py -ss DynamoDB -rb request-bucket -dt your-dynamodb-table
+python3 main.py -ss DynamoDB -rb request-bucket -dt your-dynamodb-table
 ```
 ## Logs
 Logs will be created in a `logs/` directory with the log file named after the current date (e.g., `2024-10-19.log`). All logs will be stored here, and they will also be displayed in the console during program execution.
