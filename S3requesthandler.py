@@ -2,10 +2,11 @@ import boto3
 import json
 import time
 from S3_read import S3RequestAndObjectReceiver
+from SQSRequestReceiver import SQSRequestReceiver
 import logging
 
 class S3RequestHandler:
-    def __init__(self, target_bucket):
+    def __init__(self, target_bucket, source):
         """
         Initializes the S3RequestHandler with the target S3 bucket.
 
@@ -14,6 +15,7 @@ class S3RequestHandler:
         """
         self.s3_client = boto3.client('s3')
         self.target_bucket = target_bucket
+        self.source = source
 
     def handle_request(self, request_type, body, key):
         """
@@ -58,32 +60,61 @@ class S3RequestHandler:
         """Placeholder for updating an object in the target S3 bucket."""
         logging.error("Update logic not yet implemented.")
 
-    def process_requests(self, source_bucket):
+    def process_requests_from_s3(self,source_bucket):
         """
         Continuously process requests from the source bucket until a stop condition is met.
 
         Args:
             source_bucket (str): The name of the source S3 bucket to read requests from.
         """
-        request_receiver = S3RequestAndObjectReceiver(source_bucket)
+        if source_bucket:
+            s3request_receiver = S3RequestAndObjectReceiver(source_bucket)
 
-        cumulative_wait_time = 0  # Initialize cumulative wait time
+            cumulative_wait_time = 0  # Initialize cumulative wait time
 
-        while cumulative_wait_time < 5:  # Continue until 5 seconds of cumulative wait time
+            while cumulative_wait_time < 5:  # Continue until 5 seconds of cumulative wait time
             # Try to get a request
-            request_type, body, key = request_receiver.get_smallest_object()
+                request_type, body, key = s3request_receiver.get_smallest_object()
 
-            if key:
-                # Process the request
-                self.handle_request(request_type, body, key)
-                request_receiver.s3_client.delete_object(Bucket=source_bucket, Key=key)
+                if key:
+                    # Process the request
+                    self.handle_request(request_type, body, key)
+                    s3request_receiver.s3_client.delete_object(Bucket=source_bucket, Key=key)
 
-                # Reset cumulative wait time since a key was found
-                cumulative_wait_time = 0
-            else:
-                # Wait for a while before checking again
-                time.sleep(0.1)  # Wait for 100 ms
-                cumulative_wait_time += 0.1  # Increment cumulative wait time
+                    # Reset cumulative wait time since a key was found
+                    cumulative_wait_time = 0
+                else:
+                    # Wait for a while before checking again
+                    time.sleep(0.1)  # Wait for 100 ms
+                    cumulative_wait_time += 0.1  # Increment cumulative wait time
 
-        logging.info("No new requests for 5 seconds. Stopping processing.")
+            logging.info("No new requests for 5 seconds. Stopping processing.")
+
+
+        def process_request_from_queue(self,source_queueurl):
+            if source_queueurl:
+                SQSrequest_receiver = SQSRequestReceiver(source_queueurl)
+
+                cumulative_wait_time = 0  # Initialize cumulative wait time
+
+                while cumulative_wait_time < 5:  # Continue until 5 seconds of cumulative wait time
+                    # Try to get a request
+                    messages = SQSrequest_receiver.retrieve_messages_from_queue()
+
+                    if key:
+                        # Process the request
+                        self.handle_request(request_type, body, key)
+                        request_receiver.s3_client.delete_object(Bucket=source_bucket, Key=key)
+
+                        # Reset cumulative wait time since a key was found
+                        cumulative_wait_time = 0
+                    else:
+                        # Wait for a while before checking again
+                        time.sleep(0.1)  # Wait for 100 ms
+                        cumulative_wait_time += 0.1  # Increment cumulative wait time
+
+                logging.info("No new requests for 5 seconds. Stopping processing.")
+
+
+
 
