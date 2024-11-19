@@ -18,9 +18,6 @@ class SQSRequestReceiver:
             messages = response.get('Messages', None)
             if not messages:
                 print("No messages")
-            for message in messages:
-                print(message)
-                print("\n")
             return messages
         except botocore.exceptions.ClientError as e:
             print("Something went wrong")

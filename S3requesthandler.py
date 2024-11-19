@@ -59,9 +59,23 @@ class S3RequestHandler:
             print(f'Object {key} does not exist in bucket {self.target_bucket}. Nothing to delete.')
 
     def update_object(self, body, key):
-        """Placeholder for updating an object in the target S3 bucket."""
-        logging.error("Update logic not yet implemented.")
-        print("Update logic not yet implemented.")
+        """Update an object in the target S3 bucket."""
+        try:
+            # Retrieve the current object from S3
+            response = self.s3_client.get_object(Bucket=self.target_bucket, Key=key)
+            current_data = json.loads(response['Body'].read().decode('utf-8'))
+
+            # Merge new data into the current object
+            updated_data = {**current_data, **body}
+
+            # Upload the updated object back to S3
+            self.s3_client.put_object(Bucket=self.target_bucket, Key=key, Body=json.dumps(updated_data))
+            logging.info(f'Updated object {key} in bucket {self.target_bucket}')
+        except self.s3_client.exceptions.NoSuchKey:
+            logging.warning(f'Object {key} does not exist in bucket {self.target_bucket}. Creating a new object.')
+            self.create_object(body, key)
+        except Exception as e:
+            logging.error(f"Failed to update object {key} in bucket {self.target_bucket}: {e}")
     def process_requests_from_s3(self,source_bucket):
         """
         Continuously process requests from the source bucket until a stop condition is met.
@@ -111,10 +125,10 @@ class S3RequestHandler:
 
             cumulative_wait_time = 0  # Initialize cumulative wait time
 
-            while cumulative_wait_time < 5:  # Continue until 5 seconds of cumulative wait time
+            while cumulative_wait_time < 3:  # Continue until 5 seconds of cumulative wait time
                 # Try to get a request
                 messages = SQSrequest_receiver.retrieve_messages_from_queue(maxno=10)
-                if messages:
+                if messages is not None:
                     for message in messages:
                         message_body = message['Body']
                         receipt_handle = message['ReceiptHandle']
@@ -139,12 +153,9 @@ class S3RequestHandler:
                 else:
                     # Wait for a while before checking again
                     time.sleep(0.1)  # Wait for 100 ms
-                    cumulative_wait_time += 0.1  # Increment cumulative wait time
+                    cumulative_wait_time += 1  # Increment cumulative wait time
 
-            logging.info("No new requests for 5 seconds. Stopping processing.")
-            print("No new requests for 5 seconds. Stopping processing")
+            logging.info("No new requests for 3 ReTries. Stopping processing.")
 
 
 S3RequestHandler('usu-cs5250-sajan-web').process_request_from_queue('https://sqs.us-east-1.amazonaws.com/186579595491/cs5250-requests')
-
-
