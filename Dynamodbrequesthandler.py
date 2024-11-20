@@ -94,3 +94,41 @@ class DynamoDBRequestHandler:
                 cumulative_wait_time += 0.1  # Increment cumulative wait time
 
         logging.info("No new requests for 5 seconds. Stopping processing.")
+
+    def process_request_from_queue(self, source_queueurl):
+        if source_queueurl:
+            SQSrequest_receiver = SQSRequestReceiver(source_queueurl)
+
+            cumulative_wait_time = 0  # Initialize cumulative wait time
+
+            while cumulative_wait_time < 3:  # Continue until 5 seconds of cumulative wait time
+                # Try to get a request
+                messages = SQSrequest_receiver.retrieve_messages_from_queue(maxno=10)
+                if messages is not None:
+                    for message in messages:
+                        message_body = message['Body']
+                        receipt_handle = message['ReceiptHandle']
+                        message_id = message['MessageId']
+                        json_data = json.loads(message_body)
+                        request_type = json_data.pop('type', None)
+
+                        """Create a new object in the target S3 bucket."""
+                        widget_id = json_data.get('widgetId', None)
+                        owner = json_data.get('owner', None)
+                        if widget_id:
+                            if not owner:
+                                owner = "unidentified"
+                            target_key = f'widgets/{owner}/{widget_id}'
+                            self.handle_request(request_type,json_data, target_key)
+                        else:
+                            logging.error("Invalid data for creating object.")
+                            print("Invalid data for creating object.")
+                        self.SQS_message_delete(SQSrequest_receiver, source_queueurl,receipt_handle)
+                        cumulative_wait_time = 0
+
+                else:
+                    # Wait for a while before checking again
+                    time.sleep(0.1)  # Wait for 100 ms
+                    cumulative_wait_time += 1  # Increment cumulative wait time
+
+            logging.info("No new requests for 3 ReTries. Stopping processing.")
