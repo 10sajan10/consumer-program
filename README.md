@@ -1,19 +1,25 @@
 # Widget Request Consumer
 
 ## Overview
-The **Widget Request Consumer** is a Python program designed to process requests from an S3 bucket, performing operations on widgets stored in either another S3 bucket or a DynamoDB table. The program supports creating, updating, and deleting widgets based on the requests, and logs operations for debugging and monitoring.
+This program processes widget operation requests and supports transferring data between AWS S3, SQS, and DynamoDB based on the provided configuration. Ensure the following prerequisites are met before running the program.
+
 
 ## Features
-- Processes widget requests from an S3 request bucket.
-- Handles widget data storage in either:
-  - **S3 bucket**: For storing widget-related data in a specific target bucket.
-  - **DynamoDB**: For storing widget data in a DynamoDB table.
+- Processes requests from either an **S3 bucket** or an **SQS queue**.
+- Stores processed widgets in either an **S3 bucket** or a **DynamoDB table**.
 - Supports three operations:
   - **Create**: Adds a new widget to the specified storage.
   - **Update**: Updates an existing widget's information.
   - **Delete**: Removes a widget from the storage.
 - Logging to both console and log files for tracking request processing and errors.
   
+## Example Scenarios
+
+1. **S3 to S3**: Transfer widget operation requests from a source S3 bucket to a target S3 bucket.  
+2. **S3 to DynamoDB**: Process widget operation requests from an S3 bucket and store results in DynamoDB.  
+3. **SQS to DynamoDB**: Retrieve requests from an SQS queue and process them into a DynamoDB table.  
+4. **SQS to S3**: Fetch requests from an SQS queue and store processed widgets in an S3 bucket.
+   
 ## Directory Structure
 ```bash
 .
@@ -25,16 +31,46 @@ The **Widget Request Consumer** is a Python program designed to process requests
 ├── requirements.txt        # Python package requirements
 └── README.md               # This file
 ```
+
 ## Prerequisites
 
-Ensure you have the following installed on your system:
+1. **AWS CLI**  
+   - The AWS Command Line Interface (CLI) must be installed and configured on your system.  
+   - Set up credentials with appropriate permissions for accessing S3, SQS, and DynamoDB services.  
+   [AWS CLI Installation Guide](https://docs.aws.amazon.com/cli/latest/userguide/install-cliv2.html).
 
-- **AWS CLI**: You need to have the AWS CLI installed and configured with appropriate credentials for accessing S3 and DynamoDB.
-- **Python 3.x**: The program is written in Python and requires Python 3.x.
-- **AWS S3 buckets**: You will need two S3 buckets:
-    A request bucket that contains incoming widget operation requests.
-    A target bucket (if using S3 as storage) to store processed widget data.
-- **DynamoDB table** (optional): If you choose to use DynamoDB for widget storage, you will need a DynamoDB table set up with the necessary attributes (e.g., widgetId as the partition key).
+2. **Python 3.x**  
+   - This program requires Python 3.x to run.  
+   - Ensure Python is installed and accessible in your system’s PATH.  
+   [Python Installation Guide](https://www.python.org/downloads/).
+
+3. **AWS S3 Buckets** (Optional)  
+   - **Request Bucket**: Stores incoming widget operation requests.  
+   - **Target Bucket**: If S3 is chosen as the storage destination, this bucket stores processed widget data.  
+   Example:  
+     - `--sourcebucket`: The request bucket containing operation requests.  
+     - `--target`: The bucket for processed widgets.  
+   Ensure both buckets are created and accessible.
+
+4. **DynamoDB Table** (Optional)  
+   - If DynamoDB is used for widget storage, a DynamoDB table must be configured.  
+   - The table should include necessary attributes, such as `widgetId` as the partition key or other required keys.  
+
+5. **Source Queue URL** (Optional)  
+   - If requests are retrieved from an SQS queue, provide the Queue URL or name.  
+   - Ensure the queue is properly configured, and the IAM role or credentials have permissions to access it.
+
+## Example Scenarios
+
+1. **S3 to S3**: Transfer widget operation requests from a source S3 bucket to a target S3 bucket.  
+2. **S3 to DynamoDB**: Process widget operation requests from an S3 bucket and store results in DynamoDB.  
+3. **SQS to DynamoDB**: Retrieve requests from an SQS queue and process them into a DynamoDB table.  
+4. **SQS to S3**: Fetch requests from an SQS queue and store processed widgets in an S3 bucket.
+
+## Usage
+
+Run the program using the command-line interface. Pass the required arguments based on the desired configuration:
+
 
 ## Installation
 
@@ -50,7 +86,7 @@ Ensure you have the following installed on your system:
    pip3 install -r requirements.txt
    ```
 
-3. Ensure you have the AWS CLI set up and your credentials properly configured:
+3. Ensure you have your credentials properly configured:
 
 ## Usage
 ### Running the Program
@@ -60,13 +96,12 @@ Use the following command-line options to specify the source and target storage 
 The program processes requests from an S3 bucket and either stores or deletes widgets in another S3 bucket or DynamoDB table based on the operation requested.
 
 ```bash
-python3 main.py -ss <storage> -rb <request-bucket> [-wb <widget-bucket>] [-dt <dynamodb-table>]
+python3 main.py [-rb <request-bucket>] [-rq <source queue>] [-wb <widget-bucket>] [-dt <dynamodb-table>]
 ```
-- `-ss` or `--storage`: Specifies the storage strategy. Acceptable values are:
-  - **S3** for using S3 buckets to store widget data.
-  - **DynamoDB** for using DynamoDB to store widget data.
+
+- `-rq` or `--sourcequeue`: The SQS Queue URL from where requests are pulled.
   
-- `-rb` or `--source`: The S3 bucket where the requests are stored.
+- `-rb` or `--sourcebucket`: The S3 bucket where the requests are stored.
 
 - `-wb` or `--target`: (Optional) The S3 bucket where the widget data will be stored (required if S3 storage is selected).
 
@@ -77,12 +112,12 @@ python3 main.py -ss <storage> -rb <request-bucket> [-wb <widget-bucket>] [-dt <d
 To process requests from `request-bucket` and store widget data in the `widget-bucket` using S3:
 
 ```bash
-python3 main.py -ss S3 -rb request-bucket -wb widget-bucket
+python3 main.py -rb <request-bucket> -wb <widget-bucket>
 ```
 
-To process requests from `request-bucket` and store widget data in DynamoDB:
+To process requests from `souce queue` and store widget data in DynamoDB:
 ```bash
-python3 main.py -ss DynamoDB -rb request-bucket -dt your-dynamodb-table
+python3 main.py -rq <queue_url> -dt <your-dynamodb-table>
 ```
 ## Logs
 Logs will be created in a `logs/` directory with the log file named after the current date (e.g., `2024-10-19.log`). All logs will be stored here, and they will also be displayed in the console during program execution.
