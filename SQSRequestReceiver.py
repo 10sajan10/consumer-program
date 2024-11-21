@@ -1,5 +1,6 @@
 import boto3
 import botocore
+import logging
 
 class SQSRequestReceiver:
 
@@ -17,12 +18,11 @@ class SQSRequestReceiver:
         )
             messages = response.get('Messages', None)
             if not messages:
-                print("No messages")
+                logging.info("No messagessss")
             return messages
         except botocore.exceptions.ClientError as e:
             print("Something went wrong")
             print(e)
             exit()
 
-sqs = SQSRequestReceiver('https://sqs.us-east-1.amazonaws.com/186579595491/cs5250-requests').retrieve_messages_from_queue(10)
 

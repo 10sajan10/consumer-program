@@ -1,7 +1,9 @@
 import boto3
 import time
 import logging
-from S3_read import S3RequestAndObjectReceiver  # Ensure this module is adapted to work with DynamoDB
+from S3_read import S3RequestAndObjectReceiver
+from SQSRequestReceiver import SQSRequestReceiver
+import json
 
 class DynamoDBRequestHandler:
     def __init__(self, table_name):
@@ -14,7 +16,7 @@ class DynamoDBRequestHandler:
         self.dynamodb = boto3.resource('dynamodb', region_name='us-east-1')#specified region
         self.table = self.dynamodb.Table(table_name)
 
-    def handle_request(self, request_type, body, key):
+    def handle_request(self, request_type, body):
         """
         Handles the request based on its type.
 
@@ -23,21 +25,23 @@ class DynamoDBRequestHandler:
             body (dict): The body of the request containing relevant information.
             key (str): The ID of the item being processed (used for delete).
         """
+        widget_id = body.pop('widgetId')
         if request_type:
             logging.info(request_type)
             if request_type == 'create':
-                self.create_item(body)
+                self.create_item(body, widget_id)
             elif request_type == 'delete':
-                self.delete_item(key)
+                self.delete_item(widget_id)
             elif request_type == 'update':
-                self.update_item(body)
+                self.update_item(body,widget_id)
             else:
                 logging.error(f"Unknown request type: {request_type}")
 
-    def create_item(self, body):
+    def create_item(self, body, widget_id):
         """Create a new item in the DynamoDB table."""
-        widget_id = body.pop('widgetId')
+
         other_attributes = body.pop('otherAttributes',None)
+        print(widget_id)
         if widget_id:
             # Prepare the item to be put into DynamoDB
             item = {
@@ -52,21 +56,45 @@ class DynamoDBRequestHandler:
 
             self.table.put_item(Item=item)
             logging.info(f'Created item with id {widget_id} in DynamoDB.')
+
         else:
             logging.error("Invalid data for creating item.")
 
     def delete_item(self, widget_id):
         """Delete an item from the DynamoDB table."""
-        #self.table.delete_item(Key={'id': widget_id})
-        logging.error('Delete Logic not yet implemented')
+        try:
+            response = self.table.delete_item(
+                Key={'id': widget_id},
+                ReturnValues='ALL_OLD'  # Return deleted item's attributes
+            )
+            if 'Attributes' in response:
+                logging.info(f"Deleted item with id {widget_id} from DynamoDB.")
+            else:
+                logging.warning(f"No item with id {widget_id} was found in DynamoDB.")
+        except Exception as e:
+            logging.error(f"Failed to delete item with id {widget_id}: {e}")
         pass
 
-    def update_item(self, body):
-        """Update an existing item in the DynamoDB table."""
-        logging.error('Update Logic not yet implemented')
-        pass
+    def update_item(self, body, widget_id):
+        """Update an existing item in the DynamoDB table or create it if it doesn't exist."""
+        try:
+            # Check if the item exists
+            existing_item = self.table.get_item(Key={'id': widget_id}).get('Item')
 
-    def process_requests(self, source_bucket):
+            if existing_item:
+                # Update the existing item by merging attributes
+                updated_item = {**existing_item, **body}
+                self.table.put_item(Item=updated_item)
+                print(f"Updated item with id {widget_id} in DynamoDB.")
+            else:
+                # Item does not exist, create a new one
+                print(f"Item with id {widget_id} not found. Creating a new item.")
+                self.create_item(body, widget_id)
+
+        except Exception as e:
+            logging.error(f"Failed to update item with id {widget_id}: {e}")
+
+    def process_requests_from_s3(self, source_bucket):
         """
         Continuously process requests from the source bucket until a stop condition is met.
 
@@ -83,7 +111,8 @@ class DynamoDBRequestHandler:
 
             if key:
                 # Process the request
-                self.handle_request(request_type, body, key)
+
+                self.handle_request(request_type, body)
                 request_receiver.s3_client.delete_object(Bucket=source_bucket, Key=key)
 
                 # Reset cumulative wait time since a key was found
@@ -93,7 +122,10 @@ class DynamoDBRequestHandler:
                 time.sleep(0.1)  # Wait for 100 ms
                 cumulative_wait_time += 0.1  # Increment cumulative wait time
 
-        logging.info("No new requests for 5 seconds. Stopping processing.")
+        print("No new requests for 5 seconds. Stopping processing.")
+
+    def SQS_message_delete(self, sqsreceiver, source_queueurl, receipt_handle):
+            sqsreceiver.sqs_client.delete_message(QueueUrl=source_queueurl,ReceiptHandle=receipt_handle)
 
     def process_request_from_queue(self, source_queueurl):
         if source_queueurl:
@@ -119,7 +151,7 @@ class DynamoDBRequestHandler:
                             if not owner:
                                 owner = "unidentified"
                             target_key = f'widgets/{owner}/{widget_id}'
-                            self.handle_request(request_type,json_data, target_key)
+                            self.handle_request(request_type,json_data)
                         else:
                             logging.error("Invalid data for creating object.")
                             print("Invalid data for creating object.")
@@ -131,4 +163,7 @@ class DynamoDBRequestHandler:
                     time.sleep(0.1)  # Wait for 100 ms
                     cumulative_wait_time += 1  # Increment cumulative wait time
 
-            logging.info("No new requests for 3 ReTries. Stopping processing.")
+            print("No new requests for 3 ReTries. Stopping processing.")
+
+
+DynamoDBRequestHandler('widgets').process_requests_from_s3('usu-cs5250-sajan-requests')
