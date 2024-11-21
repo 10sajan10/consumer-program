@@ -21,8 +21,8 @@ class SQSRequestReceiver:
                 logging.info("No messagessss")
             return messages
         except botocore.exceptions.ClientError as e:
-            print("Something went wrong")
-            print(e)
+            logging.error("Something went wrong")
+            logging.error(e)
             exit()
 
 

@@ -41,7 +41,6 @@ class DynamoDBRequestHandler:
         """Create a new item in the DynamoDB table."""
 
         other_attributes = body.pop('otherAttributes',None)
-        print(widget_id)
         if widget_id:
             # Prepare the item to be put into DynamoDB
             item = {
@@ -85,10 +84,10 @@ class DynamoDBRequestHandler:
                 # Update the existing item by merging attributes
                 updated_item = {**existing_item, **body}
                 self.table.put_item(Item=updated_item)
-                print(f"Updated item with id {widget_id} in DynamoDB.")
+                logging.info(f"Updated item with id {widget_id} in DynamoDB.")
             else:
                 # Item does not exist, create a new one
-                print(f"Item with id {widget_id} not found. Creating a new item.")
+                logging.warning(f"Item with id {widget_id} not found. Creating a new item.")
                 self.create_item(body, widget_id)
 
         except Exception as e:
@@ -122,7 +121,7 @@ class DynamoDBRequestHandler:
                 time.sleep(0.1)  # Wait for 100 ms
                 cumulative_wait_time += 0.1  # Increment cumulative wait time
 
-        print("No new requests for 5 seconds. Stopping processing.")
+        logging.info("No new requests for 5 seconds. Stopping processing.")
 
     def SQS_message_delete(self, sqsreceiver, source_queueurl, receipt_handle):
             sqsreceiver.sqs_client.delete_message(QueueUrl=source_queueurl,ReceiptHandle=receipt_handle)
@@ -154,7 +153,6 @@ class DynamoDBRequestHandler:
                             self.handle_request(request_type,json_data)
                         else:
                             logging.error("Invalid data for creating object.")
-                            print("Invalid data for creating object.")
                         self.SQS_message_delete(SQSrequest_receiver, source_queueurl,receipt_handle)
                         cumulative_wait_time = 0
 
@@ -163,4 +161,4 @@ class DynamoDBRequestHandler:
                     time.sleep(0.1)  # Wait for 100 ms
                     cumulative_wait_time += 1  # Increment cumulative wait time
 
-            print("No new requests for 3 ReTries. Stopping processing.")
+            logging.info("No new requests for 3 ReTries. Stopping processing.")

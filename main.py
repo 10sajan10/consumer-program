@@ -32,6 +32,15 @@ widget_bucket = args.target
 table_name = args.dynamodb
 
 def main():
+
+    if widget_bucket and table_name:
+        logging.error('Please specify only one Target')
+        exit()
+
+    if request_queue and request_bucket:
+        logging.error('Please specify only one Request Source')
+        exit()
+
     if request_bucket and widget_bucket:
         logging.info(
             f"Processing requests from source S3 bucket: {request_bucket} to target S3 bucket: {widget_bucket}")

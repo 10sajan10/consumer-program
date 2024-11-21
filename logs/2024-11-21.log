@@ -1,0 +1,1648 @@
+2024-11-21 00:52:27,532 - INFO - Processing requests from source S3 bucket: usu-cs5250-sajan-requests to target S3 bucket: usu-cs5250-sajan-web
+2024-11-21 00:52:27,551 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2024-11-21 00:52:28,268 - INFO - Smallest key: 1732175205401
+2024-11-21 00:52:28,371 - INFO - create
+2024-11-21 00:52:28,985 - INFO - Object created: usu-cs5250-sajan-webwidgets/Sue Smith/b4d0df4e-3027-4590-b3ab-eeccb94a5068
+2024-11-21 00:52:29,187 - INFO - Smallest key: 1732175206460
+2024-11-21 00:52:29,289 - INFO - create
+2024-11-21 00:52:29,479 - INFO - Object created: usu-cs5250-sajan-webwidgets/John Jones/b1ae3684-f676-4013-93a0-96a121f2bce6
+2024-11-21 00:52:29,684 - INFO - Smallest key: 1732175206625
+2024-11-21 00:52:29,786 - INFO - create
+2024-11-21 00:52:29,975 - INFO - Object created: usu-cs5250-sajan-webwidgets/Mary Matthews/504a8bad-bff3-4f8e-8858-c1e910cebe98
+2024-11-21 00:52:30,182 - INFO - Smallest key: 1732175206800
+2024-11-21 00:52:30,317 - INFO - create
+2024-11-21 00:52:30,512 - INFO - Object created: usu-cs5250-sajan-webwidgets/Sue Smith/70755ad6-6ecb-4211-8579-2e5c9824b369
+2024-11-21 00:52:30,707 - INFO - Smallest key: 1732175206952
+2024-11-21 00:52:30,810 - INFO - create
+2024-11-21 00:52:30,998 - INFO - Object created: usu-cs5250-sajan-webwidgets/Mary Matthews/6242b157-854c-49ef-90b3-34f950824059
+2024-11-21 00:52:31,194 - INFO - Smallest key: 1732175207088
+2024-11-21 00:52:31,297 - INFO - create
+2024-11-21 00:52:31,489 - INFO - Object created: usu-cs5250-sajan-webwidgets/Henry Hops/1efee988-fba4-419f-910d-bc914b42a2f9
+2024-11-21 00:52:31,686 - INFO - Smallest key: 1732175207223
+2024-11-21 00:52:31,785 - INFO - create
+2024-11-21 00:52:31,976 - INFO - Object created: usu-cs5250-sajan-webwidgets/Henry Hops/ab8c83e6-912a-4df5-acb6-17c67935c3b1
+2024-11-21 00:52:32,187 - INFO - Smallest key: 1732175207422
+2024-11-21 00:52:32,319 - INFO - create
+2024-11-21 00:52:32,510 - INFO - Object created: usu-cs5250-sajan-webwidgets/Sue Smith/d0dcfef8-6434-41dc-abfe-90a319e51aed
+2024-11-21 00:52:32,705 - INFO - Smallest key: 1732175207575
+2024-11-21 00:52:32,817 - INFO - create
+2024-11-21 00:52:33,013 - INFO - Object created: usu-cs5250-sajan-webwidgets/Henry Hops/d92d58a9-25e0-42d2-845f-e9dec40f5aea
+2024-11-21 00:52:33,209 - INFO - Smallest key: 1732175207703
+2024-11-21 00:52:33,342 - INFO - create
+2024-11-21 00:52:33,535 - INFO - Object created: usu-cs5250-sajan-webwidgets/Sue Smith/271a8407-c837-481e-b8a9-616c3d299be6
+2024-11-21 00:52:33,727 - INFO - Smallest key: 1732175207833
+2024-11-21 00:52:33,829 - INFO - create
+2024-11-21 00:52:34,024 - INFO - Object created: usu-cs5250-sajan-webwidgets/Henry Hops/f5cc9be9-3b3b-435b-a8c1-1702d8ea9671
+2024-11-21 00:52:34,229 - INFO - Smallest key: 1732175207971
+2024-11-21 00:52:34,331 - INFO - create
+2024-11-21 00:52:34,520 - INFO - Object created: usu-cs5250-sajan-webwidgets/John Jones/035709b3-d012-4b6d-863b-44d0e2521a25
+2024-11-21 00:52:34,713 - INFO - Smallest key: 1732175208126
+2024-11-21 00:52:34,815 - INFO - create
+2024-11-21 00:52:35,006 - INFO - Object created: usu-cs5250-sajan-webwidgets/Henry Hops/661bbe6e-3113-44dc-b11f-27fc774aaf0e
+2024-11-21 00:52:35,206 - INFO - Smallest key: 1732175208261
+2024-11-21 00:52:35,318 - INFO - create
+2024-11-21 00:52:35,507 - INFO - Object created: usu-cs5250-sajan-webwidgets/Sue Smith/ae44a857-88d2-49f9-b706-6144106441c4
+2024-11-21 00:52:35,717 - INFO - Smallest key: 1732175208391
+2024-11-21 00:52:35,833 - INFO - create
+2024-11-21 00:52:36,025 - INFO - Object created: usu-cs5250-sajan-webwidgets/John Jones/678f53bc-49a8-4098-8362-237607e64479
+2024-11-21 00:52:36,222 - INFO - Smallest key: 1732175208543
+2024-11-21 00:52:36,324 - INFO - create
+2024-11-21 00:52:36,513 - INFO - Object created: usu-cs5250-sajan-webwidgets/John Jones/c9625cf9-af9d-43e6-94a9-8adf809219a8
+2024-11-21 00:52:36,712 - INFO - Smallest key: 1732175208673
+2024-11-21 00:52:36,811 - INFO - create
+2024-11-21 00:52:36,998 - INFO - Object created: usu-cs5250-sajan-webwidgets/Mary Matthews/e3377d46-e794-45eb-a913-8712622b4c8a
+2024-11-21 00:52:37,197 - INFO - Smallest key: 1732175208833
+2024-11-21 00:52:37,312 - INFO - create
+2024-11-21 00:52:37,505 - INFO - Object created: usu-cs5250-sajan-webwidgets/Henry Hops/bd145abc-b915-4f27-81bb-9e326fb804c8
+2024-11-21 00:52:37,703 - INFO - Smallest key: 1732175208981
+2024-11-21 00:52:37,807 - INFO - create
+2024-11-21 00:52:37,997 - INFO - Object created: usu-cs5250-sajan-webwidgets/Sue Smith/70d762f7-63db-47f4-be0d-ae769c9e1d31
+2024-11-21 00:52:38,193 - INFO - Smallest key: 1732175209114
+2024-11-21 00:52:38,299 - INFO - create
+2024-11-21 00:52:38,493 - INFO - Object created: usu-cs5250-sajan-webwidgets/John Jones/4d77ffe8-5e62-4b9a-98cd-7a7a8f01bb4b
+2024-11-21 00:52:38,705 - INFO - Smallest key: 1732175209262
+2024-11-21 00:52:38,808 - INFO - create
+2024-11-21 00:52:38,998 - INFO - Object created: usu-cs5250-sajan-webwidgets/John Jones/611b7419-a3d4-4cf9-8af4-394fb6bab2d5
+2024-11-21 00:52:39,190 - INFO - Smallest key: 1732175209430
+2024-11-21 00:52:39,295 - INFO - create
+2024-11-21 00:52:39,481 - INFO - Object created: usu-cs5250-sajan-webwidgets/Henry Hops/448c4665-ceaf-4573-a993-0d60d5d41fc5
+2024-11-21 00:52:39,681 - INFO - Smallest key: 1732175209560
+2024-11-21 00:52:39,797 - INFO - create
+2024-11-21 00:52:39,986 - INFO - Object created: usu-cs5250-sajan-webwidgets/Henry Hops/9a7d34a5-8cd2-4cb7-aeca-2b791eb8a48f
+2024-11-21 00:52:40,184 - INFO - Smallest key: 1732175209709
+2024-11-21 00:52:40,292 - INFO - create
+2024-11-21 00:52:40,485 - INFO - Object created: usu-cs5250-sajan-webwidgets/Mary Matthews/1fa280ea-0f28-466f-9f52-7f385023c119
+2024-11-21 00:52:40,687 - INFO - Smallest key: 1732175209841
+2024-11-21 00:52:40,791 - INFO - create
+2024-11-21 00:52:40,986 - INFO - Object created: usu-cs5250-sajan-webwidgets/Henry Hops/40b74848-8bd2-4729-aab7-ee852199cb67
+2024-11-21 00:52:41,184 - INFO - Smallest key: 1732175209994
+2024-11-21 00:52:41,294 - INFO - create
+2024-11-21 00:52:41,478 - INFO - Object created: usu-cs5250-sajan-webwidgets/Mary Matthews/bb97cceb-dfc5-4c28-92be-13f7624b175d
+2024-11-21 00:52:41,674 - INFO - Smallest key: 1732175210118
+2024-11-21 00:52:41,802 - INFO - create
+2024-11-21 00:52:41,990 - INFO - Object created: usu-cs5250-sajan-webwidgets/Henry Hops/4b19044a-abf0-417d-ba25-2ab54a890c7c
+2024-11-21 00:52:42,188 - INFO - Smallest key: 1732175210246
+2024-11-21 00:52:42,296 - INFO - create
+2024-11-21 00:52:42,490 - INFO - Object created: usu-cs5250-sajan-webwidgets/Sue Smith/30b712aa-2679-4c96-8c89-f130a1e2dc26
+2024-11-21 00:52:42,689 - INFO - Smallest key: 1732175210379
+2024-11-21 00:52:42,793 - INFO - create
+2024-11-21 00:52:42,983 - INFO - Object created: usu-cs5250-sajan-webwidgets/Mary Matthews/119491ed-1226-4ed8-9ee6-a25d805b29c5
+2024-11-21 00:52:43,184 - INFO - Smallest key: 1732175210552
+2024-11-21 00:52:43,295 - INFO - create
+2024-11-21 00:52:43,484 - INFO - Object created: usu-cs5250-sajan-webwidgets/Henry Hops/fc18ba6e-f81b-490e-acc8-108df45eec7a
+2024-11-21 00:52:43,699 - INFO - Smallest key: 1732175210682
+2024-11-21 00:52:43,804 - INFO - create
+2024-11-21 00:52:44,014 - INFO - Object created: usu-cs5250-sajan-webwidgets/Sue Smith/bec6967d-cd5e-4ed7-824b-7f103dc96fe4
+2024-11-21 00:52:44,211 - INFO - Smallest key: 1732175210825
+2024-11-21 00:52:44,313 - INFO - create
+2024-11-21 00:52:44,501 - INFO - Object created: usu-cs5250-sajan-webwidgets/Henry Hops/07636f1b-6e05-43a5-967f-70a5a8a990e3
+2024-11-21 00:52:44,704 - INFO - Smallest key: 1732175210966
+2024-11-21 00:52:44,895 - INFO - create
+2024-11-21 00:52:45,083 - INFO - Object created: usu-cs5250-sajan-webwidgets/Henry Hops/3f3e2256-b231-4b33-835c-4c05e7c1b074
+2024-11-21 00:52:45,278 - INFO - Smallest key: 1732175211098
+2024-11-21 00:52:45,764 - INFO - create
+2024-11-21 00:52:45,965 - INFO - Object created: usu-cs5250-sajan-webwidgets/Sue Smith/def78a66-2aaf-4c93-b272-96333e2627b5
+2024-11-21 00:52:46,162 - INFO - Smallest key: 1732175211226
+2024-11-21 00:52:46,263 - INFO - create
+2024-11-21 00:52:46,451 - INFO - Object created: usu-cs5250-sajan-webwidgets/Sue Smith/e684d183-4d8a-4572-8229-dce572373a88
+2024-11-21 00:52:46,645 - INFO - Smallest key: 1732175211361
+2024-11-21 00:52:46,753 - INFO - create
+2024-11-21 00:52:46,948 - INFO - Object created: usu-cs5250-sajan-webwidgets/Henry Hops/22dff292-e6dc-4235-9ca0-01258acc7f6a
+2024-11-21 00:52:47,141 - INFO - Smallest key: 1732175211488
+2024-11-21 00:52:47,242 - INFO - create
+2024-11-21 00:52:47,431 - INFO - Object created: usu-cs5250-sajan-webwidgets/Henry Hops/bdde43f7-ef99-4905-a7c9-7b0eac379e1c
+2024-11-21 00:52:47,632 - INFO - Smallest key: 1732175211614
+2024-11-21 00:52:47,733 - INFO - create
+2024-11-21 00:52:47,921 - INFO - Object created: usu-cs5250-sajan-webwidgets/Henry Hops/4d359162-0b82-4ac0-bf9d-85711c6b3818
+2024-11-21 00:52:48,122 - INFO - Smallest key: 1732175211744
+2024-11-21 00:52:48,225 - INFO - create
+2024-11-21 00:52:48,418 - INFO - Object created: usu-cs5250-sajan-webwidgets/John Jones/f5032445-70f4-4b73-8962-82ac15a2ec66
+2024-11-21 00:52:48,613 - INFO - Smallest key: 1732175211898
+2024-11-21 00:52:48,716 - INFO - create
+2024-11-21 00:52:48,903 - INFO - Object created: usu-cs5250-sajan-webwidgets/Henry Hops/201d1434-c5ef-4f9f-a6f4-9e4824a555ee
+2024-11-21 00:52:49,096 - INFO - Smallest key: 1732175212025
+2024-11-21 00:52:49,264 - INFO - create
+2024-11-21 00:52:49,452 - INFO - Object created: usu-cs5250-sajan-webwidgets/Mary Matthews/34e48c9d-0c2f-43a7-bdca-a1c031f5fced
+2024-11-21 00:52:49,645 - INFO - Smallest key: 1732175212178
+2024-11-21 00:52:49,749 - INFO - update
+2024-11-21 00:52:50,042 - INFO - Updated object widgets/Sue Smith/def78a66-2aaf-4c93-b272-96333e2627b5 in bucket usu-cs5250-sajan-web
+2024-11-21 00:52:50,243 - INFO - Smallest key: 1732175212346
+2024-11-21 00:52:50,342 - INFO - create
+2024-11-21 00:52:50,530 - INFO - Object created: usu-cs5250-sajan-webwidgets/John Jones/c4258054-d807-4a8c-a954-0e399880924c
+2024-11-21 00:52:50,732 - INFO - Smallest key: 1732175212475
+2024-11-21 00:52:50,834 - INFO - create
+2024-11-21 00:52:51,022 - INFO - Object created: usu-cs5250-sajan-webwidgets/Sue Smith/b1ea63d8-2a3b-47c6-9290-dfc7009403a6
+2024-11-21 00:52:51,221 - INFO - Smallest key: 1732175212622
+2024-11-21 00:52:51,336 - INFO - create
+2024-11-21 00:52:51,525 - INFO - Object created: usu-cs5250-sajan-webwidgets/Henry Hops/abf85526-e927-45ad-a093-d2ba7c5de996
+2024-11-21 00:52:51,712 - INFO - Smallest key: 1732175212769
+2024-11-21 00:52:51,839 - INFO - update
+2024-11-21 00:52:52,124 - INFO - Updated object widgets/John Jones/611b7419-a3d4-4cf9-8af4-394fb6bab2d5 in bucket usu-cs5250-sajan-web
+2024-11-21 00:52:52,328 - INFO - Smallest key: 1732175212895
+2024-11-21 00:52:52,428 - INFO - update
+2024-11-21 00:52:52,721 - INFO - Updated object widgets/John Jones/035709b3-d012-4b6d-863b-44d0e2521a25 in bucket usu-cs5250-sajan-web
+2024-11-21 00:52:52,917 - INFO - Smallest key: 1732175213058
+2024-11-21 00:52:53,022 - INFO - update
+2024-11-21 00:52:53,317 - INFO - Updated object widgets/Henry Hops/3f3e2256-b231-4b33-835c-4c05e7c1b074 in bucket usu-cs5250-sajan-web
+2024-11-21 00:52:53,508 - INFO - Smallest key: 1732175213193
+2024-11-21 00:52:53,616 - INFO - update
+2024-11-21 00:52:53,909 - INFO - Updated object widgets/John Jones/035709b3-d012-4b6d-863b-44d0e2521a25 in bucket usu-cs5250-sajan-web
+2024-11-21 00:52:54,105 - INFO - Smallest key: 1732175213341
+2024-11-21 00:52:54,224 - INFO - create
+2024-11-21 00:52:54,411 - INFO - Object created: usu-cs5250-sajan-webwidgets/Henry Hops/27f9f87b-32ae-4c43-a217-011a8389b490
+2024-11-21 00:52:54,614 - INFO - Smallest key: 1732175213471
+2024-11-21 00:52:54,715 - INFO - create
+2024-11-21 00:52:54,909 - INFO - Object created: usu-cs5250-sajan-webwidgets/Sue Smith/dc75b5d0-1f48-43fe-9f57-bba51bb56d43
+2024-11-21 00:52:55,103 - INFO - Smallest key: 1732175213599
+2024-11-21 00:52:55,222 - INFO - update
+2024-11-21 00:52:55,511 - INFO - Updated object widgets/John Jones/611b7419-a3d4-4cf9-8af4-394fb6bab2d5 in bucket usu-cs5250-sajan-web
+2024-11-21 00:52:55,713 - INFO - Smallest key: 1732175213750
+2024-11-21 00:52:55,816 - INFO - create
+2024-11-21 00:52:56,010 - INFO - Object created: usu-cs5250-sajan-webwidgets/Henry Hops/3f7b743c-a8c8-4ac8-bfdd-229d2263de3c
+2024-11-21 00:52:56,209 - INFO - Smallest key: 1732175213875
+2024-11-21 00:52:56,311 - INFO - create
+2024-11-21 00:52:56,508 - INFO - Object created: usu-cs5250-sajan-webwidgets/Henry Hops/34b7e4a6-833d-4fed-bef6-bc8ac8bbc98f
+2024-11-21 00:52:56,712 - INFO - Smallest key: 1732175214007
+2024-11-21 00:52:56,831 - INFO - create
+2024-11-21 00:52:57,021 - INFO - Object created: usu-cs5250-sajan-webwidgets/Sue Smith/430bdc2a-7843-4543-b50c-0f494e6711ed
+2024-11-21 00:52:57,215 - INFO - Smallest key: 1732175214136
+2024-11-21 00:52:57,314 - INFO - create
+2024-11-21 00:52:57,504 - INFO - Object created: usu-cs5250-sajan-webwidgets/Sue Smith/a1a6b40e-4fa8-4632-8f5d-395ff0283b57
+2024-11-21 00:52:57,699 - INFO - Smallest key: 1732175214296
+2024-11-21 00:52:57,798 - INFO - create
+2024-11-21 00:52:57,989 - INFO - Object created: usu-cs5250-sajan-webwidgets/Mary Matthews/95fb8e58-fe48-4cce-b1b5-c9af6325cf62
+2024-11-21 00:52:58,182 - INFO - Smallest key: 1732175214429
+2024-11-21 00:52:58,314 - INFO - update
+2024-11-21 00:52:58,605 - INFO - Updated object widgets/Sue Smith/bec6967d-cd5e-4ed7-824b-7f103dc96fe4 in bucket usu-cs5250-sajan-web
+2024-11-21 00:52:58,804 - INFO - Smallest key: 1732175214554
+2024-11-21 00:52:58,924 - INFO - create
+2024-11-21 00:52:59,115 - INFO - Object created: usu-cs5250-sajan-webwidgets/Mary Matthews/a7840cf7-9238-4186-a905-74760fc045db
+2024-11-21 00:52:59,316 - INFO - Smallest key: 1732175214685
+2024-11-21 00:52:59,436 - INFO - create
+2024-11-21 00:52:59,628 - INFO - Object created: usu-cs5250-sajan-webwidgets/Henry Hops/cddc53ad-e7c6-4aff-9b68-75c6fdc6bc8f
+2024-11-21 00:52:59,828 - INFO - Smallest key: 1732175214820
+2024-11-21 00:52:59,931 - INFO - create
+2024-11-21 00:53:00,118 - INFO - Object created: usu-cs5250-sajan-webwidgets/John Jones/fffbc0d9-0ec6-4236-827a-0819a11f3e5c
+2024-11-21 00:53:00,318 - INFO - Smallest key: 1732175214959
+2024-11-21 00:53:00,420 - INFO - create
+2024-11-21 00:53:00,609 - INFO - Object created: usu-cs5250-sajan-webwidgets/Mary Matthews/db144de7-5ce2-46a3-b5f1-5c92adf0803a
+2024-11-21 00:53:00,804 - INFO - Smallest key: 1732175215092
+2024-11-21 00:53:00,903 - INFO - create
+2024-11-21 00:53:01,095 - INFO - Object created: usu-cs5250-sajan-webwidgets/John Jones/aaf6dd0e-e611-4e03-b9c4-4600296e346c
+2024-11-21 00:53:01,289 - INFO - Smallest key: 1732175215238
+2024-11-21 00:53:01,402 - INFO - create
+2024-11-21 00:53:01,593 - INFO - Object created: usu-cs5250-sajan-webwidgets/Sue Smith/31d0a7e2-95a6-42a4-ab7c-876734f9efdc
+2024-11-21 00:53:01,802 - INFO - Smallest key: 1732175215386
+2024-11-21 00:53:01,951 - INFO - update
+2024-11-21 00:53:02,259 - INFO - Updated object widgets/Henry Hops/cddc53ad-e7c6-4aff-9b68-75c6fdc6bc8f in bucket usu-cs5250-sajan-web
+2024-11-21 00:53:02,461 - INFO - Smallest key: 1732175215515
+2024-11-21 00:53:02,579 - INFO - update
+2024-11-21 00:53:02,871 - INFO - Updated object widgets/Sue Smith/271a8407-c837-481e-b8a9-616c3d299be6 in bucket usu-cs5250-sajan-web
+2024-11-21 00:53:03,071 - INFO - Smallest key: 1732175215645
+2024-11-21 00:53:03,178 - INFO - update
+2024-11-21 00:53:03,491 - INFO - Updated object widgets/John Jones/aaf6dd0e-e611-4e03-b9c4-4600296e346c in bucket usu-cs5250-sajan-web
+2024-11-21 00:53:04,085 - INFO - Smallest key: 1732175215775
+2024-11-21 00:53:04,186 - INFO - create
+2024-11-21 00:53:04,381 - INFO - Object created: usu-cs5250-sajan-webwidgets/Mary Matthews/60fd7d0f-bd66-4766-8852-d43e3d94b0a0
+2024-11-21 00:53:04,581 - INFO - Smallest key: 1732175215931
+2024-11-21 00:53:04,705 - INFO - update
+2024-11-21 00:53:05,002 - INFO - Updated object widgets/Sue Smith/b4d0df4e-3027-4590-b3ab-eeccb94a5068 in bucket usu-cs5250-sajan-web
+2024-11-21 00:53:05,203 - INFO - Smallest key: 1732175216098
+2024-11-21 00:53:05,304 - INFO - create
+2024-11-21 00:53:05,504 - INFO - Object created: usu-cs5250-sajan-webwidgets/Mary Matthews/5e242977-5f70-43bb-8b98-2a4f8d5c7b40
+2024-11-21 00:53:05,700 - INFO - Smallest key: 1732175216226
+2024-11-21 00:53:05,805 - INFO - update
+2024-11-21 00:53:06,090 - INFO - Updated object widgets/Henry Hops/448c4665-ceaf-4573-a993-0d60d5d41fc5 in bucket usu-cs5250-sajan-web
+2024-11-21 00:53:06,287 - INFO - Smallest key: 1732175216438
+2024-11-21 00:53:06,386 - INFO - update
+2024-11-21 00:53:06,678 - INFO - Updated object widgets/John Jones/fffbc0d9-0ec6-4236-827a-0819a11f3e5c in bucket usu-cs5250-sajan-web
+2024-11-21 00:53:06,875 - INFO - Smallest key: 1732175216640
+2024-11-21 00:53:06,977 - INFO - create
+2024-11-21 00:53:07,168 - INFO - Object created: usu-cs5250-sajan-webwidgets/Henry Hops/f620a514-7036-4771-aa18-f8e59df77b3b
+2024-11-21 00:53:07,369 - INFO - Smallest key: 1732175216775
+2024-11-21 00:53:07,474 - INFO - update
+2024-11-21 00:53:07,767 - INFO - Updated object widgets/Henry Hops/ab8c83e6-912a-4df5-acb6-17c67935c3b1 in bucket usu-cs5250-sajan-web
+2024-11-21 00:53:07,964 - INFO - Smallest key: 1732175216906
+2024-11-21 00:53:08,065 - INFO - update
+2024-11-21 00:53:08,392 - INFO - Updated object widgets/Sue Smith/ae44a857-88d2-49f9-b706-6144106441c4 in bucket usu-cs5250-sajan-web
+2024-11-21 00:53:08,593 - INFO - Smallest key: 1732175217053
+2024-11-21 00:53:08,696 - INFO - update
+2024-11-21 00:53:08,988 - INFO - Updated object widgets/Henry Hops/f5cc9be9-3b3b-435b-a8c1-1702d8ea9671 in bucket usu-cs5250-sajan-web
+2024-11-21 00:53:09,185 - INFO - Smallest key: 1732175217180
+2024-11-21 00:53:09,284 - INFO - create
+2024-11-21 00:53:09,472 - INFO - Object created: usu-cs5250-sajan-webwidgets/Sue Smith/a3235bc7-6852-464c-94d1-e9e20b738c47
+2024-11-21 00:53:09,670 - INFO - Smallest key: 1732175217342
+2024-11-21 00:53:09,775 - INFO - update
+2024-11-21 00:53:10,068 - INFO - Updated object widgets/Henry Hops/cddc53ad-e7c6-4aff-9b68-75c6fdc6bc8f in bucket usu-cs5250-sajan-web
+2024-11-21 00:53:10,261 - INFO - Smallest key: 1732175217471
+2024-11-21 00:53:10,361 - INFO - create
+2024-11-21 00:53:10,545 - INFO - Object created: usu-cs5250-sajan-webwidgets/Sue Smith/47bf31f0-174b-47cf-9d57-b3318fc3564a
+2024-11-21 00:53:10,751 - INFO - Smallest key: 1732175217619
+2024-11-21 00:53:10,891 - INFO - create
+2024-11-21 00:53:11,079 - INFO - Object created: usu-cs5250-sajan-webwidgets/Sue Smith/02766425-59fe-4f62-b22e-579b4cf799b4
+2024-11-21 00:53:11,273 - INFO - Smallest key: 1732175217778
+2024-11-21 00:53:11,378 - INFO - create
+2024-11-21 00:53:11,569 - INFO - Object created: usu-cs5250-sajan-webwidgets/Sue Smith/d0c914e7-29fe-4a12-911e-56321df54d34
+2024-11-21 00:53:11,774 - INFO - Smallest key: 1732175217946
+2024-11-21 00:53:11,879 - INFO - create
+2024-11-21 00:53:12,073 - INFO - Object created: usu-cs5250-sajan-webwidgets/Sue Smith/e3862bd6-75b4-4369-9aec-2f7b8a9e4036
+2024-11-21 00:53:12,285 - INFO - Smallest key: 1732175218077
+2024-11-21 00:53:12,380 - INFO - delete
+2024-11-21 00:53:12,480 - INFO - Deleted object widgets/Sue Smith/02766425-59fe-4f62-b22e-579b4cf799b4 from bucket usu-cs5250-sajan-web
+2024-11-21 00:53:12,682 - INFO - Smallest key: 1732175218197
+2024-11-21 00:53:12,778 - INFO - delete
+2024-11-21 00:53:13,279 - INFO - Deleted object widgets/Sue Smith/70755ad6-6ecb-4211-8579-2e5c9824b369 from bucket usu-cs5250-sajan-web
+2024-11-21 00:53:13,480 - INFO - Smallest key: 1732175218324
+2024-11-21 00:53:13,584 - INFO - create
+2024-11-21 00:53:13,785 - INFO - Object created: usu-cs5250-sajan-webwidgets/Mary Matthews/3f677fcd-5928-4a09-98e1-48a944b996cb
+2024-11-21 00:53:13,975 - INFO - Smallest key: 1732175218449
+2024-11-21 00:53:14,077 - INFO - create
+2024-11-21 00:53:14,273 - INFO - Object created: usu-cs5250-sajan-webwidgets/Sue Smith/a9a84bf4-134f-48b8-9ceb-fd008087537b
+2024-11-21 00:53:14,466 - INFO - Smallest key: 1732175218579
+2024-11-21 00:53:14,566 - INFO - create
+2024-11-21 00:53:14,757 - INFO - Object created: usu-cs5250-sajan-webwidgets/Mary Matthews/8974233d-1911-4244-9f4c-aa4fe6a82290
+2024-11-21 00:53:14,964 - INFO - Smallest key: 1732175218710
+2024-11-21 00:53:15,069 - INFO - create
+2024-11-21 00:53:15,263 - INFO - Object created: usu-cs5250-sajan-webwidgets/Mary Matthews/09f031e3-12f7-4d48-bf0d-3bdb2ed1e672
+2024-11-21 00:53:15,459 - INFO - Smallest key: 1732175218856
+2024-11-21 00:53:15,569 - INFO - create
+2024-11-21 00:53:15,761 - INFO - Object created: usu-cs5250-sajan-webwidgets/Sue Smith/c2800cf5-4081-4a23-b4d3-abb9a6f32576
+2024-11-21 00:53:15,960 - INFO - Smallest key: 1732175219006
+2024-11-21 00:53:16,071 - INFO - create
+2024-11-21 00:53:16,261 - INFO - Object created: usu-cs5250-sajan-webwidgets/John Jones/482b1fb4-6063-4dec-98c0-f9fc92939538
+2024-11-21 00:53:16,468 - INFO - Smallest key: 1732175219132
+2024-11-21 00:53:16,575 - INFO - create
+2024-11-21 00:53:16,782 - INFO - Object created: usu-cs5250-sajan-webwidgets/Henry Hops/79c3a5cd-7e85-43f8-ac4c-752f15de3cb9
+2024-11-21 00:53:16,975 - INFO - Smallest key: 1732175219266
+2024-11-21 00:53:17,077 - INFO - create
+2024-11-21 00:53:17,272 - INFO - Object created: usu-cs5250-sajan-webwidgets/Henry Hops/ad70d768-111e-424c-8ade-66c8cf313865
+2024-11-21 00:53:17,463 - INFO - Smallest key: 1732175219396
+2024-11-21 00:53:17,563 - INFO - create
+2024-11-21 00:53:17,755 - INFO - Object created: usu-cs5250-sajan-webwidgets/Henry Hops/e6dc4d66-1bd0-44b0-afeb-c4f274034ea7
+2024-11-21 00:53:17,949 - INFO - Smallest key: 1732175219526
+2024-11-21 00:53:18,049 - INFO - create
+2024-11-21 00:53:18,246 - INFO - Object created: usu-cs5250-sajan-webwidgets/Henry Hops/8a1d9ab3-38a3-4ea2-b196-6a34d719fbd2
+2024-11-21 00:53:18,441 - INFO - Smallest key: 1732175219651
+2024-11-21 00:53:18,548 - INFO - create
+2024-11-21 00:53:18,743 - INFO - Object created: usu-cs5250-sajan-webwidgets/Sue Smith/d7ab385c-1e98-4f30-9d08-461ab5b0475d
+2024-11-21 00:53:18,947 - INFO - Smallest key: 1732175219795
+2024-11-21 00:53:19,054 - INFO - create
+2024-11-21 00:53:19,243 - INFO - Object created: usu-cs5250-sajan-webwidgets/John Jones/8483a2b3-79f6-4e38-b5b6-816b2b91c23d
+2024-11-21 00:53:19,445 - INFO - Smallest key: 1732175219929
+2024-11-21 00:53:19,562 - INFO - create
+2024-11-21 00:53:19,756 - INFO - Object created: usu-cs5250-sajan-webwidgets/Sue Smith/62da7f50-dc20-4216-9e71-9fb0bfb98e81
+2024-11-21 00:53:19,962 - INFO - Smallest key: 1732175220056
+2024-11-21 00:53:20,081 - INFO - create
+2024-11-21 00:53:20,280 - INFO - Object created: usu-cs5250-sajan-webwidgets/John Jones/f23c45b7-8878-4464-8216-ee1360714933
+2024-11-21 00:53:20,474 - INFO - Smallest key: 1732175220181
+2024-11-21 00:53:20,574 - INFO - update
+2024-11-21 00:53:20,882 - INFO - Updated object widgets/Mary Matthews/6242b157-854c-49ef-90b3-34f950824059 in bucket usu-cs5250-sajan-web
+2024-11-21 00:53:21,073 - INFO - Smallest key: 1732175220315
+2024-11-21 00:53:21,179 - INFO - update
+2024-11-21 00:53:21,499 - INFO - Updated object widgets/Henry Hops/40b74848-8bd2-4729-aab7-ee852199cb67 in bucket usu-cs5250-sajan-web
+2024-11-21 00:53:22,101 - INFO - Smallest key: 1732175220471
+2024-11-21 00:53:22,221 - INFO - create
+2024-11-21 00:53:22,415 - INFO - Object created: usu-cs5250-sajan-webwidgets/Sue Smith/371cd06b-c59f-422b-926e-e41cb0e8996e
+2024-11-21 00:53:22,651 - INFO - Smallest key: 1732175220757
+2024-11-21 00:53:22,751 - INFO - update
+2024-11-21 00:53:23,048 - INFO - Updated object widgets/Sue Smith/e3862bd6-75b4-4369-9aec-2f7b8a9e4036 in bucket usu-cs5250-sajan-web
+2024-11-21 00:53:23,241 - INFO - Smallest key: 1732175220894
+2024-11-21 00:53:23,344 - INFO - create
+2024-11-21 00:53:23,535 - INFO - Object created: usu-cs5250-sajan-webwidgets/Mary Matthews/779be343-b66d-49a9-a70c-5decd80ca380
+2024-11-21 00:53:23,733 - INFO - Smallest key: 1732175221022
+2024-11-21 00:53:23,834 - INFO - create
+2024-11-21 00:53:24,025 - INFO - Object created: usu-cs5250-sajan-webwidgets/John Jones/2c4eb272-d67f-4711-887d-0c90deb00e05
+2024-11-21 00:53:24,224 - INFO - Smallest key: 1732175221151
+2024-11-21 00:53:24,328 - INFO - update
+2024-11-21 00:53:24,624 - INFO - Updated object widgets/Sue Smith/e3862bd6-75b4-4369-9aec-2f7b8a9e4036 in bucket usu-cs5250-sajan-web
+2024-11-21 00:53:24,818 - INFO - Smallest key: 1732175221279
+2024-11-21 00:53:24,923 - INFO - create
+2024-11-21 00:53:25,118 - INFO - Object created: usu-cs5250-sajan-webwidgets/Henry Hops/71ea6254-77cd-48d9-bc09-bebfa8a221b2
+2024-11-21 00:53:25,315 - INFO - Smallest key: 1732175221534
+2024-11-21 00:53:25,414 - INFO - create
+2024-11-21 00:53:25,610 - INFO - Object created: usu-cs5250-sajan-webwidgets/Mary Matthews/b2b16a48-36f4-4727-8062-6f25d1a4cce0
+2024-11-21 00:53:25,805 - INFO - Smallest key: 1732175221677
+2024-11-21 00:53:25,906 - INFO - create
+2024-11-21 00:53:26,101 - INFO - Object created: usu-cs5250-sajan-webwidgets/Sue Smith/4620662d-5d88-4fa8-88be-7bc3f673b0da
+2024-11-21 00:53:26,298 - INFO - Smallest key: 1732175221810
+2024-11-21 00:53:26,429 - INFO - create
+2024-11-21 00:53:26,628 - INFO - Object created: usu-cs5250-sajan-webwidgets/John Jones/0e9196a1-828b-44b8-977b-a12bdf66dff1
+2024-11-21 00:53:26,829 - INFO - Smallest key: 1732175221936
+2024-11-21 00:53:26,948 - INFO - create
+2024-11-21 00:53:27,159 - INFO - Object created: usu-cs5250-sajan-webwidgets/Sue Smith/f41f6224-6b8d-452e-b373-808cb783e153
+2024-11-21 00:53:27,354 - INFO - Smallest key: 1732175222089
+2024-11-21 00:53:27,455 - INFO - create
+2024-11-21 00:53:27,663 - INFO - Object created: usu-cs5250-sajan-webwidgets/John Jones/207942a2-2e85-41d8-a09e-a7849f2d34c9
+2024-11-21 00:53:27,897 - INFO - Smallest key: 1732175222247
+2024-11-21 00:53:27,997 - INFO - create
+2024-11-21 00:53:28,189 - INFO - Object created: usu-cs5250-sajan-webwidgets/Mary Matthews/0ba77125-8324-485c-afb2-1cf51d870410
+2024-11-21 00:53:28,384 - INFO - Smallest key: 1732175222438
+2024-11-21 00:53:28,494 - INFO - create
+2024-11-21 00:53:28,692 - INFO - Object created: usu-cs5250-sajan-webwidgets/Mary Matthews/1c3624cf-5acd-48d7-ab0d-cc5b396749b6
+2024-11-21 00:53:28,889 - INFO - Smallest key: 1732175222569
+2024-11-21 00:53:28,988 - INFO - create
+2024-11-21 00:53:29,183 - INFO - Object created: usu-cs5250-sajan-webwidgets/Mary Matthews/002e7994-05aa-4342-b29c-5501045cffad
+2024-11-21 00:53:29,380 - INFO - Smallest key: 1732175222712
+2024-11-21 00:53:29,478 - INFO - create
+2024-11-21 00:53:29,671 - INFO - Object created: usu-cs5250-sajan-webwidgets/Sue Smith/7f24beb9-d227-406d-b04b-14a3fe3c7e8f
+2024-11-21 00:53:29,864 - INFO - Smallest key: 1732175222843
+2024-11-21 00:53:29,964 - INFO - update
+2024-11-21 00:53:30,266 - INFO - Updated object widgets/Mary Matthews/119491ed-1226-4ed8-9ee6-a25d805b29c5 in bucket usu-cs5250-sajan-web
+2024-11-21 00:53:30,466 - INFO - Smallest key: 1732175222975
+2024-11-21 00:53:30,581 - INFO - create
+2024-11-21 00:53:30,774 - INFO - Object created: usu-cs5250-sajan-webwidgets/John Jones/fc678a19-b7f8-4290-b2e1-aafb35438d97
+2024-11-21 00:53:30,968 - INFO - Smallest key: 1732175223108
+2024-11-21 00:53:31,067 - INFO - update
+2024-11-21 00:53:31,363 - INFO - Updated object widgets/Sue Smith/f41f6224-6b8d-452e-b373-808cb783e153 in bucket usu-cs5250-sajan-web
+2024-11-21 00:53:31,559 - INFO - Smallest key: 1732175223237
+2024-11-21 00:53:31,660 - INFO - update
+2024-11-21 00:53:31,955 - INFO - Updated object widgets/Sue Smith/d7ab385c-1e98-4f30-9d08-461ab5b0475d in bucket usu-cs5250-sajan-web
+2024-11-21 00:53:32,153 - INFO - Smallest key: 1732175223360
+2024-11-21 00:53:32,250 - INFO - delete
+2024-11-21 00:53:32,353 - INFO - Deleted object widgets/John Jones/8483a2b3-79f6-4e38-b5b6-816b2b91c23d from bucket usu-cs5250-sajan-web
+2024-11-21 00:53:32,546 - INFO - Smallest key: 1732175223477
+2024-11-21 00:53:32,658 - INFO - create
+2024-11-21 00:53:32,846 - INFO - Object created: usu-cs5250-sajan-webwidgets/Mary Matthews/70436c11-741d-4fb5-87c0-2cf88b3976e7
+2024-11-21 00:53:33,042 - INFO - Smallest key: 1732175223613
+2024-11-21 00:53:33,144 - INFO - create
+2024-11-21 00:53:33,344 - INFO - Object created: usu-cs5250-sajan-webwidgets/Sue Smith/9619af40-e703-4210-9329-1d5db18b0f87
+2024-11-21 00:53:33,540 - INFO - Smallest key: 1732175223811
+2024-11-21 00:53:33,645 - INFO - create
+2024-11-21 00:53:33,840 - INFO - Object created: usu-cs5250-sajan-webwidgets/Henry Hops/b574f968-9671-4f23-ba4f-d90ed366feaa
+2024-11-21 00:53:34,034 - INFO - Smallest key: 1732175223944
+2024-11-21 00:53:34,139 - INFO - create
+2024-11-21 00:53:34,334 - INFO - Object created: usu-cs5250-sajan-webwidgets/Mary Matthews/69451762-e71b-4982-b1c7-589aa02d3b26
+2024-11-21 00:53:34,548 - INFO - Smallest key: 1732175224083
+2024-11-21 00:53:34,649 - INFO - create
+2024-11-21 00:53:34,845 - INFO - Object created: usu-cs5250-sajan-webwidgets/Mary Matthews/42091b37-681d-4f41-b88c-6d770635c576
+2024-11-21 00:53:35,043 - INFO - Smallest key: 1732175224211
+2024-11-21 00:53:35,154 - INFO - update
+2024-11-21 00:53:35,454 - INFO - Updated object widgets/Henry Hops/cddc53ad-e7c6-4aff-9b68-75c6fdc6bc8f in bucket usu-cs5250-sajan-web
+2024-11-21 00:53:35,652 - INFO - Smallest key: 1732175224338
+2024-11-21 00:53:35,759 - INFO - create
+2024-11-21 00:53:35,952 - INFO - Object created: usu-cs5250-sajan-webwidgets/Mary Matthews/0b8bdda1-6f7d-474c-940d-2b2e3fdb174e
+2024-11-21 00:53:36,155 - INFO - Smallest key: 1732175224467
+2024-11-21 00:53:36,264 - INFO - create
+2024-11-21 00:53:36,462 - INFO - Object created: usu-cs5250-sajan-webwidgets/Sue Smith/9fbed8ea-3f4d-4275-81a9-9f372115bead
+2024-11-21 00:53:36,658 - INFO - Smallest key: 1732175224599
+2024-11-21 00:53:36,767 - INFO - update
+2024-11-21 00:53:37,065 - INFO - Updated object widgets/John Jones/482b1fb4-6063-4dec-98c0-f9fc92939538 in bucket usu-cs5250-sajan-web
+2024-11-21 00:53:37,259 - INFO - Smallest key: 1732175224757
+2024-11-21 00:53:37,359 - INFO - create
+2024-11-21 00:53:37,559 - INFO - Object created: usu-cs5250-sajan-webwidgets/Mary Matthews/5ea2d655-1545-47ce-b882-a3f6769398ce
+2024-11-21 00:53:37,755 - INFO - Smallest key: 1732175224893
+2024-11-21 00:53:37,874 - INFO - create
+2024-11-21 00:53:38,067 - INFO - Object created: usu-cs5250-sajan-webwidgets/Sue Smith/fb6ed056-7b2b-4b7e-8369-3a11999b168f
+2024-11-21 00:53:38,261 - INFO - Smallest key: 1732175225017
+2024-11-21 00:53:38,362 - INFO - create
+2024-11-21 00:53:38,563 - INFO - Object created: usu-cs5250-sajan-webwidgets/Henry Hops/8a8bb41a-ea31-45bd-81f9-8d0161599884
+2024-11-21 00:53:38,755 - INFO - Smallest key: 1732175225165
+2024-11-21 00:53:38,856 - INFO - create
+2024-11-21 00:53:39,052 - INFO - Object created: usu-cs5250-sajan-webwidgets/Sue Smith/2ac06513-c7bb-434b-8000-d7cf655d0d99
+2024-11-21 00:53:39,249 - INFO - Smallest key: 1732175225309
+2024-11-21 00:53:39,823 - INFO - update
+2024-11-21 00:53:40,127 - INFO - Updated object widgets/Henry Hops/bd145abc-b915-4f27-81bb-9e326fb804c8 in bucket usu-cs5250-sajan-web
+2024-11-21 00:53:40,334 - INFO - Smallest key: 1732175225468
+2024-11-21 00:53:40,436 - INFO - create
+2024-11-21 00:53:40,644 - INFO - Object created: usu-cs5250-sajan-webwidgets/Sue Smith/16ae2b98-b59f-4f7d-b3d6-6bade913f1dd
+2024-11-21 00:53:40,849 - INFO - Smallest key: 1732175225598
+2024-11-21 00:53:40,956 - INFO - create
+2024-11-21 00:53:41,148 - INFO - Object created: usu-cs5250-sajan-webwidgets/Sue Smith/a0118dfa-fae1-4fc8-8da3-58ace3c6eea7
+2024-11-21 00:53:41,348 - INFO - Smallest key: 1732175225729
+2024-11-21 00:53:41,454 - INFO - create
+2024-11-21 00:53:41,646 - INFO - Object created: usu-cs5250-sajan-webwidgets/Henry Hops/8cc971b7-71f7-4b2f-a083-3c4db52158f5
+2024-11-21 00:53:41,847 - INFO - Smallest key: 1732175225893
+2024-11-21 00:53:41,946 - INFO - delete
+2024-11-21 00:53:42,046 - INFO - Deleted object widgets/Mary Matthews/70436c11-741d-4fb5-87c0-2cf88b3976e7 from bucket usu-cs5250-sajan-web
+2024-11-21 00:53:42,249 - INFO - Smallest key: 1732175226014
+2024-11-21 00:53:42,356 - INFO - update
+2024-11-21 00:53:42,655 - INFO - Updated object widgets/Henry Hops/71ea6254-77cd-48d9-bc09-bebfa8a221b2 in bucket usu-cs5250-sajan-web
+2024-11-21 00:53:42,853 - INFO - Smallest key: 1732175226141
+2024-11-21 00:53:42,956 - INFO - create
+2024-11-21 00:53:43,148 - INFO - Object created: usu-cs5250-sajan-webwidgets/Mary Matthews/636aa5e0-efe0-43e8-9ee7-41b844c7afc3
+2024-11-21 00:53:43,350 - INFO - Smallest key: 1732175226288
+2024-11-21 00:53:43,478 - INFO - update
+2024-11-21 00:53:43,770 - INFO - Updated object widgets/Henry Hops/abf85526-e927-45ad-a093-d2ba7c5de996 in bucket usu-cs5250-sajan-web
+2024-11-21 00:53:43,969 - INFO - Smallest key: 1732175226414
+2024-11-21 00:53:44,079 - INFO - create
+2024-11-21 00:53:44,274 - INFO - Object created: usu-cs5250-sajan-webwidgets/Mary Matthews/ecca5b0d-df06-4aaa-b9b5-e61c9acd71c2
+2024-11-21 00:53:44,475 - INFO - Smallest key: 1732175226555
+2024-11-21 00:53:44,584 - INFO - create
+2024-11-21 00:53:44,776 - INFO - Object created: usu-cs5250-sajan-webwidgets/Sue Smith/897b0d8f-9f47-46db-93a9-b340a88601c5
+2024-11-21 00:53:44,974 - INFO - Smallest key: 1732175226742
+2024-11-21 00:53:45,090 - INFO - create
+2024-11-21 00:53:45,283 - INFO - Object created: usu-cs5250-sajan-webwidgets/Sue Smith/51bc5548-15ec-4ae1-b473-30748812b682
+2024-11-21 00:53:45,485 - INFO - Smallest key: 1732175226905
+2024-11-21 00:53:45,588 - INFO - create
+2024-11-21 00:53:45,782 - INFO - Object created: usu-cs5250-sajan-webwidgets/Sue Smith/9b2d24bb-f549-4b49-8376-1b68f71029c7
+2024-11-21 00:53:45,985 - INFO - Smallest key: 1732175227037
+2024-11-21 00:53:46,093 - INFO - create
+2024-11-21 00:53:46,289 - INFO - Object created: usu-cs5250-sajan-webwidgets/Sue Smith/8dc7ac8d-a68d-459c-81f2-3559f644d459
+2024-11-21 00:53:46,496 - INFO - Smallest key: 1732175227167
+2024-11-21 00:53:46,622 - INFO - update
+2024-11-21 00:53:46,918 - INFO - Updated object widgets/Sue Smith/47bf31f0-174b-47cf-9d57-b3318fc3564a in bucket usu-cs5250-sajan-web
+2024-11-21 00:53:47,118 - INFO - Smallest key: 1732175227297
+2024-11-21 00:53:47,263 - INFO - create
+2024-11-21 00:53:47,454 - INFO - Object created: usu-cs5250-sajan-webwidgets/Mary Matthews/bd685ef9-ba92-4a71-93c2-f9c12805ee13
+2024-11-21 00:53:47,653 - INFO - Smallest key: 1732175227426
+2024-11-21 00:53:47,801 - INFO - create
+2024-11-21 00:53:47,996 - INFO - Object created: usu-cs5250-sajan-webwidgets/Henry Hops/8f72fec6-8971-4740-a0e9-86e2f34925c9
+2024-11-21 00:53:48,196 - INFO - Smallest key: 1732175227575
+2024-11-21 00:53:48,294 - INFO - delete
+2024-11-21 00:53:48,399 - INFO - Deleted object widgets/Sue Smith/70d762f7-63db-47f4-be0d-ae769c9e1d31 from bucket usu-cs5250-sajan-web
+2024-11-21 00:53:48,610 - INFO - Smallest key: 1732175227699
+2024-11-21 00:53:48,716 - INFO - update
+2024-11-21 00:53:49,013 - INFO - Updated object widgets/John Jones/611b7419-a3d4-4cf9-8af4-394fb6bab2d5 in bucket usu-cs5250-sajan-web
+2024-11-21 00:53:49,214 - INFO - Smallest key: 1732175227874
+2024-11-21 00:53:49,330 - INFO - create
+2024-11-21 00:53:49,527 - INFO - Object created: usu-cs5250-sajan-webwidgets/Henry Hops/a1392c59-8780-40cc-b8ca-00e31aec5ff9
+2024-11-21 00:53:49,729 - INFO - Smallest key: 1732175228002
+2024-11-21 00:53:49,888 - INFO - create
+2024-11-21 00:53:50,093 - INFO - Object created: usu-cs5250-sajan-webwidgets/Mary Matthews/5265b025-a6ca-4444-bc45-dcb08fc9149b
+2024-11-21 00:53:50,300 - INFO - Smallest key: 1732175228133
+2024-11-21 00:53:50,402 - INFO - create
+2024-11-21 00:53:50,594 - INFO - Object created: usu-cs5250-sajan-webwidgets/John Jones/5f6e782a-5277-47ec-b347-8f5ef0ba1dc5
+2024-11-21 00:53:50,790 - INFO - Smallest key: 1732175228292
+2024-11-21 00:53:50,926 - INFO - update
+2024-11-21 00:53:51,238 - INFO - Updated object widgets/Mary Matthews/3f677fcd-5928-4a09-98e1-48a944b996cb in bucket usu-cs5250-sajan-web
+2024-11-21 00:53:51,457 - INFO - Smallest key: 1732175228415
+2024-11-21 00:53:51,559 - INFO - create
+2024-11-21 00:53:51,748 - INFO - Object created: usu-cs5250-sajan-webwidgets/Mary Matthews/8a1e79da-74e9-41ca-96f2-2fa3d21abda1
+2024-11-21 00:53:51,947 - INFO - Smallest key: 1732175228545
+2024-11-21 00:53:52,054 - INFO - create
+2024-11-21 00:53:52,251 - INFO - Object created: usu-cs5250-sajan-webwidgets/Sue Smith/044f8fbd-7f05-4f9d-b3ec-f09d613f7845
+2024-11-21 00:53:52,450 - INFO - Smallest key: 1732175228670
+2024-11-21 00:53:52,551 - INFO - create
+2024-11-21 00:53:52,741 - INFO - Object created: usu-cs5250-sajan-webwidgets/Mary Matthews/78bad175-36a1-496a-89e5-709dd27a1ec9
+2024-11-21 00:53:52,941 - INFO - Smallest key: 1732175228809
+2024-11-21 00:53:53,053 - INFO - update
+2024-11-21 00:53:53,356 - INFO - Updated object widgets/Henry Hops/71ea6254-77cd-48d9-bc09-bebfa8a221b2 in bucket usu-cs5250-sajan-web
+2024-11-21 00:53:53,560 - INFO - Smallest key: 1732175228950
+2024-11-21 00:53:53,666 - INFO - create
+2024-11-21 00:53:53,864 - INFO - Object created: usu-cs5250-sajan-webwidgets/Mary Matthews/d95e90e7-17ec-459f-aa40-b382dda5c71d
+2024-11-21 00:53:54,062 - INFO - Smallest key: 1732175229093
+2024-11-21 00:53:54,171 - INFO - create
+2024-11-21 00:53:54,369 - INFO - Object created: usu-cs5250-sajan-webwidgets/Mary Matthews/42cc4685-3618-4c6d-be01-225658af69d6
+2024-11-21 00:53:54,570 - INFO - Smallest key: 1732175229220
+2024-11-21 00:53:54,679 - INFO - update
+2024-11-21 00:53:55,030 - INFO - Updated object widgets/Mary Matthews/0ba77125-8324-485c-afb2-1cf51d870410 in bucket usu-cs5250-sajan-web
+2024-11-21 00:53:55,235 - INFO - Smallest key: 1732175229382
+2024-11-21 00:53:55,337 - INFO - create
+2024-11-21 00:53:55,531 - INFO - Object created: usu-cs5250-sajan-webwidgets/Henry Hops/4ed7b9f9-7a15-4e70-ba6c-9700a5bb02f9
+2024-11-21 00:53:55,740 - INFO - Smallest key: 1732175229506
+2024-11-21 00:53:55,847 - INFO - create
+2024-11-21 00:53:56,049 - INFO - Object created: usu-cs5250-sajan-webwidgets/Henry Hops/77d64c55-dea3-47d4-b5ff-4f94ffbc2307
+2024-11-21 00:53:56,256 - INFO - Smallest key: 1732175229631
+2024-11-21 00:53:56,360 - INFO - update
+2024-11-21 00:53:56,658 - INFO - Updated object widgets/Henry Hops/a1392c59-8780-40cc-b8ca-00e31aec5ff9 in bucket usu-cs5250-sajan-web
+2024-11-21 00:53:56,860 - INFO - Smallest key: 1732175229778
+2024-11-21 00:53:56,970 - INFO - create
+2024-11-21 00:53:57,563 - INFO - Object created: usu-cs5250-sajan-webwidgets/Henry Hops/7972e690-9fbd-478a-a3d6-a56a1fa5dc43
+2024-11-21 00:53:57,768 - INFO - Smallest key: 1732175229904
+2024-11-21 00:53:57,872 - INFO - create
+2024-11-21 00:53:58,060 - INFO - Object created: usu-cs5250-sajan-webwidgets/John Jones/c71290b8-fa3d-4f91-87ca-d2bc7759a880
+2024-11-21 00:53:58,665 - INFO - Smallest key: 1732175230027
+2024-11-21 00:53:58,801 - INFO - create
+2024-11-21 00:53:58,987 - INFO - Object created: usu-cs5250-sajan-webwidgets/Mary Matthews/9f1b18ff-f89b-41f0-90eb-175378fcd553
+2024-11-21 00:53:59,200 - INFO - Smallest key: 1732175230184
+2024-11-21 00:53:59,299 - INFO - create
+2024-11-21 00:53:59,490 - INFO - Object created: usu-cs5250-sajan-webwidgets/Sue Smith/d2286616-2e28-4f26-8539-f85440bf6cd5
+2024-11-21 00:53:59,722 - INFO - Smallest key: 1732175230308
+2024-11-21 00:53:59,824 - INFO - create
+2024-11-21 00:54:00,027 - INFO - Object created: usu-cs5250-sajan-webwidgets/Sue Smith/f6e71762-a958-4d09-93a2-15365ba54c3f
+2024-11-21 00:54:00,225 - INFO - Smallest key: 1732175230466
+2024-11-21 00:54:00,334 - INFO - create
+2024-11-21 00:54:00,526 - INFO - Object created: usu-cs5250-sajan-webwidgets/Sue Smith/89733002-60b6-49ce-891f-7c8a940ef1a8
+2024-11-21 00:54:00,724 - INFO - Smallest key: 1732175230605
+2024-11-21 00:54:00,830 - INFO - update
+2024-11-21 00:54:01,117 - INFO - Updated object widgets/Mary Matthews/bd685ef9-ba92-4a71-93c2-f9c12805ee13 in bucket usu-cs5250-sajan-web
+2024-11-21 00:54:01,314 - INFO - Smallest key: 1732175230733
+2024-11-21 00:54:01,418 - INFO - create
+2024-11-21 00:54:01,604 - INFO - Object created: usu-cs5250-sajan-webwidgets/Sue Smith/40d0578a-37f9-4849-8740-2856f3bc9dc7
+2024-11-21 00:54:01,800 - INFO - Smallest key: 1732175230937
+2024-11-21 00:54:01,959 - INFO - update
+2024-11-21 00:54:02,254 - INFO - Updated object widgets/Mary Matthews/779be343-b66d-49a9-a70c-5decd80ca380 in bucket usu-cs5250-sajan-web
+2024-11-21 00:54:02,460 - INFO - Smallest key: 1732175231131
+2024-11-21 00:54:02,575 - INFO - create
+2024-11-21 00:54:02,768 - INFO - Object created: usu-cs5250-sajan-webwidgets/Henry Hops/77abc510-22c3-48a6-b43e-b60287240cf6
+2024-11-21 00:54:02,966 - INFO - Smallest key: 1732175231262
+2024-11-21 00:54:03,067 - INFO - create
+2024-11-21 00:54:03,256 - INFO - Object created: usu-cs5250-sajan-webwidgets/John Jones/eb9fe662-ae8e-4bab-84d8-a5106f0309be
+2024-11-21 00:54:03,457 - INFO - Smallest key: 1732175231437
+2024-11-21 00:54:03,552 - INFO - delete
+2024-11-21 00:54:03,653 - INFO - Deleted object widgets/Henry Hops/bd145abc-b915-4f27-81bb-9e326fb804c8 from bucket usu-cs5250-sajan-web
+2024-11-21 00:54:03,851 - INFO - Smallest key: 1732175231559
+2024-11-21 00:54:04,006 - INFO - update
+2024-11-21 00:54:04,294 - INFO - Updated object widgets/John Jones/c4258054-d807-4a8c-a954-0e399880924c in bucket usu-cs5250-sajan-web
+2024-11-21 00:54:04,497 - INFO - Smallest key: 1732175231746
+2024-11-21 00:54:04,593 - INFO - delete
+2024-11-21 00:54:04,695 - INFO - Deleted object widgets/Mary Matthews/60fd7d0f-bd66-4766-8852-d43e3d94b0a0 from bucket usu-cs5250-sajan-web
+2024-11-21 00:54:04,896 - INFO - Smallest key: 1732175231869
+2024-11-21 00:54:05,020 - INFO - update
+2024-11-21 00:54:05,309 - INFO - Updated object widgets/Henry Hops/448c4665-ceaf-4573-a993-0d60d5d41fc5 in bucket usu-cs5250-sajan-web
+2024-11-21 00:54:05,512 - INFO - Smallest key: 1732175232046
+2024-11-21 00:54:05,630 - INFO - create
+2024-11-21 00:54:05,816 - INFO - Object created: usu-cs5250-sajan-webwidgets/Henry Hops/d9339d4b-ac97-4a47-ba12-68d06a3c93a8
+2024-11-21 00:54:06,016 - INFO - Smallest key: 1732175232178
+2024-11-21 00:54:06,140 - INFO - update
+2024-11-21 00:54:06,437 - INFO - Updated object widgets/Mary Matthews/a7840cf7-9238-4186-a905-74760fc045db in bucket usu-cs5250-sajan-web
+2024-11-21 00:54:06,646 - INFO - Smallest key: 1732175232324
+2024-11-21 00:54:06,751 - INFO - create
+2024-11-21 00:54:06,940 - INFO - Object created: usu-cs5250-sajan-webwidgets/Henry Hops/058aa179-833a-4dc2-bdf6-ed56b3ef8cc6
+2024-11-21 00:54:07,142 - INFO - Smallest key: 1732175232449
+2024-11-21 00:54:07,243 - INFO - create
+2024-11-21 00:54:07,444 - INFO - Object created: usu-cs5250-sajan-webwidgets/Sue Smith/5b79a7b4-2c19-4144-9fc4-cb30cdd42109
+2024-11-21 00:54:07,642 - INFO - Smallest key: 1732175232579
+2024-11-21 00:54:07,746 - INFO - create
+2024-11-21 00:54:07,931 - INFO - Object created: usu-cs5250-sajan-webwidgets/John Jones/0492ca8d-9798-43f3-8f42-c385841a57ed
+2024-11-21 00:54:08,133 - INFO - Smallest key: 1732175232708
+2024-11-21 00:54:08,250 - INFO - create
+2024-11-21 00:54:08,439 - INFO - Object created: usu-cs5250-sajan-webwidgets/Mary Matthews/21ea28a4-f7fa-46e5-865c-124ecdcd6f48
+2024-11-21 00:54:08,642 - INFO - Smallest key: 1732175232840
+2024-11-21 00:54:08,756 - INFO - create
+2024-11-21 00:54:08,942 - INFO - Object created: usu-cs5250-sajan-webwidgets/Henry Hops/4933f3d7-4c88-4575-97ef-d487f33b4cf1
+2024-11-21 00:54:09,149 - INFO - Smallest key: 1732175232963
+2024-11-21 00:54:09,254 - INFO - update
+2024-11-21 00:54:09,558 - INFO - Updated object widgets/Henry Hops/d92d58a9-25e0-42d2-845f-e9dec40f5aea in bucket usu-cs5250-sajan-web
+2024-11-21 00:54:09,757 - INFO - Smallest key: 1732175233127
+2024-11-21 00:54:09,857 - INFO - create
+2024-11-21 00:54:10,051 - INFO - Object created: usu-cs5250-sajan-webwidgets/Henry Hops/86f4ed0c-12ad-4d4f-8955-1675650511c4
+2024-11-21 00:54:10,252 - INFO - Smallest key: 1732175233271
+2024-11-21 00:54:10,360 - INFO - update
+2024-11-21 00:54:10,647 - INFO - Updated object widgets/Mary Matthews/119491ed-1226-4ed8-9ee6-a25d805b29c5 in bucket usu-cs5250-sajan-web
+2024-11-21 00:54:10,876 - INFO - Smallest key: 1732175233393
+2024-11-21 00:54:11,010 - INFO - create
+2024-11-21 00:54:11,212 - INFO - Object created: usu-cs5250-sajan-webwidgets/Henry Hops/0e1f303c-b71a-4be3-8858-1bb70709c320
+2024-11-21 00:54:11,413 - INFO - Smallest key: 1732175233520
+2024-11-21 00:54:11,563 - INFO - create
+2024-11-21 00:54:11,747 - INFO - Object created: usu-cs5250-sajan-webwidgets/Sue Smith/c466a756-fc61-44bf-a36b-4dcff8642c1b
+2024-11-21 00:54:11,950 - INFO - Smallest key: 1732175233659
+2024-11-21 00:54:12,054 - INFO - create
+2024-11-21 00:54:12,245 - INFO - Object created: usu-cs5250-sajan-webwidgets/John Jones/69ac4ee5-c352-4e7d-b874-bed0b108dddb
+2024-11-21 00:54:12,449 - INFO - Smallest key: 1732175233788
+2024-11-21 00:54:12,553 - INFO - create
+2024-11-21 00:54:12,741 - INFO - Object created: usu-cs5250-sajan-webwidgets/Sue Smith/c68e365e-4f35-427d-93cf-efb587be3a3d
+2024-11-21 00:54:12,947 - INFO - Smallest key: 1732175233911
+2024-11-21 00:54:13,051 - INFO - create
+2024-11-21 00:54:13,240 - INFO - Object created: usu-cs5250-sajan-webwidgets/Mary Matthews/7323e563-4e28-4f74-9768-fc1c5ae4dafc
+2024-11-21 00:54:13,451 - INFO - Smallest key: 1732175234058
+2024-11-21 00:54:13,555 - INFO - update
+2024-11-21 00:54:13,851 - INFO - Updated object widgets/Mary Matthews/95fb8e58-fe48-4cce-b1b5-c9af6325cf62 in bucket usu-cs5250-sajan-web
+2024-11-21 00:54:14,053 - INFO - Smallest key: 1732175234231
+2024-11-21 00:54:14,156 - INFO - create
+2024-11-21 00:54:14,357 - INFO - Object created: usu-cs5250-sajan-webwidgets/Sue Smith/516e7b2c-843f-4492-9fb5-222514477d59
+2024-11-21 00:54:14,554 - INFO - Smallest key: 1732175234366
+2024-11-21 00:54:14,658 - INFO - create
+2024-11-21 00:54:14,844 - INFO - Object created: usu-cs5250-sajan-webwidgets/Sue Smith/0d7c847c-ecc8-486e-837b-b136deffa91c
+2024-11-21 00:54:15,045 - INFO - Smallest key: 1732175234499
+2024-11-21 00:54:15,169 - INFO - create
+2024-11-21 00:54:15,362 - INFO - Object created: usu-cs5250-sajan-webwidgets/John Jones/8b96b325-8e92-4736-893a-fe1fa24ba9f5
+2024-11-21 00:54:15,558 - INFO - Smallest key: 1732175234622
+2024-11-21 00:54:15,660 - INFO - update
+2024-11-21 00:54:15,951 - INFO - Updated object widgets/Sue Smith/fb6ed056-7b2b-4b7e-8369-3a11999b168f in bucket usu-cs5250-sajan-web
+2024-11-21 00:54:16,554 - INFO - Smallest key: 1732175234778
+2024-11-21 00:54:16,661 - INFO - create
+2024-11-21 00:54:16,850 - INFO - Object created: usu-cs5250-sajan-webwidgets/Sue Smith/cdf97105-fdee-4641-9287-8c1c0a0d3ad3
+2024-11-21 00:54:17,050 - INFO - Smallest key: 1732175235022
+2024-11-21 00:54:17,155 - INFO - create
+2024-11-21 00:54:17,346 - INFO - Object created: usu-cs5250-sajan-webwidgets/Henry Hops/c4671b08-d8e1-4fbd-bd90-10263c9c0a0b
+2024-11-21 00:54:17,544 - INFO - Smallest key: 1732175235260
+2024-11-21 00:54:17,668 - INFO - create
+2024-11-21 00:54:17,867 - INFO - Object created: usu-cs5250-sajan-webwidgets/John Jones/192e153d-349a-4419-9a5a-7892ad4a243f
+2024-11-21 00:54:18,064 - INFO - Smallest key: 1732175235399
+2024-11-21 00:54:18,212 - INFO - create
+2024-11-21 00:54:18,397 - INFO - Object created: usu-cs5250-sajan-webwidgets/Mary Matthews/bc4f0e31-ec53-4a13-b76c-858dee2179ea
+2024-11-21 00:54:28,490 - INFO - No new requests for 5 seconds. Stopping processing.
+2024-11-21 00:54:51,941 - INFO - Processing requests from S3 bucket: usu-cs5250-sajan-requests to DynamoDB table: widgets
+2024-11-21 00:54:51,995 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2024-11-21 00:54:52,688 - INFO - Smallest key: 1732175679726
+2024-11-21 00:54:52,793 - INFO - create
+2024-11-21 00:54:53,301 - INFO - Created item with id 089f04bd-9d5d-42d9-98c1-520cff9f88b8 in DynamoDB.
+2024-11-21 00:54:53,515 - INFO - Smallest key: 1732175680717
+2024-11-21 00:54:53,618 - INFO - create
+2024-11-21 00:54:53,707 - INFO - Created item with id 1f4dceb3-2ab0-4296-bfa1-7e58eaddd1db in DynamoDB.
+2024-11-21 00:54:53,913 - INFO - Smallest key: 1732175680960
+2024-11-21 00:54:54,017 - INFO - create
+2024-11-21 00:54:54,107 - INFO - Created item with id f643735c-a62a-4a8f-8bf8-19c22c9b6a6a in DynamoDB.
+2024-11-21 00:54:54,313 - INFO - Smallest key: 1732175681135
+2024-11-21 00:54:54,416 - INFO - create
+2024-11-21 00:54:54,505 - INFO - Created item with id edec558e-826f-4757-93a4-9384abdc74f0 in DynamoDB.
+2024-11-21 00:54:54,718 - INFO - Smallest key: 1732175681266
+2024-11-21 00:54:54,822 - INFO - create
+2024-11-21 00:54:54,912 - INFO - Created item with id 69fd89e0-660f-4d55-ade2-67c6ff95447b in DynamoDB.
+2024-11-21 00:54:55,115 - INFO - Smallest key: 1732175681404
+2024-11-21 00:54:55,219 - INFO - create
+2024-11-21 00:54:55,312 - INFO - Created item with id 3e433ab7-846b-4258-9288-dedd30a39cd2 in DynamoDB.
+2024-11-21 00:54:55,513 - INFO - Smallest key: 1732175681584
+2024-11-21 00:54:55,615 - INFO - create
+2024-11-21 00:54:55,704 - INFO - Created item with id 7f9ad4e1-32e0-425d-9b6b-8b3ee84e8097 in DynamoDB.
+2024-11-21 00:54:55,901 - INFO - Smallest key: 1732175681715
+2024-11-21 00:54:56,007 - INFO - create
+2024-11-21 00:54:56,095 - INFO - Created item with id dcfa0949-2e7e-4b26-aaf2-770b50276990 in DynamoDB.
+2024-11-21 00:54:56,365 - INFO - Smallest key: 1732175681844
+2024-11-21 00:54:56,468 - INFO - create
+2024-11-21 00:54:56,556 - INFO - Created item with id 58e4875a-5da2-4e14-bd6e-05fd3054a8b8 in DynamoDB.
+2024-11-21 00:54:56,761 - INFO - Smallest key: 1732175682028
+2024-11-21 00:54:56,867 - INFO - create
+2024-11-21 00:54:56,959 - INFO - Created item with id f379eafe-5977-4939-b6fa-c3cb8444f8c7 in DynamoDB.
+2024-11-21 00:54:57,166 - INFO - Smallest key: 1732175682179
+2024-11-21 00:54:57,268 - INFO - create
+2024-11-21 00:54:57,356 - INFO - Created item with id d17b40a9-1a8b-4691-8b9e-89ba631a6ef3 in DynamoDB.
+2024-11-21 00:54:57,561 - INFO - Smallest key: 1732175682376
+2024-11-21 00:54:57,700 - INFO - create
+2024-11-21 00:54:57,794 - INFO - Created item with id 3787d4e0-9e86-4cb1-b70f-68bcd759f5ae in DynamoDB.
+2024-11-21 00:54:57,993 - INFO - Smallest key: 1732175682558
+2024-11-21 00:54:58,101 - INFO - create
+2024-11-21 00:54:58,190 - INFO - Created item with id ae54c4ea-1013-4268-b488-05275471ec13 in DynamoDB.
+2024-11-21 00:54:58,399 - INFO - Smallest key: 1732175682715
+2024-11-21 00:54:58,511 - INFO - create
+2024-11-21 00:54:58,602 - INFO - Created item with id 44717155-8ee4-4a84-a213-890c8bb05e08 in DynamoDB.
+2024-11-21 00:54:58,804 - INFO - Smallest key: 1732175682863
+2024-11-21 00:54:58,942 - INFO - create
+2024-11-21 00:54:59,143 - INFO - Created item with id 4900c328-5138-4509-bafd-f78f9154645f in DynamoDB.
+2024-11-21 00:54:59,564 - INFO - Smallest key: 1732175682992
+2024-11-21 00:54:59,749 - INFO - create
+2024-11-21 00:54:59,842 - INFO - Created item with id b1f03930-d1d4-4293-a75c-a6b15e931f0a in DynamoDB.
+2024-11-21 00:55:00,156 - INFO - Smallest key: 1732175683129
+2024-11-21 00:55:00,360 - INFO - create
+2024-11-21 00:55:00,453 - INFO - Created item with id 79bd5e9b-e29d-45e5-971a-d3673f758927 in DynamoDB.
+2024-11-21 00:55:00,771 - INFO - Smallest key: 1732175683259
+2024-11-21 00:55:00,899 - INFO - create
+2024-11-21 00:55:00,989 - INFO - Created item with id 1360cb7c-bc3b-4513-baf2-b20e25d12d34 in DynamoDB.
+2024-11-21 00:55:01,209 - INFO - Smallest key: 1732175683385
+2024-11-21 00:55:01,312 - INFO - create
+2024-11-21 00:55:01,402 - INFO - Created item with id e9f65d4b-16b1-4936-9119-b6f604cc5c6a in DynamoDB.
+2024-11-21 00:55:01,610 - INFO - Smallest key: 1732175683512
+2024-11-21 00:55:01,741 - INFO - create
+2024-11-21 00:55:01,831 - INFO - Created item with id 47271874-58d5-48f8-b61f-9f73fd9a576b in DynamoDB.
+2024-11-21 00:55:02,030 - INFO - Smallest key: 1732175683700
+2024-11-21 00:55:02,134 - INFO - create
+2024-11-21 00:55:02,223 - INFO - Created item with id 83948c56-4618-49ed-a179-c8c88fceaecc in DynamoDB.
+2024-11-21 00:55:02,421 - INFO - Smallest key: 1732175683827
+2024-11-21 00:55:02,526 - INFO - create
+2024-11-21 00:55:02,617 - INFO - Created item with id 72e3166a-0427-4d06-bd8f-6b0339f036fe in DynamoDB.
+2024-11-21 00:55:02,817 - INFO - Smallest key: 1732175683974
+2024-11-21 00:55:02,945 - INFO - create
+2024-11-21 00:55:03,035 - INFO - Created item with id 7330945f-e960-44e9-8645-94cd7f998c72 in DynamoDB.
+2024-11-21 00:55:03,243 - INFO - Smallest key: 1732175684103
+2024-11-21 00:55:03,347 - INFO - create
+2024-11-21 00:55:03,435 - INFO - Created item with id 47e26d6f-6735-472c-ba81-d87d43f3b9a8 in DynamoDB.
+2024-11-21 00:55:03,647 - INFO - Smallest key: 1732175684232
+2024-11-21 00:55:03,752 - INFO - create
+2024-11-21 00:55:03,845 - INFO - Created item with id fa974968-fff7-4db7-986f-aca094f0191c in DynamoDB.
+2024-11-21 00:55:04,046 - INFO - Smallest key: 1732175684365
+2024-11-21 00:55:04,149 - INFO - create
+2024-11-21 00:55:04,241 - INFO - Created item with id 411e5a0f-3e95-46e2-b034-54991bc65949 in DynamoDB.
+2024-11-21 00:55:04,451 - INFO - Smallest key: 1732175684490
+2024-11-21 00:55:04,556 - INFO - create
+2024-11-21 00:55:04,644 - INFO - Created item with id 029fb66d-6466-4575-a9e5-ff155f56515c in DynamoDB.
+2024-11-21 00:55:04,842 - INFO - Smallest key: 1732175684638
+2024-11-21 00:55:04,951 - INFO - create
+2024-11-21 00:55:05,038 - INFO - Created item with id 3e9d7b47-7a65-44ce-a8f2-0d48cd90c1e1 in DynamoDB.
+2024-11-21 00:55:05,253 - INFO - Smallest key: 1732175684766
+2024-11-21 00:55:05,358 - INFO - create
+2024-11-21 00:55:05,446 - INFO - Created item with id 870bc859-cdf9-4c89-a354-35416416bf04 in DynamoDB.
+2024-11-21 00:55:05,651 - INFO - Smallest key: 1732175684902
+2024-11-21 00:55:05,754 - INFO - create
+2024-11-21 00:55:05,842 - INFO - Created item with id 5d40ea40-1058-434c-bf68-8ea6f6b2399e in DynamoDB.
+2024-11-21 00:55:06,053 - INFO - Smallest key: 1732175685048
+2024-11-21 00:55:06,170 - INFO - create
+2024-11-21 00:55:06,260 - INFO - Created item with id b04b666d-64e4-4498-8cb5-d9d6e156b1e9 in DynamoDB.
+2024-11-21 00:55:06,495 - INFO - Smallest key: 1732175685184
+2024-11-21 00:55:06,627 - INFO - create
+2024-11-21 00:55:06,715 - INFO - Created item with id 7d6727f9-7c43-495b-a21e-388b29f85137 in DynamoDB.
+2024-11-21 00:55:06,922 - INFO - Smallest key: 1732175685310
+2024-11-21 00:55:07,029 - INFO - create
+2024-11-21 00:55:07,115 - INFO - Created item with id 9d211eef-fdd4-41d4-ab79-28dfb1fbf2d9 in DynamoDB.
+2024-11-21 00:55:07,320 - INFO - Smallest key: 1732175685445
+2024-11-21 00:55:07,875 - INFO - create
+2024-11-21 00:55:07,963 - INFO - Created item with id 9e83af01-f516-4c51-8f8f-22df30f9b916 in DynamoDB.
+2024-11-21 00:55:08,157 - INFO - Smallest key: 1732175685611
+2024-11-21 00:55:08,257 - INFO - create
+2024-11-21 00:55:08,346 - INFO - Created item with id 298ca3a5-604e-47a0-a91c-c980886602c9 in DynamoDB.
+2024-11-21 00:55:08,547 - INFO - Smallest key: 1732175685740
+2024-11-21 00:55:08,650 - INFO - create
+2024-11-21 00:55:08,741 - INFO - Created item with id 848764e4-aa08-49af-8cbf-223945e27c25 in DynamoDB.
+2024-11-21 00:55:08,940 - INFO - Smallest key: 1732175685962
+2024-11-21 00:55:09,044 - INFO - create
+2024-11-21 00:55:09,132 - INFO - Created item with id d801b9d9-abc3-411b-b517-1e7700e4dfbc in DynamoDB.
+2024-11-21 00:55:09,325 - INFO - Smallest key: 1732175686085
+2024-11-21 00:55:09,428 - INFO - create
+2024-11-21 00:55:09,526 - INFO - Created item with id 2187c014-e9fc-4eb8-ac5c-6e500241a784 in DynamoDB.
+2024-11-21 00:55:09,719 - INFO - Smallest key: 1732175686216
+2024-11-21 00:55:09,819 - INFO - create
+2024-11-21 00:55:09,908 - INFO - Created item with id 246031bf-8ad8-4749-9e83-d9c8a4ed367c in DynamoDB.
+2024-11-21 00:55:10,100 - INFO - Smallest key: 1732175686348
+2024-11-21 00:55:10,210 - INFO - create
+2024-11-21 00:55:10,300 - INFO - Created item with id a9d2e304-750f-4eaa-bfe1-bcd7af6f1e04 in DynamoDB.
+2024-11-21 00:55:10,504 - INFO - Smallest key: 1732175686517
+2024-11-21 00:55:10,606 - INFO - create
+2024-11-21 00:55:10,692 - INFO - Created item with id 50ae0706-b186-4e0f-baa6-6dbf67ab7959 in DynamoDB.
+2024-11-21 00:55:10,910 - INFO - Smallest key: 1732175686651
+2024-11-21 00:55:11,014 - INFO - create
+2024-11-21 00:55:11,101 - INFO - Created item with id 7e228308-757b-4076-b260-5756e716e03a in DynamoDB.
+2024-11-21 00:55:11,304 - INFO - Smallest key: 1732175686777
+2024-11-21 00:55:11,403 - INFO - update
+2024-11-21 00:55:11,772 - INFO - Smallest key: 1732175686906
+2024-11-21 00:55:11,866 - INFO - delete
+2024-11-21 00:55:11,955 - INFO - Deleted item with id f379eafe-5977-4939-b6fa-c3cb8444f8c7 from DynamoDB.
+2024-11-21 00:55:12,156 - INFO - Smallest key: 1732175687037
+2024-11-21 00:55:12,256 - INFO - create
+2024-11-21 00:55:12,345 - INFO - Created item with id 36239686-ac64-427e-816a-9203bbe0e9cf in DynamoDB.
+2024-11-21 00:55:12,540 - INFO - Smallest key: 1732175687166
+2024-11-21 00:55:12,654 - INFO - update
+2024-11-21 00:55:13,024 - INFO - Smallest key: 1732175687292
+2024-11-21 00:55:13,129 - INFO - create
+2024-11-21 00:55:13,217 - INFO - Created item with id 36b23d0b-5142-41f2-bd68-89756ab135c3 in DynamoDB.
+2024-11-21 00:55:13,411 - INFO - Smallest key: 1732175687424
+2024-11-21 00:55:13,513 - INFO - create
+2024-11-21 00:55:13,602 - INFO - Created item with id 58c99288-b841-40bf-9afe-8da17fa16098 in DynamoDB.
+2024-11-21 00:55:13,802 - INFO - Smallest key: 1732175687585
+2024-11-21 00:55:13,908 - INFO - create
+2024-11-21 00:55:13,997 - INFO - Created item with id f5d9294a-944d-4fe2-8a61-c3e014189001 in DynamoDB.
+2024-11-21 00:55:14,193 - INFO - Smallest key: 1732175687743
+2024-11-21 00:55:14,287 - INFO - delete
+2024-11-21 00:55:14,375 - INFO - Deleted item with id 7e228308-757b-4076-b260-5756e716e03a from DynamoDB.
+2024-11-21 00:55:14,582 - INFO - Smallest key: 1732175687862
+2024-11-21 00:55:14,686 - INFO - create
+2024-11-21 00:55:14,776 - INFO - Created item with id b2c059de-7f2b-4440-b6d1-9b9924a4b919 in DynamoDB.
+2024-11-21 00:55:14,972 - INFO - Smallest key: 1732175687993
+2024-11-21 00:55:15,080 - INFO - create
+2024-11-21 00:55:15,168 - INFO - Created item with id eb89d04c-69a8-40d5-ab31-ee6414fbac67 in DynamoDB.
+2024-11-21 00:55:15,381 - INFO - Smallest key: 1732175688148
+2024-11-21 00:55:15,487 - INFO - update
+2024-11-21 00:55:15,864 - INFO - Smallest key: 1732175688277
+2024-11-21 00:55:15,967 - INFO - update
+2024-11-21 00:55:16,342 - INFO - Smallest key: 1732175688411
+2024-11-21 00:55:16,448 - INFO - update
+2024-11-21 00:55:16,822 - INFO - Smallest key: 1732175688542
+2024-11-21 00:55:16,916 - INFO - delete
+2024-11-21 00:55:17,007 - INFO - Deleted item with id 298ca3a5-604e-47a0-a91c-c980886602c9 from DynamoDB.
+2024-11-21 00:55:17,213 - INFO - Smallest key: 1732175688667
+2024-11-21 00:55:17,318 - INFO - create
+2024-11-21 00:55:17,405 - INFO - Created item with id 5920e228-3164-420b-9ef9-4259828391ac in DynamoDB.
+2024-11-21 00:55:17,608 - INFO - Smallest key: 1732175688800
+2024-11-21 00:55:17,709 - INFO - create
+2024-11-21 00:55:17,798 - INFO - Created item with id 1bb86c82-d18a-4eec-be6a-5d995664a551 in DynamoDB.
+2024-11-21 00:55:17,999 - INFO - Smallest key: 1732175689002
+2024-11-21 00:55:18,102 - INFO - update
+2024-11-21 00:55:18,474 - INFO - Smallest key: 1732175689146
+2024-11-21 00:55:18,579 - INFO - update
+2024-11-21 00:55:18,964 - INFO - Smallest key: 1732175689279
+2024-11-21 00:55:19,075 - INFO - create
+2024-11-21 00:55:19,163 - INFO - Created item with id 5e6c04aa-73e1-4b26-b62e-bc84fbe9a2ff in DynamoDB.
+2024-11-21 00:55:19,376 - INFO - Smallest key: 1732175689412
+2024-11-21 00:55:19,482 - INFO - create
+2024-11-21 00:55:19,572 - INFO - Created item with id d8a6dc3b-fa20-4199-9ca5-253b105dbb0b in DynamoDB.
+2024-11-21 00:55:19,772 - INFO - Smallest key: 1732175689567
+2024-11-21 00:55:19,870 - INFO - create
+2024-11-21 00:55:19,958 - INFO - Created item with id 333ff78d-7f1e-4a86-884b-c75a8542dbba in DynamoDB.
+2024-11-21 00:55:20,159 - INFO - Smallest key: 1732175689706
+2024-11-21 00:55:20,296 - INFO - update
+2024-11-21 00:55:20,668 - INFO - Smallest key: 1732175689851
+2024-11-21 00:55:20,772 - INFO - update
+2024-11-21 00:55:21,146 - INFO - Smallest key: 1732175690021
+2024-11-21 00:55:21,250 - INFO - create
+2024-11-21 00:55:21,342 - INFO - Created item with id 53229e27-9f2b-4b65-8b51-069cef18d1ce in DynamoDB.
+2024-11-21 00:55:21,554 - INFO - Smallest key: 1732175690149
+2024-11-21 00:55:21,677 - INFO - create
+2024-11-21 00:55:21,765 - INFO - Created item with id ffbb2cb6-a206-486e-a0f7-448e0abea7fd in DynamoDB.
+2024-11-21 00:55:22,341 - INFO - Smallest key: 1732175690367
+2024-11-21 00:55:22,446 - INFO - create
+2024-11-21 00:55:22,535 - INFO - Created item with id f7ad6007-523b-4306-b7e3-8a650d3b8a0c in DynamoDB.
+2024-11-21 00:55:22,731 - INFO - Smallest key: 1732175690531
+2024-11-21 00:55:22,839 - INFO - update
+2024-11-21 00:55:23,231 - INFO - Smallest key: 1732175690657
+2024-11-21 00:55:23,335 - INFO - create
+2024-11-21 00:55:23,427 - INFO - Created item with id a5aefa24-da87-42ad-83a3-a392d4716290 in DynamoDB.
+2024-11-21 00:55:23,626 - INFO - Smallest key: 1732175690808
+2024-11-21 00:55:23,725 - INFO - update
+2024-11-21 00:55:24,101 - INFO - Smallest key: 1732175690977
+2024-11-21 00:55:24,206 - INFO - update
+2024-11-21 00:55:24,590 - INFO - Smallest key: 1732175691105
+2024-11-21 00:55:24,686 - INFO - delete
+2024-11-21 00:55:24,776 - INFO - Deleted item with id a5aefa24-da87-42ad-83a3-a392d4716290 from DynamoDB.
+2024-11-21 00:55:24,975 - INFO - Smallest key: 1732175691229
+2024-11-21 00:55:25,084 - INFO - create
+2024-11-21 00:55:25,172 - INFO - Created item with id 7408f792-63e3-48e7-8508-50d61d245114 in DynamoDB.
+2024-11-21 00:55:25,370 - INFO - Smallest key: 1732175691397
+2024-11-21 00:55:25,473 - INFO - update
+2024-11-21 00:55:25,846 - INFO - Smallest key: 1732175691542
+2024-11-21 00:55:25,956 - INFO - update
+2024-11-21 00:55:26,332 - INFO - Smallest key: 1732175691676
+2024-11-21 00:55:26,433 - INFO - create
+2024-11-21 00:55:26,524 - INFO - Created item with id 2e3b251f-d90a-46b4-9bc1-60f8b724873a in DynamoDB.
+2024-11-21 00:55:26,723 - INFO - Smallest key: 1732175691811
+2024-11-21 00:55:26,818 - INFO - delete
+2024-11-21 00:55:26,910 - INFO - Deleted item with id 7d6727f9-7c43-495b-a21e-388b29f85137 from DynamoDB.
+2024-11-21 00:55:27,113 - INFO - Smallest key: 1732175691933
+2024-11-21 00:55:27,220 - INFO - update
+2024-11-21 00:55:27,593 - INFO - Smallest key: 1732175692077
+2024-11-21 00:55:27,696 - INFO - update
+2024-11-21 00:55:28,073 - INFO - Smallest key: 1732175692234
+2024-11-21 00:55:28,179 - INFO - create
+2024-11-21 00:55:28,267 - INFO - Created item with id a28f3bee-516c-43ee-944e-38763023fe27 in DynamoDB.
+2024-11-21 00:55:28,468 - INFO - Smallest key: 1732175692363
+2024-11-21 00:55:28,574 - INFO - update
+2024-11-21 00:55:28,949 - INFO - Smallest key: 1732175692489
+2024-11-21 00:55:29,048 - INFO - create
+2024-11-21 00:55:29,135 - INFO - Created item with id 9f3e33f0-467d-4868-afa1-26c4aac88e8d in DynamoDB.
+2024-11-21 00:55:29,340 - INFO - Smallest key: 1732175692677
+2024-11-21 00:55:29,474 - INFO - update
+2024-11-21 00:55:29,852 - INFO - Smallest key: 1732175692813
+2024-11-21 00:55:29,955 - INFO - update
+2024-11-21 00:55:30,326 - INFO - Smallest key: 1732175692945
+2024-11-21 00:55:30,452 - INFO - update
+2024-11-21 00:55:30,881 - INFO - Smallest key: 1732175693079
+2024-11-21 00:55:30,986 - INFO - create
+2024-11-21 00:55:31,075 - INFO - Created item with id 0f5372fa-b13a-4dce-a008-9b545210aa9f in DynamoDB.
+2024-11-21 00:55:31,307 - INFO - Smallest key: 1732175693215
+2024-11-21 00:55:31,407 - INFO - update
+2024-11-21 00:55:31,788 - INFO - Smallest key: 1732175693362
+2024-11-21 00:55:31,894 - INFO - create
+2024-11-21 00:55:31,982 - INFO - Created item with id 6f6147cd-387c-4a66-8897-0b4a8c861e1f in DynamoDB.
+2024-11-21 00:55:32,185 - INFO - Smallest key: 1732175693545
+2024-11-21 00:55:32,292 - INFO - create
+2024-11-21 00:55:32,380 - INFO - Created item with id 42949b8a-62d4-4650-a2a9-c63fafff132d in DynamoDB.
+2024-11-21 00:55:32,583 - INFO - Smallest key: 1732175693669
+2024-11-21 00:55:32,684 - INFO - update
+2024-11-21 00:55:33,065 - INFO - Smallest key: 1732175693809
+2024-11-21 00:55:33,170 - INFO - update
+2024-11-21 00:55:33,546 - INFO - Smallest key: 1732175693936
+2024-11-21 00:55:33,649 - INFO - create
+2024-11-21 00:55:33,737 - INFO - Created item with id af0cdd3d-ce83-4190-8242-14a4f7a7ce5b in DynamoDB.
+2024-11-21 00:55:33,939 - INFO - Smallest key: 1732175694082
+2024-11-21 00:55:34,042 - INFO - create
+2024-11-21 00:55:34,131 - INFO - Created item with id a0313b59-0581-4eb7-a118-358ad726e77b in DynamoDB.
+2024-11-21 00:55:34,331 - INFO - Smallest key: 1732175694214
+2024-11-21 00:55:34,435 - INFO - create
+2024-11-21 00:55:34,526 - INFO - Created item with id 2cdad88f-5c4f-4b56-8392-f7b6ee74f42c in DynamoDB.
+2024-11-21 00:55:34,727 - INFO - Smallest key: 1732175694342
+2024-11-21 00:55:34,835 - INFO - update
+2024-11-21 00:55:35,212 - INFO - Smallest key: 1732175694471
+2024-11-21 00:55:35,317 - INFO - create
+2024-11-21 00:55:35,406 - INFO - Created item with id 345315e7-cb17-4f5b-a61f-2de859808d1b in DynamoDB.
+2024-11-21 00:55:35,610 - INFO - Smallest key: 1732175694599
+2024-11-21 00:55:35,712 - INFO - create
+2024-11-21 00:55:35,801 - INFO - Created item with id 7fec7986-841e-4bc2-9460-4f607b82b7b2 in DynamoDB.
+2024-11-21 00:55:36,001 - INFO - Smallest key: 1732175694725
+2024-11-21 00:55:36,108 - INFO - update
+2024-11-21 00:55:36,484 - INFO - Smallest key: 1732175694857
+2024-11-21 00:55:36,588 - INFO - update
+2024-11-21 00:55:37,389 - INFO - Smallest key: 1732175694999
+2024-11-21 00:55:37,499 - INFO - update
+2024-11-21 00:55:37,872 - INFO - Smallest key: 1732175695286
+2024-11-21 00:55:37,977 - INFO - update
+2024-11-21 00:55:38,348 - INFO - Smallest key: 1732175695481
+2024-11-21 00:55:38,480 - INFO - create
+2024-11-21 00:55:38,568 - INFO - Created item with id 59e7175f-3b4d-4f1c-badf-c7e12fb7b90c in DynamoDB.
+2024-11-21 00:55:38,763 - INFO - Smallest key: 1732175695607
+2024-11-21 00:55:38,865 - INFO - create
+2024-11-21 00:55:38,952 - INFO - Created item with id 692a0e99-afec-4260-97bc-300de8dc60ec in DynamoDB.
+2024-11-21 00:55:39,149 - INFO - Smallest key: 1732175695769
+2024-11-21 00:55:39,254 - INFO - create
+2024-11-21 00:55:39,342 - INFO - Created item with id 5391ddca-48aa-4324-bbfb-b9f518cc7d63 in DynamoDB.
+2024-11-21 00:55:39,545 - INFO - Smallest key: 1732175695905
+2024-11-21 00:55:39,648 - INFO - create
+2024-11-21 00:55:39,737 - INFO - Created item with id 6c907bd3-053d-4a8e-8263-65e31c255955 in DynamoDB.
+2024-11-21 00:55:39,934 - INFO - Smallest key: 1732175696029
+2024-11-21 00:55:40,036 - INFO - create
+2024-11-21 00:55:40,126 - INFO - Created item with id 6a668549-a025-4fbb-b0e7-470bc4adf30f in DynamoDB.
+2024-11-21 00:55:40,320 - INFO - Smallest key: 1732175696153
+2024-11-21 00:55:40,423 - INFO - create
+2024-11-21 00:55:40,512 - INFO - Created item with id 54f640aa-d47e-4b32-aa55-2bccf46b44e5 in DynamoDB.
+2024-11-21 00:55:40,708 - INFO - Smallest key: 1732175696279
+2024-11-21 00:55:40,810 - INFO - create
+2024-11-21 00:55:40,912 - INFO - Created item with id 515f1896-76b0-4ad8-a44e-eee130615b70 in DynamoDB.
+2024-11-21 00:55:41,110 - INFO - Smallest key: 1732175696412
+2024-11-21 00:55:41,215 - INFO - update
+2024-11-21 00:55:41,595 - INFO - Smallest key: 1732175696546
+2024-11-21 00:55:41,699 - INFO - create
+2024-11-21 00:55:41,788 - INFO - Created item with id 47bca6a8-d3b0-4855-9088-b7da6600fdd7 in DynamoDB.
+2024-11-21 00:55:41,987 - INFO - Smallest key: 1732175696683
+2024-11-21 00:55:42,089 - INFO - create
+2024-11-21 00:55:42,185 - INFO - Created item with id 9c2d2133-cca2-40a9-8253-ac1b95b8e6a2 in DynamoDB.
+2024-11-21 00:55:42,389 - INFO - Smallest key: 1732175696810
+2024-11-21 00:55:42,491 - INFO - create
+2024-11-21 00:55:42,580 - INFO - Created item with id aa00ba7c-c42a-41de-a31b-6b5dc8a0bfd0 in DynamoDB.
+2024-11-21 00:55:42,780 - INFO - Smallest key: 1732175696938
+2024-11-21 00:55:42,882 - INFO - create
+2024-11-21 00:55:42,974 - INFO - Created item with id 714ba0dd-942b-40b8-9b16-d0fc51c2228c in DynamoDB.
+2024-11-21 00:55:43,172 - INFO - Smallest key: 1732175697065
+2024-11-21 00:55:43,276 - INFO - create
+2024-11-21 00:55:43,366 - INFO - Created item with id 7ff4ec79-4dd2-4556-9370-1e530ea8ed81 in DynamoDB.
+2024-11-21 00:55:43,563 - INFO - Smallest key: 1732175697190
+2024-11-21 00:55:43,664 - INFO - create
+2024-11-21 00:55:43,755 - INFO - Created item with id afc41360-1ac4-4f71-8f07-a8db33d59bae in DynamoDB.
+2024-11-21 00:55:43,951 - INFO - Smallest key: 1732175697321
+2024-11-21 00:55:44,053 - INFO - create
+2024-11-21 00:55:44,141 - INFO - Created item with id c4ce8ca9-786f-4a73-b9a8-880c942b85ea in DynamoDB.
+2024-11-21 00:55:44,336 - INFO - Smallest key: 1732175697469
+2024-11-21 00:55:44,439 - INFO - create
+2024-11-21 00:55:44,527 - INFO - Created item with id 3ba5f4e1-3d58-4ebd-8520-8dd3eff4d033 in DynamoDB.
+2024-11-21 00:55:44,719 - INFO - Smallest key: 1732175697597
+2024-11-21 00:55:44,821 - INFO - create
+2024-11-21 00:55:44,910 - INFO - Created item with id 340fc0be-efce-4e06-aed6-bb8c36ef062d in DynamoDB.
+2024-11-21 00:55:45,108 - INFO - Smallest key: 1732175697756
+2024-11-21 00:55:45,219 - INFO - create
+2024-11-21 00:55:45,310 - INFO - Created item with id 9256b344-bdd8-499f-a332-eff595967f7f in DynamoDB.
+2024-11-21 00:55:45,521 - INFO - Smallest key: 1732175697922
+2024-11-21 00:55:45,622 - INFO - create
+2024-11-21 00:55:45,710 - INFO - Created item with id 24b9a767-d18c-454d-ad9a-4b3b51cf4626 in DynamoDB.
+2024-11-21 00:55:45,905 - INFO - Smallest key: 1732175698051
+2024-11-21 00:55:46,008 - INFO - create
+2024-11-21 00:55:46,099 - INFO - Created item with id 00b79946-9d8a-43ae-be0c-7cec3937d0a7 in DynamoDB.
+2024-11-21 00:55:46,304 - INFO - Smallest key: 1732175698192
+2024-11-21 00:55:46,407 - INFO - create
+2024-11-21 00:55:46,495 - INFO - Created item with id cb6be13b-f6ac-4e8a-830e-b91cf0dedc74 in DynamoDB.
+2024-11-21 00:55:46,708 - INFO - Smallest key: 1732175698314
+2024-11-21 00:55:46,838 - INFO - create
+2024-11-21 00:55:46,929 - INFO - Created item with id 7326ff4b-ceec-482d-94d9-a3063093a918 in DynamoDB.
+2024-11-21 00:55:47,138 - INFO - Smallest key: 1732175698441
+2024-11-21 00:55:47,243 - INFO - create
+2024-11-21 00:55:47,332 - INFO - Created item with id d2da48c5-26b4-4fa6-8498-4b2539b84a7f in DynamoDB.
+2024-11-21 00:55:47,532 - INFO - Smallest key: 1732175698623
+2024-11-21 00:55:47,630 - INFO - create
+2024-11-21 00:55:47,722 - INFO - Created item with id 69573777-ba70-49d8-bdb3-0b22750b339f in DynamoDB.
+2024-11-21 00:55:47,922 - INFO - Smallest key: 1732175698796
+2024-11-21 00:55:48,021 - INFO - delete
+2024-11-21 00:55:48,110 - INFO - Deleted item with id 411e5a0f-3e95-46e2-b034-54991bc65949 from DynamoDB.
+2024-11-21 00:55:48,303 - INFO - Smallest key: 1732175698923
+2024-11-21 00:55:48,407 - INFO - create
+2024-11-21 00:55:48,496 - INFO - Created item with id c9304de6-9019-496a-a91f-e036841e751d in DynamoDB.
+2024-11-21 00:55:48,696 - INFO - Smallest key: 1732175699052
+2024-11-21 00:55:48,815 - INFO - create
+2024-11-21 00:55:48,903 - INFO - Created item with id 8d413e40-9c3a-4840-b1dd-67e9b13fde81 in DynamoDB.
+2024-11-21 00:55:49,098 - INFO - Smallest key: 1732175699201
+2024-11-21 00:55:49,203 - INFO - update
+2024-11-21 00:55:49,581 - INFO - Smallest key: 1732175699359
+2024-11-21 00:55:49,683 - INFO - update
+2024-11-21 00:55:50,058 - INFO - Smallest key: 1732175699485
+2024-11-21 00:55:50,159 - INFO - create
+2024-11-21 00:55:50,249 - INFO - Created item with id 81d1dc1e-7e79-4ef7-aaf9-6ac0c9dc094f in DynamoDB.
+2024-11-21 00:55:50,452 - INFO - Smallest key: 1732175699718
+2024-11-21 00:55:50,562 - INFO - delete
+2024-11-21 00:55:50,653 - INFO - Deleted item with id 7fec7986-841e-4bc2-9460-4f607b82b7b2 from DynamoDB.
+2024-11-21 00:55:50,846 - INFO - Smallest key: 1732175699838
+2024-11-21 00:55:51,351 - INFO - delete
+2024-11-21 00:55:51,440 - INFO - Deleted item with id 9f3e33f0-467d-4868-afa1-26c4aac88e8d from DynamoDB.
+2024-11-21 00:55:51,646 - INFO - Smallest key: 1732175699964
+2024-11-21 00:55:51,750 - INFO - update
+2024-11-21 00:55:52,140 - INFO - Smallest key: 1732175700089
+2024-11-21 00:55:52,245 - INFO - update
+2024-11-21 00:55:52,625 - INFO - Smallest key: 1732175700215
+2024-11-21 00:55:52,729 - INFO - update
+2024-11-21 00:55:53,106 - INFO - Smallest key: 1732175700347
+2024-11-21 00:55:53,218 - INFO - create
+2024-11-21 00:55:53,308 - INFO - Created item with id e5688800-9de1-4889-9fca-158d174d7582 in DynamoDB.
+2024-11-21 00:55:53,515 - INFO - Smallest key: 1732175700476
+2024-11-21 00:55:53,627 - INFO - create
+2024-11-21 00:55:53,717 - INFO - Created item with id 7783c17a-01fc-4777-b624-166e048d19e5 in DynamoDB.
+2024-11-21 00:55:53,917 - INFO - Smallest key: 1732175700644
+2024-11-21 00:55:54,037 - INFO - create
+2024-11-21 00:55:54,130 - INFO - Created item with id 043dc027-bfec-45b0-8aff-811dc4ed1d4b in DynamoDB.
+2024-11-21 00:55:54,339 - INFO - Smallest key: 1732175700807
+2024-11-21 00:55:54,441 - INFO - create
+2024-11-21 00:55:54,533 - INFO - Created item with id 471899a7-aaef-408b-8c99-a8e4b0e1f45f in DynamoDB.
+2024-11-21 00:55:54,741 - INFO - Smallest key: 1732175700934
+2024-11-21 00:55:54,844 - INFO - create
+2024-11-21 00:55:54,935 - INFO - Created item with id 3660783e-832c-40c8-a53a-ac0e919b72e8 in DynamoDB.
+2024-11-21 00:55:55,152 - INFO - Smallest key: 1732175701062
+2024-11-21 00:55:55,291 - INFO - update
+2024-11-21 00:55:55,671 - INFO - Smallest key: 1732175701187
+2024-11-21 00:55:55,780 - INFO - create
+2024-11-21 00:55:55,868 - INFO - Created item with id 167fba6d-f240-48e3-9a29-899088b52a5f in DynamoDB.
+2024-11-21 00:55:56,074 - INFO - Smallest key: 1732175701314
+2024-11-21 00:55:56,181 - INFO - create
+2024-11-21 00:55:56,270 - INFO - Created item with id 79346c2e-e8fc-41df-8af2-ad5d45c35978 in DynamoDB.
+2024-11-21 00:55:56,478 - INFO - Smallest key: 1732175701472
+2024-11-21 00:55:56,637 - INFO - create
+2024-11-21 00:55:56,726 - INFO - Created item with id e9a62a07-df41-4013-bfc1-52a53b0cb8a9 in DynamoDB.
+2024-11-21 00:55:56,934 - INFO - Smallest key: 1732175701603
+2024-11-21 00:55:57,039 - INFO - update
+2024-11-21 00:55:57,437 - INFO - Smallest key: 1732175701731
+2024-11-21 00:55:57,540 - INFO - create
+2024-11-21 00:55:57,630 - INFO - Created item with id 33706598-4bb0-44c6-a9da-8ebef5b2d041 in DynamoDB.
+2024-11-21 00:55:57,833 - INFO - Smallest key: 1732175701855
+2024-11-21 00:55:57,936 - INFO - create
+2024-11-21 00:55:58,024 - INFO - Created item with id a1598f20-1ace-47d6-9a16-3719f4766a86 in DynamoDB.
+2024-11-21 00:55:58,224 - INFO - Smallest key: 1732175702007
+2024-11-21 00:55:58,328 - INFO - create
+2024-11-21 00:55:58,417 - INFO - Created item with id 480959bf-4ee4-4375-b0ba-cdeae095fa43 in DynamoDB.
+2024-11-21 00:55:58,617 - INFO - Smallest key: 1732175702139
+2024-11-21 00:55:58,726 - INFO - create
+2024-11-21 00:55:58,814 - INFO - Created item with id 3f863539-d11c-42cd-a426-9c3fa0b84127 in DynamoDB.
+2024-11-21 00:55:59,017 - INFO - Smallest key: 1732175702305
+2024-11-21 00:55:59,120 - INFO - update
+2024-11-21 00:55:59,509 - INFO - Smallest key: 1732175702495
+2024-11-21 00:55:59,612 - INFO - create
+2024-11-21 00:55:59,704 - INFO - Created item with id de020c96-9083-461d-b633-1fb53a86f9b3 in DynamoDB.
+2024-11-21 00:55:59,929 - INFO - Smallest key: 1732175702637
+2024-11-21 00:56:00,033 - INFO - create
+2024-11-21 00:56:00,123 - INFO - Created item with id cb10371c-f3f6-467a-836d-39bdb318a489 in DynamoDB.
+2024-11-21 00:56:00,327 - INFO - Smallest key: 1732175702772
+2024-11-21 00:56:00,449 - INFO - update
+2024-11-21 00:56:00,856 - INFO - Smallest key: 1732175702902
+2024-11-21 00:56:00,959 - INFO - update
+2024-11-21 00:56:01,345 - INFO - Smallest key: 1732175703054
+2024-11-21 00:56:01,448 - INFO - create
+2024-11-21 00:56:01,539 - INFO - Created item with id ebef0ef3-a08a-460c-b3e5-6ed0bbd27a13 in DynamoDB.
+2024-11-21 00:56:01,742 - INFO - Smallest key: 1732175703180
+2024-11-21 00:56:01,850 - INFO - create
+2024-11-21 00:56:01,941 - INFO - Created item with id 2330cfb9-6c1d-4b7c-929e-c99d8adbc9cf in DynamoDB.
+2024-11-21 00:56:02,147 - INFO - Smallest key: 1732175703308
+2024-11-21 00:56:02,303 - INFO - update
+2024-11-21 00:56:02,689 - INFO - Smallest key: 1732175703432
+2024-11-21 00:56:02,798 - INFO - create
+2024-11-21 00:56:02,895 - INFO - Created item with id 4dee06cf-5c69-420c-8fbc-30468a9944a0 in DynamoDB.
+2024-11-21 00:56:03,098 - INFO - Smallest key: 1732175703570
+2024-11-21 00:56:03,199 - INFO - create
+2024-11-21 00:56:03,290 - INFO - Created item with id feb5e77a-7d4b-425c-9d92-c373e301e6ed in DynamoDB.
+2024-11-21 00:56:03,502 - INFO - Smallest key: 1732175703692
+2024-11-21 00:56:03,610 - INFO - create
+2024-11-21 00:56:03,700 - INFO - Created item with id dd0177a9-4906-40f1-914a-5ff75585078e in DynamoDB.
+2024-11-21 00:56:03,908 - INFO - Smallest key: 1732175703834
+2024-11-21 00:56:04,010 - INFO - update
+2024-11-21 00:56:04,390 - INFO - Smallest key: 1732175703964
+2024-11-21 00:56:04,496 - INFO - create
+2024-11-21 00:56:04,586 - INFO - Created item with id 4b28643f-d57c-46f6-82c4-dbf7acdd870c in DynamoDB.
+2024-11-21 00:56:04,787 - INFO - Smallest key: 1732175704091
+2024-11-21 00:56:04,892 - INFO - create
+2024-11-21 00:56:04,982 - INFO - Created item with id cbb1371c-8e0d-43ee-b77c-93c0a9dc8660 in DynamoDB.
+2024-11-21 00:56:05,183 - INFO - Smallest key: 1732175704215
+2024-11-21 00:56:05,289 - INFO - update
+2024-11-21 00:56:05,670 - INFO - Smallest key: 1732175704345
+2024-11-21 00:56:05,779 - INFO - create
+2024-11-21 00:56:05,868 - INFO - Created item with id 20a8a0f9-e3d5-41ee-acbc-2fc77d4c472f in DynamoDB.
+2024-11-21 00:56:06,537 - INFO - Smallest key: 1732175704471
+2024-11-21 00:56:06,661 - INFO - update
+2024-11-21 00:56:07,032 - INFO - Smallest key: 1732175704622
+2024-11-21 00:56:07,166 - INFO - create
+2024-11-21 00:56:07,256 - INFO - Created item with id a2517889-3686-4cc3-b277-1e48ea4dbbbb in DynamoDB.
+2024-11-21 00:56:07,459 - INFO - Smallest key: 1732175704781
+2024-11-21 00:56:07,558 - INFO - create
+2024-11-21 00:56:07,647 - INFO - Created item with id fa70c696-df47-4c5f-a9fe-ad999fba325e in DynamoDB.
+2024-11-21 00:56:07,845 - INFO - Smallest key: 1732175704948
+2024-11-21 00:56:07,948 - INFO - create
+2024-11-21 00:56:08,035 - INFO - Created item with id 2fdc08cb-15df-4127-b214-6f3b749072c1 in DynamoDB.
+2024-11-21 00:56:08,239 - INFO - Smallest key: 1732175705092
+2024-11-21 00:56:08,349 - INFO - update
+2024-11-21 00:56:08,724 - INFO - Smallest key: 1732175705273
+2024-11-21 00:56:08,835 - INFO - delete
+2024-11-21 00:56:08,923 - INFO - Deleted item with id fa70c696-df47-4c5f-a9fe-ad999fba325e from DynamoDB.
+2024-11-21 00:56:09,122 - INFO - Smallest key: 1732175705397
+2024-11-21 00:56:09,228 - INFO - create
+2024-11-21 00:56:09,316 - INFO - Created item with id c520cfd3-132b-43b2-845c-fe3ba6601458 in DynamoDB.
+2024-11-21 00:56:09,510 - INFO - Smallest key: 1732175705525
+2024-11-21 00:56:09,612 - INFO - create
+2024-11-21 00:56:09,718 - INFO - Created item with id d448b118-8ccf-4008-93da-88d77fe1b0df in DynamoDB.
+2024-11-21 00:56:09,911 - INFO - Smallest key: 1732175705655
+2024-11-21 00:56:10,013 - INFO - create
+2024-11-21 00:56:10,107 - INFO - Created item with id 7f29772a-facf-434f-b238-1da6c09871d0 in DynamoDB.
+2024-11-21 00:56:10,316 - INFO - Smallest key: 1732175705802
+2024-11-21 00:56:10,420 - INFO - create
+2024-11-21 00:56:10,508 - INFO - Created item with id 5912ac59-3b58-470f-aed6-20379fcc5286 in DynamoDB.
+2024-11-21 00:56:10,713 - INFO - Smallest key: 1732175705925
+2024-11-21 00:56:10,817 - INFO - update
+2024-11-21 00:56:11,201 - INFO - Smallest key: 1732175706053
+2024-11-21 00:56:11,301 - INFO - update
+2024-11-21 00:56:11,678 - INFO - Smallest key: 1732175706178
+2024-11-21 00:56:11,780 - INFO - create
+2024-11-21 00:56:11,875 - INFO - Created item with id a823719a-2199-46df-b32d-798b02e6487e in DynamoDB.
+2024-11-21 00:56:12,071 - INFO - Smallest key: 1732175706306
+2024-11-21 00:56:12,168 - INFO - delete
+2024-11-21 00:56:12,258 - INFO - Deleted item with id 7330945f-e960-44e9-8645-94cd7f998c72 from DynamoDB.
+2024-11-21 00:56:12,454 - INFO - Smallest key: 1732175706434
+2024-11-21 00:56:12,554 - INFO - create
+2024-11-21 00:56:12,645 - INFO - Created item with id b2f4e013-2a22-4a40-b05b-fd2d9a611d0b in DynamoDB.
+2024-11-21 00:56:12,846 - INFO - Smallest key: 1732175706574
+2024-11-21 00:56:12,952 - INFO - update
+2024-11-21 00:56:13,365 - INFO - Smallest key: 1732175706723
+2024-11-21 00:56:13,464 - INFO - create
+2024-11-21 00:56:13,554 - INFO - Created item with id b67f019f-cb70-4eba-b1fa-e140979696f4 in DynamoDB.
+2024-11-21 00:56:13,748 - INFO - Smallest key: 1732175706934
+2024-11-21 00:56:13,857 - INFO - create
+2024-11-21 00:56:13,944 - INFO - Created item with id 2d43eea8-d650-46cd-8b33-e523d665115e in DynamoDB.
+2024-11-21 00:56:14,136 - INFO - Smallest key: 1732175707061
+2024-11-21 00:56:14,269 - INFO - create
+2024-11-21 00:56:14,360 - INFO - Created item with id fc06439e-f5a0-43b4-8c4e-526ab44cca1d in DynamoDB.
+2024-11-21 00:56:14,566 - INFO - Smallest key: 1732175707257
+2024-11-21 00:56:14,669 - INFO - create
+2024-11-21 00:56:14,760 - INFO - Created item with id 7af9e96c-f5fa-46ec-8a7d-86c865577718 in DynamoDB.
+2024-11-21 00:56:14,969 - INFO - Smallest key: 1732175707407
+2024-11-21 00:56:15,071 - INFO - create
+2024-11-21 00:56:15,159 - INFO - Created item with id 409090e6-5f6b-49a4-8bd7-a737ea6a75b0 in DynamoDB.
+2024-11-21 00:56:15,358 - INFO - Smallest key: 1732175707577
+2024-11-21 00:56:15,462 - INFO - create
+2024-11-21 00:56:15,550 - INFO - Created item with id 043592ad-8161-4033-bae7-6f5b1350fdce in DynamoDB.
+2024-11-21 00:56:15,755 - INFO - Smallest key: 1732175707705
+2024-11-21 00:56:15,858 - INFO - update
+2024-11-21 00:56:16,234 - INFO - Smallest key: 1732175707831
+2024-11-21 00:56:16,394 - INFO - create
+2024-11-21 00:56:16,483 - INFO - Created item with id 4d9de0f2-3108-4bab-8043-3fdc08ffc21f in DynamoDB.
+2024-11-21 00:56:16,682 - INFO - Smallest key: 1732175707960
+2024-11-21 00:56:16,955 - INFO - update
+2024-11-21 00:56:17,332 - INFO - Smallest key: 1732175708103
+2024-11-21 00:56:17,433 - INFO - delete
+2024-11-21 00:56:17,519 - INFO - Deleted item with id 515f1896-76b0-4ad8-a44e-eee130615b70 from DynamoDB.
+2024-11-21 00:56:17,717 - INFO - Smallest key: 1732175708228
+2024-11-21 00:56:17,822 - INFO - create
+2024-11-21 00:56:17,921 - INFO - Created item with id 4a4eac0f-d620-4ddb-a9b4-32325a8909ac in DynamoDB.
+2024-11-21 00:56:18,123 - INFO - Smallest key: 1732175708394
+2024-11-21 00:56:18,251 - INFO - create
+2024-11-21 00:56:18,341 - INFO - Created item with id 6673621d-115d-4ded-a955-e3b23f319c30 in DynamoDB.
+2024-11-21 00:56:18,766 - INFO - Smallest key: 1732175708576
+2024-11-21 00:56:18,887 - INFO - update
+2024-11-21 00:56:19,261 - INFO - Smallest key: 1732175708757
+2024-11-21 00:56:19,364 - INFO - create
+2024-11-21 00:56:19,454 - INFO - Created item with id 576be1c3-bc98-4273-9ac6-ab137aa9e7ae in DynamoDB.
+2024-11-21 00:56:19,653 - INFO - Smallest key: 1732175708885
+2024-11-21 00:56:19,756 - INFO - create
+2024-11-21 00:56:19,846 - INFO - Created item with id b69a8bf5-01ac-480d-b4f1-1d3a1068c70c in DynamoDB.
+2024-11-21 00:56:20,042 - INFO - Smallest key: 1732175709084
+2024-11-21 00:56:20,144 - INFO - create
+2024-11-21 00:56:20,232 - INFO - Created item with id e13f24d7-2a0f-40e9-882b-42737b3a9f91 in DynamoDB.
+2024-11-21 00:56:20,439 - INFO - Smallest key: 1732175709225
+2024-11-21 00:56:20,543 - INFO - update
+2024-11-21 00:56:21,305 - INFO - Smallest key: 1732175709350
+2024-11-21 00:56:21,410 - INFO - create
+2024-11-21 00:56:21,501 - INFO - Created item with id ca62325b-6b55-4023-ad29-2e5acb42045e in DynamoDB.
+2024-11-21 00:56:21,698 - INFO - Smallest key: 1732175709554
+2024-11-21 00:56:21,798 - INFO - create
+2024-11-21 00:56:21,889 - INFO - Created item with id 3f89127c-d6ad-4630-be28-e2933ed39a23 in DynamoDB.
+2024-11-21 00:56:22,093 - INFO - Smallest key: 1732175709683
+2024-11-21 00:56:22,193 - INFO - create
+2024-11-21 00:56:22,288 - INFO - Created item with id 52ba56fe-1a7b-4c22-905c-284d4adc8518 in DynamoDB.
+2024-11-21 00:57:44,749 - INFO - Processing requests from SQS queue: https://sqs.us-east-1.amazonaws.com/186579595491/cs5250-requests to DynamoDB table: widgets
+2024-11-21 00:57:44,814 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2024-11-21 00:57:45,523 - INFO - create
+2024-11-21 00:57:46,118 - INFO - Created item with id b1eab99f-0820-4670-9112-f4eb47fbae4f in DynamoDB.
+2024-11-21 00:57:46,207 - INFO - create
+2024-11-21 00:57:46,296 - INFO - Created item with id 6bfd23bb-018b-4ca1-b067-86906a5eece2 in DynamoDB.
+2024-11-21 00:57:46,389 - INFO - create
+2024-11-21 00:57:46,482 - INFO - Created item with id 32f43f5f-f275-499e-9b1f-f45f0387d229 in DynamoDB.
+2024-11-21 00:57:46,570 - INFO - update
+2024-11-21 00:57:46,752 - INFO - Created item with id cdef2cdb-8529-43c8-a620-7236fa80ff14 in DynamoDB.
+2024-11-21 00:57:46,842 - INFO - update
+2024-11-21 00:57:47,026 - INFO - Created item with id b862c92f-57f5-4272-a40c-7b44ad16d989 in DynamoDB.
+2024-11-21 00:57:47,114 - INFO - update
+2024-11-21 00:57:47,302 - INFO - Created item with id fed65e71-507a-4a4d-a551-9fdf1512f56f in DynamoDB.
+2024-11-21 00:57:47,389 - INFO - create
+2024-11-21 00:57:47,481 - INFO - Created item with id b5c5a32b-60a3-4c1c-9818-1054e5849b2c in DynamoDB.
+2024-11-21 00:57:47,573 - INFO - update
+2024-11-21 00:57:47,764 - INFO - Created item with id 0f13db55-78aa-4c02-ba45-ecb1a6e0ec5a in DynamoDB.
+2024-11-21 00:57:47,852 - INFO - update
+2024-11-21 00:57:48,032 - INFO - Created item with id 8401ab5e-e927-4fbb-b22e-14f7f660245e in DynamoDB.
+2024-11-21 00:57:48,119 - INFO - create
+2024-11-21 00:57:48,211 - INFO - Created item with id 806679ac-a187-4543-9116-3af514484627 in DynamoDB.
+2024-11-21 00:57:48,474 - INFO - create
+2024-11-21 00:57:48,563 - INFO - Created item with id b89817b1-3e37-4b02-8a91-853a7f407489 in DynamoDB.
+2024-11-21 00:57:48,654 - INFO - create
+2024-11-21 00:57:48,743 - INFO - Created item with id b73f48e4-3625-4b4f-afad-609ecc575f4c in DynamoDB.
+2024-11-21 00:57:48,831 - INFO - create
+2024-11-21 00:57:48,922 - INFO - Created item with id 9eff4060-1363-4c3a-95b1-2f255246daa2 in DynamoDB.
+2024-11-21 00:57:49,012 - INFO - create
+2024-11-21 00:57:49,103 - INFO - Created item with id 5e13486e-7d37-44d7-85de-c731354bd50e in DynamoDB.
+2024-11-21 00:57:49,193 - INFO - create
+2024-11-21 00:57:49,282 - INFO - Created item with id 29503ffd-c145-462a-9085-93809abd4b29 in DynamoDB.
+2024-11-21 00:57:49,371 - INFO - update
+2024-11-21 00:57:49,557 - INFO - Created item with id e1b4f4db-0fb3-4e3e-b35c-ff69761de546 in DynamoDB.
+2024-11-21 00:57:49,646 - INFO - create
+2024-11-21 00:57:49,739 - INFO - Created item with id fdd47e84-dae1-4b4c-bf68-2879df4720ce in DynamoDB.
+2024-11-21 00:57:49,828 - INFO - create
+2024-11-21 00:57:49,920 - INFO - Created item with id e2c0caf2-3faf-4b1c-90b8-d5ec09f113c0 in DynamoDB.
+2024-11-21 00:57:50,009 - INFO - update
+2024-11-21 00:57:50,188 - INFO - Created item with id 1ff4e665-2eb0-4140-9ea4-1337ebc1930e in DynamoDB.
+2024-11-21 00:57:50,277 - INFO - update
+2024-11-21 00:57:50,662 - INFO - update
+2024-11-21 00:57:50,840 - INFO - Created item with id 743b9e85-97e7-4aeb-9c9e-af7c7544501c in DynamoDB.
+2024-11-21 00:57:50,927 - INFO - update
+2024-11-21 00:57:51,104 - INFO - Created item with id f6d939b3-04f1-4765-bd7b-bb2c35780ad7 in DynamoDB.
+2024-11-21 00:57:51,194 - INFO - create
+2024-11-21 00:57:51,286 - INFO - Created item with id b00d53ed-fb15-4dcd-b3bf-8263dd88c4d5 in DynamoDB.
+2024-11-21 00:57:51,374 - INFO - create
+2024-11-21 00:57:51,515 - INFO - Created item with id ca3af96f-427c-4d37-91cd-c85208d47062 in DynamoDB.
+2024-11-21 00:57:51,603 - INFO - create
+2024-11-21 00:57:51,695 - INFO - Created item with id e5a939ee-377c-4388-a2ef-6c1e6c673fe9 in DynamoDB.
+2024-11-21 00:57:51,786 - INFO - create
+2024-11-21 00:57:51,892 - INFO - Created item with id 6b16eb5b-246c-47dc-8aab-3e0e7b4bdba2 in DynamoDB.
+2024-11-21 00:57:51,981 - INFO - create
+2024-11-21 00:57:52,072 - INFO - Created item with id a4396786-45c9-4099-b434-54371dbdb958 in DynamoDB.
+2024-11-21 00:57:52,160 - INFO - create
+2024-11-21 00:57:52,251 - INFO - Created item with id 2b91c646-164a-4a3d-a746-af500768a7b0 in DynamoDB.
+2024-11-21 00:57:52,340 - INFO - create
+2024-11-21 00:57:52,434 - INFO - Created item with id 51d58d7a-6099-49a7-9586-f38ec6ef4ac7 in DynamoDB.
+2024-11-21 00:57:52,525 - INFO - delete
+2024-11-21 00:57:52,615 - WARNING - No item with id bf6923fc-dd6a-4caf-a91b-affa35aa5839 was found in DynamoDB.
+2024-11-21 00:57:52,799 - INFO - create
+2024-11-21 00:57:52,889 - INFO - Created item with id f472c467-fa41-4f4e-a17b-aaf507624a23 in DynamoDB.
+2024-11-21 00:57:52,977 - INFO - create
+2024-11-21 00:57:53,070 - INFO - Created item with id 0b580818-96c8-497a-9703-6723de0dc393 in DynamoDB.
+2024-11-21 00:57:53,161 - INFO - create
+2024-11-21 00:57:53,254 - INFO - Created item with id 7c8c4bf3-584f-4d74-8623-0bd786d4cf3d in DynamoDB.
+2024-11-21 00:57:53,344 - INFO - create
+2024-11-21 00:57:53,438 - INFO - Created item with id cdef2cdb-8529-43c8-a620-7236fa80ff14 in DynamoDB.
+2024-11-21 00:57:53,528 - INFO - create
+2024-11-21 00:57:53,620 - INFO - Created item with id 211702d2-fcbd-4376-9af0-fcef415097ad in DynamoDB.
+2024-11-21 00:57:53,708 - INFO - create
+2024-11-21 00:57:53,798 - INFO - Created item with id 1c4be7d9-c08c-4c8f-9ffe-93ddc7319b90 in DynamoDB.
+2024-11-21 00:57:53,890 - INFO - create
+2024-11-21 00:57:53,992 - INFO - Created item with id 8401ab5e-e927-4fbb-b22e-14f7f660245e in DynamoDB.
+2024-11-21 00:57:54,087 - INFO - create
+2024-11-21 00:57:54,179 - INFO - Created item with id e1b4f4db-0fb3-4e3e-b35c-ff69761de546 in DynamoDB.
+2024-11-21 00:57:54,268 - INFO - create
+2024-11-21 00:57:54,360 - INFO - Created item with id 5332127b-415d-43cb-8e11-f8fbe55aaa9a in DynamoDB.
+2024-11-21 00:57:54,447 - INFO - create
+2024-11-21 00:57:54,540 - INFO - Created item with id b862c92f-57f5-4272-a40c-7b44ad16d989 in DynamoDB.
+2024-11-21 00:57:54,721 - INFO - create
+2024-11-21 00:57:54,816 - INFO - Created item with id f77ccaf4-8a34-467a-a5ad-9645ce2ee483 in DynamoDB.
+2024-11-21 00:57:54,903 - INFO - create
+2024-11-21 00:57:54,994 - INFO - Created item with id ca7116a2-941f-43ac-a009-bbad7aac19c5 in DynamoDB.
+2024-11-21 00:57:55,101 - INFO - create
+2024-11-21 00:57:55,203 - INFO - Created item with id ce4081d0-34e0-46ff-9187-8e243ebdabae in DynamoDB.
+2024-11-21 00:57:55,291 - INFO - create
+2024-11-21 00:57:55,388 - INFO - Created item with id 1d840629-adc1-4cbe-9fa5-50a1beab39d2 in DynamoDB.
+2024-11-21 00:57:55,477 - INFO - create
+2024-11-21 00:57:55,582 - INFO - Created item with id efaaec4d-26cb-4a83-9b90-0c234df0506b in DynamoDB.
+2024-11-21 00:57:55,671 - INFO - create
+2024-11-21 00:57:55,760 - INFO - Created item with id f90ef208-1850-4712-a0ec-06d56ca56fa9 in DynamoDB.
+2024-11-21 00:57:55,850 - INFO - create
+2024-11-21 00:57:55,942 - INFO - Created item with id dd68c495-b136-4890-a433-8f33fad7ad5a in DynamoDB.
+2024-11-21 00:57:56,036 - INFO - create
+2024-11-21 00:57:56,126 - INFO - Created item with id fed65e71-507a-4a4d-a551-9fdf1512f56f in DynamoDB.
+2024-11-21 00:57:56,216 - INFO - create
+2024-11-21 00:57:56,307 - INFO - Created item with id c6a716dd-7321-4a3c-80d3-f28274da1524 in DynamoDB.
+2024-11-21 00:57:56,396 - INFO - update
+2024-11-21 00:57:56,762 - INFO - create
+2024-11-21 00:57:56,857 - INFO - Created item with id 7eb11efe-5680-40ff-9cd1-f482d3a4b488 in DynamoDB.
+2024-11-21 00:57:56,945 - INFO - create
+2024-11-21 00:57:57,035 - INFO - Created item with id 320fa59c-4f64-44e9-88fc-67b8e289b6b8 in DynamoDB.
+2024-11-21 00:57:57,123 - INFO - create
+2024-11-21 00:57:57,216 - INFO - Created item with id 607b95d3-5e29-4faf-a676-d408da14c5b2 in DynamoDB.
+2024-11-21 00:57:57,339 - INFO - delete
+2024-11-21 00:57:57,429 - INFO - Deleted item with id 7c8c4bf3-584f-4d74-8623-0bd786d4cf3d from DynamoDB.
+2024-11-21 00:57:57,519 - INFO - create
+2024-11-21 00:57:57,611 - INFO - Created item with id e746a4f1-f712-4ae0-854a-532dc64af76f in DynamoDB.
+2024-11-21 00:57:57,699 - INFO - update
+2024-11-21 00:57:57,878 - INFO - Created item with id 5382bbf5-31c1-43c8-8cd7-2823fcca24f0 in DynamoDB.
+2024-11-21 00:57:57,969 - INFO - create
+2024-11-21 00:57:58,059 - INFO - Created item with id 4f3947a2-8187-4ded-82a7-b1944d2038aa in DynamoDB.
+2024-11-21 00:57:58,147 - INFO - create
+2024-11-21 00:57:58,237 - INFO - Created item with id 6ab57fb7-5583-4b43-b7a4-69aafc781ac1 in DynamoDB.
+2024-11-21 00:57:58,330 - INFO - create
+2024-11-21 00:57:58,423 - INFO - Created item with id 49728cf8-c911-45c5-a0b4-5a70cb7b5d3a in DynamoDB.
+2024-11-21 00:57:58,515 - INFO - create
+2024-11-21 00:57:58,609 - INFO - Created item with id 90c25620-0ecf-4dd0-8710-3fd0237a6ec7 in DynamoDB.
+2024-11-21 00:57:58,792 - INFO - create
+2024-11-21 00:57:58,886 - INFO - Created item with id 6fc4e16d-cbc7-4a59-9589-df9fa8d144fb in DynamoDB.
+2024-11-21 00:57:58,974 - INFO - create
+2024-11-21 00:57:59,075 - INFO - Created item with id 7a057e2e-8d0b-4eee-8693-d2c209d7301a in DynamoDB.
+2024-11-21 00:57:59,165 - INFO - create
+2024-11-21 00:57:59,254 - INFO - Created item with id 5a21ffa4-9519-498e-8bc1-19b65eccbab7 in DynamoDB.
+2024-11-21 00:57:59,342 - INFO - create
+2024-11-21 00:57:59,432 - INFO - Created item with id e049fc02-9dca-4dac-93aa-20561c02d56f in DynamoDB.
+2024-11-21 00:57:59,520 - INFO - create
+2024-11-21 00:57:59,612 - INFO - Created item with id 158c63e3-44df-4614-9de3-37edbe6bb0fa in DynamoDB.
+2024-11-21 00:57:59,701 - INFO - create
+2024-11-21 00:57:59,798 - INFO - Created item with id 249e13f2-2520-401b-8893-b824b0f5ce71 in DynamoDB.
+2024-11-21 00:57:59,890 - INFO - create
+2024-11-21 00:57:59,983 - INFO - Created item with id fa77a6a7-ce93-469b-958e-16b0eb6b0082 in DynamoDB.
+2024-11-21 00:58:00,073 - INFO - create
+2024-11-21 00:58:00,164 - INFO - Created item with id 1ff4e665-2eb0-4140-9ea4-1337ebc1930e in DynamoDB.
+2024-11-21 00:58:00,256 - INFO - create
+2024-11-21 00:58:00,347 - INFO - Created item with id 5382bbf5-31c1-43c8-8cd7-2823fcca24f0 in DynamoDB.
+2024-11-21 00:58:00,436 - INFO - delete
+2024-11-21 00:58:00,526 - INFO - Deleted item with id b89817b1-3e37-4b02-8a91-853a7f407489 from DynamoDB.
+2024-11-21 00:58:00,708 - INFO - create
+2024-11-21 00:58:00,798 - INFO - Created item with id b30456ff-d28d-4e9b-902e-ec41b4928412 in DynamoDB.
+2024-11-21 00:58:00,886 - INFO - create
+2024-11-21 00:58:00,981 - INFO - Created item with id 0f13db55-78aa-4c02-ba45-ecb1a6e0ec5a in DynamoDB.
+2024-11-21 00:58:01,069 - INFO - create
+2024-11-21 00:58:01,161 - INFO - Created item with id 282878c6-eff9-4ea1-898e-06acde116e2b in DynamoDB.
+2024-11-21 00:58:01,755 - INFO - create
+2024-11-21 00:58:01,847 - INFO - Created item with id 743b9e85-97e7-4aeb-9c9e-af7c7544501c in DynamoDB.
+2024-11-21 00:58:01,937 - INFO - create
+2024-11-21 00:58:02,028 - INFO - Created item with id 1dbf03a4-8b0b-4cc3-969a-df00a3f8edeb in DynamoDB.
+2024-11-21 00:58:02,118 - INFO - create
+2024-11-21 00:58:02,207 - INFO - Created item with id 2119da62-b258-463e-abf7-0d86b6780f4f in DynamoDB.
+2024-11-21 00:58:02,372 - INFO - update
+2024-11-21 00:58:02,637 - INFO - create
+2024-11-21 00:58:02,728 - INFO - Created item with id fb458e31-70ff-4b13-837e-28767d0c6f14 in DynamoDB.
+2024-11-21 00:58:02,817 - INFO - create
+2024-11-21 00:58:02,906 - INFO - Created item with id a4965251-7265-43f1-a734-b111143153be in DynamoDB.
+2024-11-21 00:58:02,994 - INFO - create
+2024-11-21 00:58:03,088 - INFO - Created item with id 1234cbfe-bba5-44ee-9a43-a0614fc10925 in DynamoDB.
+2024-11-21 00:58:03,272 - INFO - update
+2024-11-21 00:58:03,456 - INFO - Created item with id 59a6a569-6919-4363-8ed5-c25409482665 in DynamoDB.
+2024-11-21 00:58:03,545 - INFO - create
+2024-11-21 00:58:03,637 - INFO - Created item with id 30288531-748e-40fd-b2b5-ce4399da11e5 in DynamoDB.
+2024-11-21 00:58:03,726 - INFO - create
+2024-11-21 00:58:03,815 - INFO - Created item with id 04b7c6e1-e06e-4ab9-a8a9-8cb3fa7a0fcc in DynamoDB.
+2024-11-21 00:58:03,905 - INFO - update
+2024-11-21 00:58:04,179 - INFO - create
+2024-11-21 00:58:04,271 - INFO - Created item with id 480373dd-b79f-467f-8f84-f273b3d3e6b5 in DynamoDB.
+2024-11-21 00:58:04,360 - INFO - create
+2024-11-21 00:58:04,451 - INFO - Created item with id b2cc85f1-fcfc-4c04-8e9b-91bf161a7436 in DynamoDB.
+2024-11-21 00:58:04,542 - INFO - create
+2024-11-21 00:58:04,633 - INFO - Created item with id 17834f40-8e3d-4942-808b-e2c46b327b1a in DynamoDB.
+2024-11-21 00:58:04,724 - INFO - delete
+2024-11-21 00:58:04,814 - INFO - Deleted item with id dd68c495-b136-4890-a433-8f33fad7ad5a from DynamoDB.
+2024-11-21 00:58:04,904 - INFO - update
+2024-11-21 00:58:05,176 - INFO - create
+2024-11-21 00:58:05,278 - INFO - Created item with id 0c01d230-e061-424c-94ff-79327cc185e2 in DynamoDB.
+2024-11-21 00:58:05,458 - INFO - update
+2024-11-21 00:58:05,732 - INFO - update
+2024-11-21 00:58:05,909 - INFO - Created item with id 765dbce3-78ed-4bcf-86b0-219e4cc76dd0 in DynamoDB.
+2024-11-21 00:58:05,999 - INFO - update
+2024-11-21 00:58:06,186 - INFO - Created item with id 12c9a506-872d-45e8-b55d-a0359d5d2d38 in DynamoDB.
+2024-11-21 00:58:06,283 - INFO - create
+2024-11-21 00:58:06,373 - INFO - Created item with id e3254586-feb8-4808-b7dc-3a7cf396da26 in DynamoDB.
+2024-11-21 00:58:06,473 - INFO - update
+2024-11-21 00:58:06,659 - INFO - Created item with id aecfef8b-c21e-4fc7-9d63-35dcca529461 in DynamoDB.
+2024-11-21 00:58:06,749 - INFO - create
+2024-11-21 00:58:06,841 - INFO - Created item with id fe2ba4f0-719f-4211-8252-7445bc5ba4cd in DynamoDB.
+2024-11-21 00:58:06,933 - INFO - create
+2024-11-21 00:58:07,025 - INFO - Created item with id 58b57a23-84f4-42c1-b9cc-95457a60a128 in DynamoDB.
+2024-11-21 00:58:07,117 - INFO - create
+2024-11-21 00:58:07,211 - INFO - Created item with id 5a02eb60-aceb-40f7-b151-3aff0e18ab67 in DynamoDB.
+2024-11-21 00:58:07,302 - INFO - create
+2024-11-21 00:58:07,392 - INFO - Created item with id ff705370-1910-49d8-9fab-3041589f7db9 in DynamoDB.
+2024-11-21 00:58:07,480 - INFO - update
+2024-11-21 00:58:07,667 - INFO - Created item with id f3116552-9e91-46c0-a641-fe533c431048 in DynamoDB.
+2024-11-21 00:58:07,848 - INFO - create
+2024-11-21 00:58:07,942 - INFO - Created item with id eb9a275e-67b9-4b80-8deb-c4997666db2f in DynamoDB.
+2024-11-21 00:58:08,036 - INFO - create
+2024-11-21 00:58:08,129 - INFO - Created item with id f6d939b3-04f1-4765-bd7b-bb2c35780ad7 in DynamoDB.
+2024-11-21 00:58:08,217 - INFO - create
+2024-11-21 00:58:08,310 - INFO - Created item with id a5194b7c-4191-434b-9552-06ab624f2b5d in DynamoDB.
+2024-11-21 00:58:08,398 - INFO - update
+2024-11-21 00:58:08,671 - INFO - update
+2024-11-21 00:58:08,940 - INFO - create
+2024-11-21 00:58:09,033 - INFO - Created item with id c959b7ca-1bba-49e4-8910-589e6095a725 in DynamoDB.
+2024-11-21 00:58:09,127 - INFO - create
+2024-11-21 00:58:09,217 - INFO - Created item with id f3116552-9e91-46c0-a641-fe533c431048 in DynamoDB.
+2024-11-21 00:58:09,307 - INFO - delete
+2024-11-21 00:58:09,400 - INFO - Deleted item with id 1234cbfe-bba5-44ee-9a43-a0614fc10925 from DynamoDB.
+2024-11-21 00:58:09,489 - INFO - create
+2024-11-21 00:58:09,579 - INFO - Created item with id 0634ef53-0567-461e-b138-2261e880cef2 in DynamoDB.
+2024-11-21 00:58:09,667 - INFO - create
+2024-11-21 00:58:09,760 - INFO - Created item with id 1373ac77-b19c-4d6b-ab4a-f4b4923fbf39 in DynamoDB.
+2024-11-21 00:58:09,940 - INFO - update
+2024-11-21 00:58:10,210 - INFO - create
+2024-11-21 00:58:10,309 - INFO - Created item with id dca1b94b-8465-49dc-a383-7604fdd4ac05 in DynamoDB.
+2024-11-21 00:58:10,397 - INFO - create
+2024-11-21 00:58:10,488 - INFO - Created item with id 44423b83-163d-4a2c-af79-1002061088c5 in DynamoDB.
+2024-11-21 00:58:10,578 - INFO - update
+2024-11-21 00:58:10,761 - INFO - Created item with id 4270c737-790e-4cd9-81e9-cc4de5d47a38 in DynamoDB.
+2024-11-21 00:58:10,854 - INFO - create
+2024-11-21 00:58:10,946 - INFO - Created item with id fe7ddd90-475a-4190-b1d7-16a8d746a92d in DynamoDB.
+2024-11-21 00:58:11,035 - INFO - create
+2024-11-21 00:58:11,129 - INFO - Created item with id 57e69cb0-9656-4845-809b-ef2995bdfa8c in DynamoDB.
+2024-11-21 00:58:11,219 - INFO - create
+2024-11-21 00:58:11,322 - INFO - Created item with id 4e87b07a-ceec-4285-932d-9b5165a95119 in DynamoDB.
+2024-11-21 00:58:11,411 - INFO - create
+2024-11-21 00:58:11,503 - INFO - Created item with id ca07a041-06e0-4b0e-a017-47849db48728 in DynamoDB.
+2024-11-21 00:58:11,592 - INFO - create
+2024-11-21 00:58:11,686 - INFO - Created item with id 7f6d9641-e9c0-4340-adc3-9bc6e3cc1b82 in DynamoDB.
+2024-11-21 00:58:11,775 - INFO - update
+2024-11-21 00:58:12,163 - INFO - update
+2024-11-21 00:58:12,535 - INFO - delete
+2024-11-21 00:58:12,629 - INFO - Deleted item with id e049fc02-9dca-4dac-93aa-20561c02d56f from DynamoDB.
+2024-11-21 00:58:12,724 - INFO - create
+2024-11-21 00:58:12,815 - INFO - Created item with id ba59bf67-586f-4264-88ec-2db802bcacbc in DynamoDB.
+2024-11-21 00:58:12,903 - INFO - delete
+2024-11-21 00:58:12,994 - INFO - Deleted item with id ca3af96f-427c-4d37-91cd-c85208d47062 from DynamoDB.
+2024-11-21 00:58:13,081 - INFO - create
+2024-11-21 00:58:13,172 - INFO - Created item with id 7bd7883e-a643-4eef-8334-08b8cf314d75 in DynamoDB.
+2024-11-21 00:58:13,260 - INFO - update
+2024-11-21 00:58:13,527 - INFO - create
+2024-11-21 00:58:13,623 - INFO - Created item with id 59a6a569-6919-4363-8ed5-c25409482665 in DynamoDB.
+2024-11-21 00:58:13,711 - INFO - create
+2024-11-21 00:58:13,800 - INFO - Created item with id d38958c7-551c-4a67-adb9-61271b7d5217 in DynamoDB.
+2024-11-21 00:58:13,888 - INFO - create
+2024-11-21 00:58:13,979 - INFO - Created item with id 37397902-891d-4824-aa10-8ec81eb8edb7 in DynamoDB.
+2024-11-21 00:58:14,067 - INFO - create
+2024-11-21 00:58:14,161 - INFO - Created item with id a9767da0-e582-417f-954a-1fc078cd82ac in DynamoDB.
+2024-11-21 00:58:14,249 - INFO - create
+2024-11-21 00:58:14,339 - INFO - Created item with id 65e23fae-db9b-4fd1-83a2-3fa9e0ef8dcb in DynamoDB.
+2024-11-21 00:58:14,519 - INFO - create
+2024-11-21 00:58:14,609 - INFO - Created item with id 692e0858-9e0b-4d60-9c75-bc7837825187 in DynamoDB.
+2024-11-21 00:58:14,702 - INFO - update
+2024-11-21 00:58:14,976 - INFO - create
+2024-11-21 00:58:15,066 - INFO - Created item with id b1ed77a1-dda0-4313-8ead-eab9e2c9400b in DynamoDB.
+2024-11-21 00:58:15,154 - INFO - update
+2024-11-21 00:58:15,423 - INFO - create
+2024-11-21 00:58:15,516 - INFO - Created item with id 12c9a506-872d-45e8-b55d-a0359d5d2d38 in DynamoDB.
+2024-11-21 00:58:15,605 - INFO - create
+2024-11-21 00:58:15,695 - INFO - Created item with id 85fcbd3b-b3df-4315-a053-f74df86b8648 in DynamoDB.
+2024-11-21 00:58:15,783 - INFO - update
+2024-11-21 00:58:16,055 - INFO - delete
+2024-11-21 00:58:16,146 - WARNING - No item with id a22d1023-3bee-43c4-9423-1f24a914388a was found in DynamoDB.
+2024-11-21 00:58:16,234 - INFO - update
+2024-11-21 00:58:16,417 - INFO - Created item with id a3c92363-fc39-4e45-8a04-78975a541e8c in DynamoDB.
+2024-11-21 00:58:16,507 - INFO - update
+2024-11-21 00:58:16,874 - INFO - update
+2024-11-21 00:58:17,143 - INFO - create
+2024-11-21 00:58:17,232 - INFO - Created item with id 6be1caf1-76bf-4baf-b26a-4489aa28b157 in DynamoDB.
+2024-11-21 00:58:17,320 - INFO - update
+2024-11-21 00:58:17,505 - INFO - Created item with id d7e156af-7e8a-460e-82a1-802ccc07c890 in DynamoDB.
+2024-11-21 00:58:17,605 - INFO - update
+2024-11-21 00:58:18,480 - INFO - update
+2024-11-21 00:58:18,670 - INFO - Created item with id 93f0c0a5-1bdc-4349-9f7e-87166418cb35 in DynamoDB.
+2024-11-21 00:58:18,761 - INFO - create
+2024-11-21 00:58:18,857 - INFO - Created item with id 60c45624-2846-4d69-85f7-42c288158f0b in DynamoDB.
+2024-11-21 00:58:18,947 - INFO - create
+2024-11-21 00:58:19,038 - INFO - Created item with id 4a9c001a-2331-421e-8e9c-84f03fab172b in DynamoDB.
+2024-11-21 00:58:19,124 - INFO - create
+2024-11-21 00:58:19,219 - INFO - Created item with id 1faf9ceb-ac51-461c-9656-0f4fb8edeba4 in DynamoDB.
+2024-11-21 00:58:19,313 - INFO - create
+2024-11-21 00:58:19,411 - INFO - Created item with id a95b8fc2-d2cb-4cfb-9025-c86e5aaeb491 in DynamoDB.
+2024-11-21 00:58:19,497 - INFO - create
+2024-11-21 00:58:19,588 - INFO - Created item with id f2bb6864-6001-4730-8623-b1e284a31e69 in DynamoDB.
+2024-11-21 00:58:19,844 - INFO - create
+2024-11-21 00:58:19,936 - INFO - Created item with id 7943ebef-d077-49cb-b7ab-027b4687cf6b in DynamoDB.
+2024-11-21 00:58:20,022 - INFO - update
+2024-11-21 00:58:20,296 - INFO - update
+2024-11-21 00:58:20,565 - INFO - delete
+2024-11-21 00:58:20,655 - INFO - Deleted item with id 607b95d3-5e29-4faf-a676-d408da14c5b2 from DynamoDB.
+2024-11-21 00:58:20,766 - INFO - create
+2024-11-21 00:58:20,858 - INFO - Created item with id 87683ddb-5276-44e0-b33f-2899abc762a5 in DynamoDB.
+2024-11-21 00:58:20,945 - INFO - create
+2024-11-21 00:58:21,040 - INFO - Created item with id 79699e73-3caf-4d55-a2ac-0e9b56663a2b in DynamoDB.
+2024-11-21 00:58:21,126 - INFO - update
+2024-11-21 00:58:21,399 - INFO - update
+2024-11-21 00:58:21,673 - INFO - create
+2024-11-21 00:58:21,762 - INFO - Created item with id 93f0c0a5-1bdc-4349-9f7e-87166418cb35 in DynamoDB.
+2024-11-21 00:58:21,850 - INFO - create
+2024-11-21 00:58:21,942 - INFO - Created item with id a3c92363-fc39-4e45-8a04-78975a541e8c in DynamoDB.
+2024-11-21 00:58:22,119 - INFO - delete
+2024-11-21 00:58:22,211 - INFO - Deleted item with id 282878c6-eff9-4ea1-898e-06acde116e2b from DynamoDB.
+2024-11-21 00:58:22,298 - INFO - create
+2024-11-21 00:58:22,387 - INFO - Created item with id 0b192524-b08d-4930-948b-ca4c94b08829 in DynamoDB.
+2024-11-21 00:58:22,476 - INFO - create
+2024-11-21 00:58:22,567 - INFO - Created item with id 765dbce3-78ed-4bcf-86b0-219e4cc76dd0 in DynamoDB.
+2024-11-21 00:58:22,653 - INFO - update
+2024-11-21 00:58:22,921 - INFO - create
+2024-11-21 00:58:23,012 - INFO - Created item with id c035d9e3-288b-47db-8f2c-0895a1f74c9b in DynamoDB.
+2024-11-21 00:58:23,099 - INFO - delete
+2024-11-21 00:58:23,190 - INFO - Deleted item with id 5a21ffa4-9519-498e-8bc1-19b65eccbab7 from DynamoDB.
+2024-11-21 00:58:23,277 - INFO - create
+2024-11-21 00:58:23,366 - INFO - Created item with id bf6923fc-dd6a-4caf-a91b-affa35aa5839 in DynamoDB.
+2024-11-21 00:58:23,454 - INFO - create
+2024-11-21 00:58:23,546 - INFO - Created item with id a22d1023-3bee-43c4-9423-1f24a914388a in DynamoDB.
+2024-11-21 00:58:23,632 - INFO - update
+2024-11-21 00:58:23,899 - INFO - create
+2024-11-21 00:58:23,994 - INFO - Created item with id 392b5d3e-b750-4e7d-a751-a99cca81b92e in DynamoDB.
+2024-11-21 00:58:24,181 - INFO - create
+2024-11-21 00:58:24,272 - INFO - Created item with id eac60198-ea86-4f21-a7fa-822c0ad85d80 in DynamoDB.
+2024-11-21 00:58:24,359 - INFO - update
+2024-11-21 00:58:24,626 - INFO - create
+2024-11-21 00:58:24,716 - INFO - Created item with id 15ad24a1-7831-4723-ada0-6b38d21fcf9c in DynamoDB.
+2024-11-21 00:58:24,804 - INFO - delete
+2024-11-21 00:58:24,897 - INFO - Deleted item with id 6fc4e16d-cbc7-4a59-9589-df9fa8d144fb from DynamoDB.
+2024-11-21 00:58:24,992 - INFO - create
+2024-11-21 00:58:25,083 - INFO - Created item with id 805d1900-a0eb-4728-9459-efdd39861bab in DynamoDB.
+2024-11-21 00:58:25,169 - INFO - create
+2024-11-21 00:58:25,259 - INFO - Created item with id 28b78ee0-0c0a-4626-b6cc-1654cbceea70 in DynamoDB.
+2024-11-21 00:58:25,347 - INFO - create
+2024-11-21 00:58:25,438 - INFO - Created item with id 4270c737-790e-4cd9-81e9-cc4de5d47a38 in DynamoDB.
+2024-11-21 00:58:25,525 - INFO - update
+2024-11-21 00:58:25,790 - INFO - delete
+2024-11-21 00:58:25,880 - INFO - Deleted item with id f472c467-fa41-4f4e-a17b-aaf507624a23 from DynamoDB.
+2024-11-21 00:58:25,967 - INFO - update
+2024-11-21 00:58:26,323 - INFO - create
+2024-11-21 00:58:26,413 - INFO - Created item with id 922379b3-99fd-4c67-abbc-63ab7dadae0b in DynamoDB.
+2024-11-21 00:58:26,498 - INFO - create
+2024-11-21 00:58:26,591 - INFO - Created item with id c7e1b7f4-c48d-462a-9120-7a834b5268de in DynamoDB.
+2024-11-21 00:58:26,679 - INFO - create
+2024-11-21 00:58:26,769 - INFO - Created item with id fd034d15-39a4-4d63-8ff5-91994fc3be67 in DynamoDB.
+2024-11-21 00:58:26,856 - INFO - create
+2024-11-21 00:58:26,946 - INFO - Created item with id edb835d5-bc6b-4390-9ea3-c95a78067fe3 in DynamoDB.
+2024-11-21 00:58:27,032 - INFO - update
+2024-11-21 00:58:27,303 - INFO - update
+2024-11-21 00:58:27,640 - INFO - update
+2024-11-21 00:58:27,907 - INFO - delete
+2024-11-21 00:58:27,998 - INFO - Deleted item with id a5194b7c-4191-434b-9552-06ab624f2b5d from DynamoDB.
+2024-11-21 00:58:28,088 - INFO - update
+2024-11-21 00:58:28,270 - INFO - Created item with id 050623ba-4f10-41e1-8c49-539e380bbb6c in DynamoDB.
+2024-11-21 00:58:28,357 - INFO - update
+2024-11-21 00:58:28,713 - INFO - create
+2024-11-21 00:58:28,806 - INFO - Created item with id e3220dbd-8221-4dc3-afc8-bf4639830835 in DynamoDB.
+2024-11-21 00:58:28,899 - INFO - create
+2024-11-21 00:58:28,992 - INFO - Created item with id c9575bbe-76ec-4b7b-8272-6aed0a4df842 in DynamoDB.
+2024-11-21 00:58:29,083 - INFO - create
+2024-11-21 00:58:29,173 - INFO - Created item with id b0aa4102-6f86-494a-8a26-46351279c4d3 in DynamoDB.
+2024-11-21 00:58:29,260 - INFO - create
+2024-11-21 00:58:29,350 - INFO - Created item with id abf1b6a3-23ef-47c6-9f74-ec50ab6f9314 in DynamoDB.
+2024-11-21 00:58:29,440 - INFO - delete
+2024-11-21 00:58:29,531 - INFO - Deleted item with id 79699e73-3caf-4d55-a2ac-0e9b56663a2b from DynamoDB.
+2024-11-21 00:58:29,621 - INFO - create
+2024-11-21 00:58:29,712 - INFO - Created item with id 4af56f3d-7b6d-43c3-8fca-c623a5309f61 in DynamoDB.
+2024-11-21 00:58:29,800 - INFO - update
+2024-11-21 00:58:30,075 - INFO - create
+2024-11-21 00:58:30,164 - INFO - Created item with id 43c7d249-e4a9-48b1-8acf-e3779bd31dc7 in DynamoDB.
+2024-11-21 00:58:30,252 - INFO - create
+2024-11-21 00:58:30,342 - INFO - Created item with id 4c2b908c-3ffc-468b-9cb4-afbf4b091378 in DynamoDB.
+2024-11-21 00:58:30,430 - INFO - create
+2024-11-21 00:58:30,520 - INFO - Created item with id ee75f993-86cc-45dd-bd19-0a89a4b1e661 in DynamoDB.
+2024-11-21 00:58:30,727 - INFO - create
+2024-11-21 00:58:30,817 - INFO - Created item with id 89a24ef3-8360-471a-8a36-222f0edaae84 in DynamoDB.
+2024-11-21 00:58:30,904 - INFO - create
+2024-11-21 00:58:30,999 - INFO - Created item with id 8c2ebe7a-6102-49bb-80b1-1d830d91c0f7 in DynamoDB.
+2024-11-21 00:58:31,087 - INFO - update
+2024-11-21 00:58:31,351 - INFO - delete
+2024-11-21 00:58:31,439 - INFO - Deleted item with id 0634ef53-0567-461e-b138-2261e880cef2 from DynamoDB.
+2024-11-21 00:58:31,526 - INFO - update
+2024-11-21 00:58:31,795 - INFO - update
+2024-11-21 00:58:32,167 - INFO - update
+2024-11-21 00:58:32,431 - INFO - create
+2024-11-21 00:58:32,520 - INFO - Created item with id 8407f03a-934d-4f22-b379-c3dd88474659 in DynamoDB.
+2024-11-21 00:58:32,610 - INFO - create
+2024-11-21 00:58:32,703 - INFO - Created item with id aecfef8b-c21e-4fc7-9d63-35dcca529461 in DynamoDB.
+2024-11-21 00:58:32,790 - INFO - update
+2024-11-21 00:58:33,058 - INFO - update
+2024-11-21 00:58:33,326 - INFO - update
+2024-11-21 00:58:33,511 - INFO - Created item with id 607b95d3-5e29-4faf-a676-d408da14c5b2 in DynamoDB.
+2024-11-21 00:58:33,599 - INFO - delete
+2024-11-21 00:58:33,691 - INFO - Deleted item with id fb458e31-70ff-4b13-837e-28767d0c6f14 from DynamoDB.
+2024-11-21 00:58:33,779 - INFO - create
+2024-11-21 00:58:33,873 - INFO - Created item with id 050623ba-4f10-41e1-8c49-539e380bbb6c in DynamoDB.
+2024-11-21 00:58:33,959 - INFO - update
+2024-11-21 00:58:34,225 - INFO - create
+2024-11-21 00:58:34,318 - INFO - Created item with id d7e156af-7e8a-460e-82a1-802ccc07c890 in DynamoDB.
+2024-11-21 00:58:35,012 - INFO - create
+2024-11-21 00:58:35,102 - INFO - Created item with id 6faa3670-96b0-4ef7-a87d-0ee0ad4c5b03 in DynamoDB.
+2024-11-21 00:58:35,190 - INFO - create
+2024-11-21 00:58:35,280 - INFO - Created item with id 4bde90c6-3530-429e-a739-8b28978cbede in DynamoDB.
+2024-11-21 00:58:35,368 - INFO - update
+2024-11-21 00:58:35,633 - INFO - update
+2024-11-21 00:58:35,904 - INFO - create
+2024-11-21 00:58:35,996 - INFO - Created item with id 232a63ac-8075-40f6-8061-21063f43c166 in DynamoDB.
+2024-11-21 00:58:36,083 - INFO - delete
+2024-11-21 00:58:36,173 - INFO - Deleted item with id 7eb11efe-5680-40ff-9cd1-f482d3a4b488 from DynamoDB.
+2024-11-21 00:58:36,259 - INFO - update
+2024-11-21 00:58:36,525 - INFO - update
+2024-11-21 00:58:36,790 - INFO - update
+2024-11-21 00:58:37,054 - INFO - update
+2024-11-21 00:58:37,417 - INFO - update
+2024-11-21 00:58:37,685 - INFO - create
+2024-11-21 00:58:37,776 - INFO - Created item with id 1f64b3e0-7684-483b-b5c4-1f42bb2926c0 in DynamoDB.
+2024-11-21 00:58:37,863 - INFO - update
+2024-11-21 00:58:38,135 - INFO - create
+2024-11-21 00:58:38,228 - INFO - Created item with id 812b93b1-eecd-4b8a-9174-0bba12394be9 in DynamoDB.
+2024-11-21 00:58:38,319 - INFO - delete
+2024-11-21 00:58:38,413 - INFO - Deleted item with id ce4081d0-34e0-46ff-9187-8e243ebdabae from DynamoDB.
+2024-11-21 00:58:38,500 - INFO - create
+2024-11-21 00:58:38,591 - INFO - Created item with id 912f09f9-194e-4e5e-b278-850018ee481e in DynamoDB.
+2024-11-21 00:58:38,677 - INFO - create
+2024-11-21 00:58:38,767 - INFO - Created item with id bdbb13d5-070d-46af-b160-2d3be5fcb848 in DynamoDB.
+2024-11-21 00:58:38,853 - INFO - create
+2024-11-21 00:58:38,944 - INFO - Created item with id 64ace48b-f2d7-4b76-bef7-45f79adf4db5 in DynamoDB.
+2024-11-21 00:58:39,036 - INFO - delete
+2024-11-21 00:58:39,128 - INFO - Deleted item with id b1ed77a1-dda0-4313-8ead-eab9e2c9400b from DynamoDB.
+2024-11-21 00:58:39,215 - INFO - update
+2024-11-21 00:58:39,599 - INFO - create
+2024-11-21 00:58:39,690 - INFO - Created item with id 933911ab-6776-4197-99fc-8023d581dcaf in DynamoDB.
+2024-11-21 00:58:39,776 - INFO - create
+2024-11-21 00:58:39,869 - INFO - Created item with id 45b1456a-2bc0-4d80-9eda-47865f99d526 in DynamoDB.
+2024-11-21 00:58:39,958 - INFO - create
+2024-11-21 00:58:40,051 - INFO - Created item with id b6335a84-3272-4a09-8e59-2362d198707b in DynamoDB.
+2024-11-21 00:58:40,142 - INFO - update
+2024-11-21 00:58:40,505 - INFO - create
+2024-11-21 00:58:40,597 - INFO - Created item with id 29eacaaa-c5a3-4f61-b00e-7ff8019581e5 in DynamoDB.
+2024-11-21 00:58:40,683 - INFO - create
+2024-11-21 00:58:40,774 - INFO - Created item with id 379534f1-4767-4658-ab8e-7e26883162b1 in DynamoDB.
+2024-11-21 00:58:40,860 - INFO - create
+2024-11-21 00:58:40,950 - INFO - Created item with id ccff5f63-a4e3-47a0-8f56-bc0a2f2827e2 in DynamoDB.
+2024-11-21 00:58:41,036 - INFO - update
+2024-11-21 00:58:41,307 - INFO - create
+2024-11-21 00:58:41,397 - INFO - Created item with id 6aff1d7b-9b20-437c-b896-45400bd6c64f in DynamoDB.
+2024-11-21 00:58:41,484 - INFO - delete
+2024-11-21 00:58:41,575 - INFO - Deleted item with id 90c25620-0ecf-4dd0-8710-3fd0237a6ec7 from DynamoDB.
+2024-11-21 00:58:41,661 - INFO - update
+2024-11-21 00:58:41,927 - INFO - update
+2024-11-21 00:58:42,193 - INFO - update
+2024-11-21 00:58:42,464 - INFO - create
+2024-11-21 00:58:42,555 - INFO - Created item with id d26dd93b-6193-4926-bf9b-338d230f1aa0 in DynamoDB.
+2024-11-21 00:58:42,751 - INFO - create
+2024-11-21 00:58:42,841 - INFO - Created item with id 5a1f8fa6-aa1d-4298-ab47-0a367078b871 in DynamoDB.
+2024-11-21 00:58:42,927 - INFO - update
+2024-11-21 00:58:43,317 - INFO - update
+2024-11-21 00:58:43,590 - INFO - create
+2024-11-21 00:58:43,680 - INFO - Created item with id 4d357b18-9042-4626-9b2f-3dc6ed9f4876 in DynamoDB.
+2024-11-21 00:58:43,767 - INFO - create
+2024-11-21 00:58:43,861 - INFO - Created item with id e850a5a7-8520-41ba-b3f1-6a5da774ea89 in DynamoDB.
+2024-11-21 00:58:43,947 - INFO - create
+2024-11-21 00:58:44,039 - INFO - Created item with id 2d099882-34b1-49c7-bab4-4dd0961c2e4e in DynamoDB.
+2024-11-21 00:58:44,248 - INFO - create
+2024-11-21 00:58:44,338 - INFO - Created item with id cdf30e28-da48-4f11-9add-a1fca53ec566 in DynamoDB.
+2024-11-21 00:58:44,424 - INFO - create
+2024-11-21 00:58:44,514 - INFO - Created item with id de464939-b795-45c6-bf3b-1f487aa2da00 in DynamoDB.
+2024-11-21 00:58:44,599 - INFO - update
+2024-11-21 00:58:44,867 - INFO - create
+2024-11-21 00:58:44,957 - INFO - Created item with id 2e859111-7c2b-4bbd-85d7-81bd5ec3914e in DynamoDB.
+2024-11-21 00:58:45,045 - INFO - create
+2024-11-21 00:58:45,135 - INFO - Created item with id 0a10ad15-d426-43c5-9d3e-47a5dfa6b07c in DynamoDB.
+2024-11-21 00:58:55,316 - INFO - No messagessss
+2024-11-21 00:59:05,503 - INFO - No messagessss
+2024-11-21 00:59:15,690 - INFO - No messagessss

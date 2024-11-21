@@ -52,7 +52,7 @@ class S3RequestHandler:
             self.s3_client.delete_object(Bucket=self.target_bucket, Key=key)
             logging.info(f'Deleted object {key} from bucket {self.target_bucket}')
         except self.s3_client.exceptions.NoSuchKey:
-            print(f'Object {key} does not exist in bucket {self.target_bucket}. Nothing to delete.')
+            logging.error(f'Object {key} does not exist in bucket {self.target_bucket}. Nothing to delete.')
 
     def update_object(self, body, key):
         """Update an object in the target S3 bucket."""
@@ -68,7 +68,7 @@ class S3RequestHandler:
             self.s3_client.put_object(Bucket=self.target_bucket, Key=key, Body=json.dumps(updated_data))
             logging.info(f'Updated object {key} in bucket {self.target_bucket}')
         except self.s3_client.exceptions.NoSuchKey:
-            print(f'Object {key} does not exist in bucket {self.target_bucket}. Creating a new object.')
+            logging.warning(f'Object {key} does not exist in bucket {self.target_bucket}. Creating a new object.')
             self.create_object(body, key)
         except Exception as e:
             logging.error(f"Failed to update object {key} in bucket {self.target_bucket}: {e}")
