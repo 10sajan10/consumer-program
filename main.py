@@ -20,34 +20,47 @@ logging.basicConfig(level=logging.INFO,
                     ])
 
 parser = argparse.ArgumentParser(description="Process source and target S3 bucket names and DynamoDB table name.")
-parser.add_argument('-ss', '--storage', type=str, required=True, help="Storage Strategy (S3 or DynamoDB).")
-parser.add_argument('-rb', '--source', type=str, required=True, help="The name of the request S3 bucket.")
+parser.add_argument('-rb', '--sourcebucket', type=str, default=None,required=False, help="The name of the request S3 bucket.")
+parser.add_argument('-rq', '--sourcequeue', type=str, default=None,required=False, help="The name of the request S3 bucket.")
 parser.add_argument('-wb', '--target', type=str, default=None, required=False, help="The name of the widgets S3 bucket.")
 parser.add_argument('-dt', '--dynamodb', type=str, default=None, required=False, help="The name of the DynamoDB table.")
 args = parser.parse_args()
 
-storage = args.storage
-request_bucket = args.source
+request_queue = args.sourcequeue
+request_bucket = args.sourcebucket
 widget_bucket = args.target
 table_name = args.dynamodb
 
 def main():
-    if storage == "S3":
-        if widget_bucket:
-            logging.info(f"Processing S3 requests with widget bucket: {widget_bucket}")
-            s3_handler = S3RequestHandler(widget_bucket)
-            s3_handler.process_requests(request_bucket)
-        else:
-            logging.error("Widget Bucket name is required for S3 storage")
-    elif storage == "DynamoDB":
-        if table_name:
-            logging.info(f"Processing DynamoDB requests with table: {table_name}")
-            dynamodb_handler = DynamoDBRequestHandler(table_name)
-            dynamodb_handler.process_requests(request_bucket)
-        else:
-            logging.error("DynamoDB table name is required for DynamoDB storage")
+    if request_bucket and widget_bucket:
+        logging.info(
+            f"Processing requests from source S3 bucket: {request_bucket} to target S3 bucket: {widget_bucket}")
+        s3_handler = S3RequestHandler(widget_bucket)
+        s3_handler.process_request_from_s3(request_bucket)
+
+        # S3 to DynamoDB
+    elif table_name and request_bucket:
+        logging.info(f"Processing requests from S3 bucket: {request_bucket} to DynamoDB table: {table_name}")
+        dynamodb_handler = DynamoDBRequestHandler(table_name)
+        dynamodb_handler.process_request_from_s3(request_bucket)
+
+        # SQS to DynamoDB
+    elif table_name and request_queue:
+        logging.info(f"Processing requests from SQS queue: {request_queue} to DynamoDB table: {table_name}")
+        dynamodb_handler = DynamoDBRequestHandler(table_name)
+        dynamodb_handler.process_request_from_queue(request_queue)
+
+        # SQS to S3
+    elif widget_bucket and request_queue:
+        logging.info(f"Processing requests from SQS queue: {request_queue} to target S3 bucket: {widget_bucket}")
+        s3_handler = S3RequestHandler(widget_bucket)
+        s3_handler.process_request_from_queue(request_queue)
+
     else:
-        logging.error("Invalid storage strategy. Please provide either 'S3' or 'DynamoDB'.")
+        logging.error("Insufficient arguments provided. Please specify required arguments for processing.")
 
 if __name__ == "__main__":
-    main()
+    try:
+        main()
+    except Exception as e:
+        logging.error(f"An error occurred: {e}")

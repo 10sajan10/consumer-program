@@ -149,4 +149,4 @@ class S3RequestHandler:
             logging.info("No new requests for 3 ReTries. Stopping processing.")
 
 
-S3RequestHandler('usu-cs5250-sajan-web').process_request_from_s3('usu-cs5250-sajan-requests')
+

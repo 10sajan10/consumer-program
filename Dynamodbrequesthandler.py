@@ -94,7 +94,7 @@ class DynamoDBRequestHandler:
         except Exception as e:
             logging.error(f"Failed to update item with id {widget_id}: {e}")
 
-    def process_requests_from_s3(self, source_bucket):
+    def process_request_from_s3(self, source_bucket):
         """
         Continuously process requests from the source bucket until a stop condition is met.
 
@@ -164,6 +164,3 @@ class DynamoDBRequestHandler:
                     cumulative_wait_time += 1  # Increment cumulative wait time
 
             print("No new requests for 3 ReTries. Stopping processing.")
-
-
-DynamoDBRequestHandler('widgets').process_requests_from_s3('usu-cs5250-sajan-requests')
