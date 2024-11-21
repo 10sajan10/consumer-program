@@ -132,6 +132,9 @@ Handles the creation, update, and deletion of widget items in a DynamoDB table. 
 ### S3RequestAndObjectReceiver
 Utility module responsible for reading and fetching the smallest request object from the source S3 bucket. This module ensures efficient retrieval of requests for processing.
 
+### SQSRequestReceiver
+Handles the retrieval of widget operation requests from an AWS SQS queue. This module ensures efficient fetching of messages for further processing.
+
 ## Contributing
 Feel free to open issues or submit pull requests if you'd like to contribute to this project. Make sure to write appropriate tests and documentation for your changes.
 
@@ -139,5 +142,5 @@ Feel free to open issues or submit pull requests if you'd like to contribute to 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Contact
-For any inquiries or further assistance, please contact Sajan at sajan.neupane@usu.edu .
+For any inquiries or further assistance, please contact Sajan at sajan.neupane@usu.edu/sajanneupane137@gmail.com .
 
