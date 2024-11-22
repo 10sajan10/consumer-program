@@ -5,7 +5,7 @@ import logging
 class SQSRequestReceiver:
 
     def __init__(self, url):
-        self.sqs_client = boto3.client('sqs')
+        self.sqs_client = boto3.client('sqs', region_name='us-east-1')
         self.url = url
 
     def retrieve_messages_from_queue(self,maxno=20):
